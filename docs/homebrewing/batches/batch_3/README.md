@@ -69,3 +69,4 @@
 |  11 | 17-04-2021 | 223 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with decent foam head. Moderate carbonation. A light grassy taste, less boozy and a dry mouthfeel. |
 |  12 | 08-05-2021 | 244 |  2.75 | |
 |  13 | 06-06-2021 | 273 |  2.50 | Cooled and served @ 12 C. Opening the swing-top gave a puff. Poured clear with small foam head. Moderate carbonation. A grassy taste, boozy and a dry mouthfeel. |
+|  14 | 10-11-2024 |1526 |  2.50 | Cooled and served @ 13 C. Opening the swing-top gave a very light puff. Poured clear with no foam head. Almost absent carbonation. A grassy taste, a tiny bit boozy and a dry mouthfeel. |
