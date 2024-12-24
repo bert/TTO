@@ -73,6 +73,6 @@ Archived.
 |   9 | 02-03-2023 | 557 |       | Tasting by Clibit pending |
 |  10 | 28-04-2023 | 614 |  3.25 | Served at 17 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity. |
 |  11 | 19-05-2023 | 635 |  3.25 | Served at 13 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity. |
-|  12 |            |     |       |  |
+|  12 | 24-11-2024 | 1190 | 3.25 | Served at 20.3 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity. |
 |  13 |            |     |       |  |
 

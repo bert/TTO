@@ -1,7 +1,8 @@
 # Batch 14: The Thirsty Otter - 09 SMaSH Sabro
 #
-#Age  pH    Temp  Remarks  (Age in days, 0 = bottling day)
-   0  4.46  20.6
- 523  4.44  17.8
- 624  4.39  17.1
- 635  4.37  12.3
+#Age   pH    Temp  Remarks  (Age in days, 0 = bottling day)
+    0  4.46  20.6
+  523  4.44  17.8
+  614  4.39  17.1
+  635  4.37  12.3
+ 1190  4.41  20.3
