@@ -1,4 +1,4 @@
-# Batch #4 - 04 SMaSH Fuggle
+# Batch #4 - SMaSH Fuggle
 
 ## Milestones
 
@@ -24,7 +24,7 @@
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_4_04_SMaSH_Fuggle_results.pdf)
+[Results](./Batch_4_SMaSH_Fuggle_results.pdf)
 
 ## Evaluation
 
