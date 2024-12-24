@@ -1,6 +1,6 @@
 # Batch #6: Brouwpunt - Sinterklaas Special
 #
 #Age  pH    Temp  Remarks  (Age in days, 0 = bottling day)
-740   3.97  6      16.4  30.2
-852   3.97  6      16.8  30.2
+740   3.97  16.4
+852   3.97  16.8
 
