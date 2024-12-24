@@ -51,7 +51,7 @@ Archived.
 | Color                   | 8.7    | 7.9   | -0.8   | EBC  |
 | Mash pH:                | 5.38   | 5.5   | +0.12  |      |
 
-## [Tasting notes](./20210702_Batch_10_Three_Hops_Blonde_BJCP_Scoresheet-1_14.pdf)
+## Tasting notes
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
