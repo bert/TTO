@@ -151,6 +151,7 @@
 20  22-07-2022  05-08-2022  3  # Carbonation
 20  05-08-2022  02-09-2022  4  # Conditioning
 20  02-09-2022  02-09-2022  5  # Completed
+20  15-12-2024  15-12-2024  7  # Archived
 
 # Never Give Up! v3
 21  03-07-2022  03-07-2022  1  # Brewing
@@ -186,6 +187,7 @@
 25  23-11-2022  07-12-2022  3  # Carbonation
 25  07-12-2022  04-01-2023  4  # Conditioning
 25  04-01-2023  04-01-2023  5  # Completed
+25  20-07-2024  20-07-2024  7  # Archived
 
 # Two Pints and a Packet of Hops (Fuggle and Progress)
 26  06-11-2022  06-11-2022  1  # Brewing
@@ -268,9 +270,31 @@
 38  26-06-2023  04-07-2023  2  # Fermenting
 38  04-07-2023  18-07-2023  3  # Carbonation
 
-# Wet Hops Blonde (Willamette) v2
+# Wet Hops Blonde (Willamette) v2 (2023)
 39  17-09-2023  17-09-2023  1  # Brewing
 39  18-09-2023  02-10-2023  2  # Fermenting
 39  02-10-2023  16-10-2023  3  # Carbonation
 39  16-10-2023  13-11-2023  4  # Conditioning
 39  13-11-2023  x  5  # Completed
+
+# Wet Hops Blonde (Willamette) v2 (2024)
+40  15-09-2024  15-09-2024  1  # Brewing
+40  16-09-2024  01-10-2024  2  # Fermenting
+40  01-10-2024  14-10-2024  3  # Carbonation
+40  14-10-2024  12-11-2024  4  # Conditioning
+
+# Refuse/Resist (Ukrainian Golden Ale)
+41  25-11-2024  25-11-2024  1  # Brewing
+41  26-11-2024  15-12-2024  2  # Fermenting
+41  15-12-2024  29-12-2024  3  # Carbonation
+
+# Refuse/Resist (Ukrainian Golden Ale) v2
+42  25-11-2024  25-11-2024  1  # Brewing
+42  26-11-2024  13-12-2024  2  # Fermenting
+42  13-12-2024  27-12-2024  3  # Carbonation
+
+# Refuse/Resist (Ukrainian Golden Ale) v3
+43  25-11-2024  25-11-2024  1  # Brewing
+43  26-11-2024  13-12-2024  2  # Fermenting
+43  13-12-2024  27-12-2024  3  # Carbonation
+

@@ -1,6 +1,6 @@
 # general settings
-NUM_BATCHES = 39
-HEIGTH = 20 * NUM_BATCHES
+NUM_BATCHES = 43
+HEIGTH = (20 * (NUM_BATCHES+1))
 # setup graph
 set term png size 1600,HEIGTH
 output_file = "milestones.png"
@@ -12,7 +12,7 @@ set style data lines
 set timefmt "%d-%m-%Y"
 
 set ylabel "Batch #"
-set yrange [0:NUM_BATCHES]
+set yrange [0:NUM_BATCHES+1]
 set grid y
 set ytics 1
 
@@ -51,7 +51,7 @@ set style data lines
 set timefmt "%d-%m-%Y"
 
 set ylabel "Batch #"
-set yrange [0:NUM_BATCHES]
+set yrange [0:NUM_BATCHES+1]
 set grid y
 set ytics 1
 
@@ -91,7 +91,7 @@ set style data lines
 set timefmt "%d-%m-%Y"
 
 set ylabel "Batch #"
-set yrange [0:NUM_BATCHES]
+set yrange [0:NUM_BATCHES+1]
 set grid y
 set ytics 1
 
@@ -131,7 +131,7 @@ set style data lines
 set timefmt "%d-%m-%Y"
 
 set ylabel "Batch #"
-set yrange [0:NUM_BATCHES]
+set yrange [0:NUM_BATCHES+1]
 set grid y
 set ytics 1
 
@@ -171,7 +171,7 @@ set style data lines
 set timefmt "%d-%m-%Y"
 
 set ylabel "Batch #"
-set yrange [0:NUM_BATCHES]
+set yrange [0:NUM_BATCHES+1]
 set grid y
 set ytics 1
 
@@ -183,6 +183,46 @@ set autoscale x
 set xdata time
 set format x "%m-%Y"
 set xrange ["01-01-2023":"31-12-2023"]
+
+plot "milestones.data" using 2:1:2:(0.0):4 with vectors lw 7 lc variable notitle, \
+    keyentry with point lc 1 lt 5 title "Brewing", \
+    keyentry with point lc 2 lt 5 title "Start Fermentation", \
+    keyentry with point lc 3 lt 5 title "Start Carbonation", \
+    keyentry with point lc 4 lt 5 title "Start Conditioning", \
+    keyentry with point lc 5 lt 5 title "Completed Conditioning", \
+    keyentry with point lc 7 lt 5 title "Archived"
+
+# set output back to default
+set output
+
+# reset terminal type
+set terminal pop
+
+######
+
+# setup graph
+set term png size 1200,HEIGTH
+output_file = "2024_milestones.png"
+set output output_file
+set key outside right center vertical Left reverse enhanced autotitle nobox
+
+set title "Milestones 2024"
+set style data lines
+set timefmt "%d-%m-%Y"
+
+set ylabel "Batch #"
+set yrange [0:NUM_BATCHES+1]
+set grid y
+set ytics 1
+
+set xlabel "\n\nDate"
+set grid x
+set bmargin 6
+set xtic  offset 0.5,-3.0 rotate by 90
+set autoscale x
+set xdata time
+set format x "%m-%Y"
+set xrange ["01-01-2024":"31-12-2024"]
 
 plot "milestones.data" using 2:1:2:(0.0):4 with vectors lw 7 lc variable notitle, \
     keyentry with point lc 1 lt 5 title "Brewing", \
