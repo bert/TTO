@@ -1,4 +1,4 @@
-# Batch #5 - 05 SMaSH Centennial
+# Batch #5 - SMaSH Centennial
 
 ## Milestones
 
@@ -24,7 +24,7 @@
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_5_05_SMaSH_Centennial_results.pdf)
+[Results](./Batch_5_SMaSH_Centennial_results.pdf)
 
 ## Evaluation
 
@@ -52,7 +52,7 @@
 | Color                   | 9.3    | 9.5   | +0.2   | EBC  |
 | Mash pH:                | 5.40   | 5.5   | +0.1   |      |
 
-## [Tasting notes](./Batch_5_05_SMaSH_Centennial_BJCP_Scoresheet.pdf)
+## Tasting notes
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
