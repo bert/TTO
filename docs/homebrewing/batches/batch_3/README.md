@@ -50,7 +50,7 @@
 | Color                   | 8.7    | 8.7   |  0.0   | EBC  |
 | Mash pH:                | 5.42   | 5.5   | +0.08  |      |
 
-## [Tasting notes](./Batch_3_SMaSH_Godiva_BJCP_Scoresheet_1_13.pdf)
+## Tasting notes
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
