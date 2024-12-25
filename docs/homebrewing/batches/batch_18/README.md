@@ -22,27 +22,23 @@
 
 ![conditioning](conditioning.png)
 
+![bottled pH](bottled_ph.png)
+
 [Results](./Batch_18_Three_Hops_Blonde_v3_results.pdf)
 
 ### Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Pre-Boil Volume:        |        |       |        | L    |
-| Post-Boil Volume (HOT): |        |       |        | L    |
-| Boil Off per Hour:      |        |       |        | L    |
 | Batch Volume:           | 1.2    | 1.0   | -0.2   | L    |
-| Trub/Chiller Loss:      |        |       |        | L    |
-| Bottling Volume:        | 1.2    |       |        | L    |
-| Pre-Boil Gravity:       |        |       |        |      |
-| Post-Boil Gravity:      |        |       |        |      |
+| Trub/Chiller Loss:      | 0.6    | 0.8   | +0.2   | L    |
+| Bottling Volume:        | 1.2    | 0.66  | -0.54  | L    |
 | Original Gravity:       | 1.040  | 1.042 | +0.002 |      |
 | Total Gravity:          | 1.042  | 1.044 | +0.002 |      |
-| Final Gravity:          | 1.008  |       |        |      |
-| Alcohol By Volume:      | 4.6    |       |        | %    |
-| Apparent Attenuation:   | 82.8   |       |        | %    |
-| Mash Efficiency:        |        |       |        | %    |
-| Brewhouse Efficiency:   |        |       |        | %    |
+| Final Gravity:          | 1.007  | 1.008 | +0.001 |      |
+| Alcohol By Volume:      | 4.6    | 5.0   | +0.4   | %    |
+| Apparent Attenuation:   | 82.8   | 82.0  | -0.8   | %    |
+| Brewhouse Efficiency:   | 53     | 46    | -6     | %    |
 | IBU:                    | 24     | 22    | -2     |      |
 | BU/GU Ratio:            | 0.56   | 0.50  | -0.06  |      |
 | RB Ratio:               | 0.60   | 0.54  | -0.06  |      |
