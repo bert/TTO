@@ -30,21 +30,15 @@
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Pre-Boil Volume:        |        |       |        | L    |
-| Post-Boil Volume (HOT): |        |       |        | L    |
-| Boil Off per Hour:      |        |       |        | L    |
 | Batch Volume:           | 1.2    | 1.0   | -0.2   | L    |
-| Trub/Chiller Loss:      |        |       |        | L    |
+| Trub/Chiller Loss:      | 0.6    | 0.8   | +0.2   | L    |
 | Bottling Volume:        | 1.2    | 0.66  | -0.54  | L    |
-| Pre-Boil Gravity:       |        |       |        |      |
-| Post-Boil Gravity:      |        |       |        |      |
 | Original Gravity:       | 1.040  | 1.042 | +0.002 |      |
 | Total Gravity:          | 1.042  | 1.046 | +0.002 |      |
 | Final Gravity:          | 1.008  | 1.005 | -0.003 |      |
 | Alcohol By Volume:      | 4.5    | 5.4   | +0.9   | %    |
 | Apparent Attenuation:   | 80.4   | 88.7  | +8.3   | %    |
-| Mash Efficiency:        |        |       |        | %    |
-| Brewhouse Efficiency:   |        |       |        | %    |
+| Brewhouse Efficiency:   | 53     | 46    | -6     | %    |
 | IBU:                    | 24     | 22    | -2     |      |
 | BU/GU Ratio:            | 0.56   | 0.49  | -0.07  |      |
 | RB Ratio:               | 0.58   | 0.53  | -0.05  |      |
