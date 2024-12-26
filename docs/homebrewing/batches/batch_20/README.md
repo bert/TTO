@@ -8,9 +8,9 @@
 
 22-07-2022 20:00 Start conditioning.
 
-Completed conditioning.
+02-09-2022 23:59 Completed conditioning.
 
-Archived.
+15-12-2024 17:34 Archived.
 
 ## Process
 
@@ -23,6 +23,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![bottled_ph](bottled_ph.png)
 
 [Results](./Batch_20_Never_Give_Up_v2_results.pdf)
 
@@ -48,7 +50,6 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 03-07-2022 |   0 |       | Brew day. |
-|     | 22-07-2022 |  19 |       | Bottling day. |
-|   1 | 09-10-2022 |  98 | 2.50  | Served @ 11.3 C. Strong, warm, yeasty, malty, not much hop flavours. Low carbonation. |
-|   2 |            |     |       |  |
+|     | 22-07-2022 |   0 |       | Bottling day. |
+|   1 | 09-10-2022 |  79 | 2.50  | Served @ 11.3 C. Strong, warm, yeasty, malty, not much hop flavours. Low carbonation. |
+|   2 | 15-12-2024 | 877 | 2.50  | Served @ 17.8 C. Strong, warm, yeasty, malty, not much hop flavours. Low carbonation. This bottle gave hop gunk during pouring. |
