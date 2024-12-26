@@ -24,6 +24,8 @@ Archived.
 
 ![conditioning](conditioning.png)
 
+![bottled_ph](bottled_ph.png)
+
 [Results](./Batch_22_Wet_Hops_Blonde_Ale_Bramling-X_results.pdf)
 
 ### Evaluation
@@ -55,10 +57,9 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 04-09-2022 |   0 |       | Brew day. |
-|     | 18-09-2022 |  13 |       | Bottling day. |
-|   1 | 01-12-2022 |  88 | 3.25  | Served at 16.7 C. Malty, yeasty, fruity. Nice white head that dissolves quickly. |
-|   2 | 14-01-2023 | 132 | 3.25  | Served at 16.9 C. Malty, yeasty, fruity. Nice white head that lingers. |
+|     | 18-09-2022 |   0 |       | Bottling day. |
+|   1 | 01-12-2022 |  74 | 3.25  | Served at 16.7 C. Malty, yeasty, fruity. Nice white head that dissolves quickly. |
+|   2 | 14-01-2023 | 118 | 3.25  | Served at 16.9 C. Malty, yeasty, fruity. Nice white head that lingers. |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
