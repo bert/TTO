@@ -24,6 +24,8 @@ Archived.
 
 ![conditioning](conditioning.png)
 
+![bottled_ph](bottled_ph.png)
+
 [Results](./Batch_21_Never_Give_Up_v3_results.pdf)
 
 ### Evaluation
@@ -48,7 +50,6 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 03-07-2022 |   0 |       | Brew day. |
-|     | 22-07-2022 |  19 |       | Bottling day. |
-|   1 | 13-10-2022 | 102 | 3.0   | Served at 14.8 C. Strong, full, warm, hoppy. Low carbonation. |
+|     | 22-07-2022 |   0 |       | Bottling day. |
+|   1 | 13-10-2022 |  83 | 3.0   | Served at 14.8 C. Strong, full, warm, hoppy. Low carbonation. |
 |   2 |            |     |       |  |
