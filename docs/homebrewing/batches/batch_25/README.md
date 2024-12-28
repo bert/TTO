@@ -49,7 +49,6 @@
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 06-11-2022 |   0 |       | Brew day. |
-|     | 23-11-2022 |  17 |       | Bottling day. |
-|   1 | 29-12-2022 |  53 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
-|   2 | 20-07-2024 | 622 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
+|     | 23-11-2022 |   0 |       | Bottling day. |
+|   1 | 29-12-2022 |  36 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
+|   2 | 20-07-2024 | 605 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
