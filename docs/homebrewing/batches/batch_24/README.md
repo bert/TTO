@@ -26,6 +26,8 @@ Archived.
 
 ![conditioning](conditioning.png)
 
+![bottled_ph](bottled_ph.png)
+
 [Results](./Batch_24_Five_Pints_of_Best_Fuggles_results.pdf)
 
 ### Evaluation
@@ -57,12 +59,11 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 06-11-2022 |   0 |       | Brew day. |
-|     | 27-11-2022 |  21 |       | Bottling day. |
-|   1 | 15-12-2022 |  39 | 3.25  | Served @ 16.8 C. Sweet, Malty, Strong. Mild on hops. Good retention. |
-|   2 | 02-03-2023 | 116 |       | Tasting by Clibit pending |
-|   3 | 02-03-2023 | 116 |       | Tasting by Clibit pending |
-|   4 |            |     |       |  |
+|     | 27-11-2022 |   0 |       | Bottling day. |
+|   1 | 15-12-2022 |  18 | 3.25  | Served @ 16.8 C. Sweet, Malty, Strong. Mild on hops. Good retention. |
+|   2 | 02-03-2023 |  95 |       | Tasting by Clibit pending |
+|   3 | 02-03-2023 |  95 |       | Tasting by Clibit pending |
+|   4 | 26-10-2024 | 699 |       | Tasting by EV pending. |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
