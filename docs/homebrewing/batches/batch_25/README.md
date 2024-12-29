@@ -24,6 +24,8 @@
 
 ![conditioning](conditioning.png)
 
+![bottled_ph](bottled_ph.png)
+
 [Results](./Batch_25_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings_results.pdf)
 
 ### Evaluation
