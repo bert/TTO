@@ -50,7 +50,6 @@
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 15-01-2023 |     |       | Brew day. |
 |     | 29-01-2023 |   0 |       | Bottling day. |
 |   1 | 23-03-2023 |  53 |  0.5  | Served @ 18.8 C. Gusher, acidic, gunks of hop. Not a good one. Plonk beer. |
 |   2 | 29-12-2023 | 334 |  0.5  | Served @ 16.7 C. Gusher, acidic, gunks of hop. Not a good one. Plonk beer. |
