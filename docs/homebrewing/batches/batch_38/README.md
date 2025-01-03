@@ -36,25 +36,19 @@ Archived.
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Pre-Boil Volume:        |        |       |        | L    |
-| Post-Boil Volume (HOT): |        |       |        | L    |
-| Boil Off per Hour:      |        |       |        | L    |
-| Batch Volume:           |        |       |        | L    |
-| Trub/Chiller Loss:      |        |       |        | L    |
-| Bottling Volume:        |        |       |        | L    |
-| Pre-Boil Gravity:       |        |       |        |      |
-| Post-Boil Gravity:      |        |       |        |      |
-| Original Gravity:       |        |       |        |      |
-| Final Gravity:          |        |       |        |      |
-| Alcohol By Volume:      |        |       |        | %    |
-| Apparent Attenuation:   |        |       |        | %    |
-| Mash Efficiency:        |        |       |        | %    |
-| Brewhouse Efficiency:   |        |       |        | %    |
-| IBU:                    |        |       |        |      |
-| BU/GU Ratio:            |        |       |        |      |
-| RB Ratio:               |        |       |        |      |
-| Color                   |        |       |        | EBC  |
-| Mash pH:                |        |       |        |      |
+| Batch Volume:           | 1.2    | 1.0   | -0.2   | L    |
+| Trub/Chiller Loss:      | 0      | 0     | 0      | L    |
+| Bottling Volume:        | 1.2    | 1.0   | -0.2   | L    |
+| Original Gravity:       | 1.062  | 1.045 | -0.017 |      |
+| Total Gravity:          | 1.063  | 1.047 | -0.016 |      |
+| Final Gravity:          | 1.014  | 1.010 | -0.004 |      |
+| Alcohol By Volume:      | 6.4    | 4.9   | -1.5   | %    |
+| Apparent Attenuation:   | 76.8   | 78.0  | +1.2   | %    |
+| Brewhouse Efficiency:   | 53     | 32    | -21    | %    |
+| IBU:                    | 6      | 14    | +8     |      |
+| BU/GU Ratio:            | 0.10   | 0.29  | +0.19  |      |
+| RB Ratio:               | 0.10   | 0.29  | +0.19  |      |
+| Color                   | 11.8   | 18.1  | +6.3   | EBC  |
 
 ## Tasting notes
 
