@@ -59,12 +59,11 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 17-09-2023 |     |       | Brew day. |
 |     | 02-10-2023 |   0 |       | Bottling day. |
 |   1 | 02-05-2024 | 213 | 3.50  | Served @ 23.2 C. Clear, small foamy head, good lacing, hoppy, fruity, berries, strong. |
 |   2 | 10-08-2024 | 313 | 3.50  | Served @ 20.0 C. Clear, small foamy head, good lacing, hoppy, fruity, berries, strong. |
-|   3 |  |  |  |  |
-|   4 |  |  |  |  |
+|   3 | 26-10-2024 | 390 |  | Tasting by EV pending. |
+|   4 | 14-12-2024 | 439 | 3.25  | Served @ 19.2 C. Clear, small foamy head, good lacing, hoppy, fruity, berries. |
 |   5 |  |  |  |  |
 |   6 |  |  |  |  |
 |   7 |  |  |  |  |
