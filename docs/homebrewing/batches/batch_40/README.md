@@ -1,4 +1,4 @@
-# Batch #40 - Wet Hops Blonde Ale (Willamette) v2
+# Batch #40 - Wet Hops Blonde Ale (Willamette) v2 (2024)
 
 ## Milestones
 
@@ -54,9 +54,8 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 15-09-2024 |     |       | Brew day. |
 |     | 30-09-2024 |   0 |       | Bottling day. |
-|   1 |  |  |  |  |
+|   1 | 23-11-2024 |  53 | 3.0   | Served at 17.7 C. Light bodied, grainy, biscuity. |
 |   2 |  |  |  |  |
 |   3 |  |  |  |  |
 |   4 |  |  |  |  |
