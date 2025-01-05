@@ -24,6 +24,8 @@ Archived.
 
 ![conditioning](conditioning.png)
 
+![bottled pH](bottled_ph.png)
+
 [Results](./Batch__results.pdf)
 
 ### Evaluation
@@ -49,3 +51,9 @@ Archived.
 | RB Ratio:               |        |       |        |      |
 | Color                   |        |       |        | EBC  |
 | Mash pH:                |        |       |        |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     |            |   0 |       | Bottling day. |
