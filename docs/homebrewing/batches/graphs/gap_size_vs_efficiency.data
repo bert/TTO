@@ -1,8 +1,14 @@
 # Gap size [mm]  Mash efficiency [%]  Batch comment
-1.91             70                   15    # batch 15 Wet Hops Blonde Ale (Chinook)
-1.91             62                   19    # batch 19 Never Give Up!
-1.91             65                   22    # batch 22 Wet Hops Blonde (Bramling-X)
-1.91             61                   23    # batch 23 Wet Hops Blonde (Willamette)
-1.91             52                   27    # batch 27 SMaSH Godiva v2
+1.91             70                   15    # Batch 15 Wet Hops Blonde Ale (Chinook)
+1.91             62                   19    # Batch 19 Never Give Up!
+1.91             65                   22    # Batch 22 Wet Hops Blonde (Bramling-X)
+1.91             61                   23    # Batch 23 Wet Hops Blonde (Willamette)
+1.91             52                   27    # Batch 27 SMaSH Godiva v2
+1.40             88                   30    # Batch 30 AnOtter Bodged Bitter
+1.14             68                   33    # Batch 33 SMaSH Fuggle v2
+1.14             59                   36    # Batch 36 Juniper Ascending
+1.14             66                   39    # Batch 39 Wet Hops Blonde (Willamette) v2 (2023)
+1.14             73                   40    # Batch 40 Wet Hops Blonde (Willamette) v2 (2024)
+1.14             74                   41    # Batch 41 refuse/Resist (Ukrainian Golden Ale)
 # EOF #
 
