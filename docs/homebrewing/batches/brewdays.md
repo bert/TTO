@@ -186,7 +186,7 @@
 
 <hr>
 
-## Planned:
+## 28-03-2025:
 
 - Batch #44 AnOtter Chocolate Caramel Biscuit
 
