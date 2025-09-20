@@ -8,13 +8,15 @@
 
 13-12-2014 17:14 Start conditioning.
 
-Completed conditioning.
+24-01-2025 23:59 Completed conditioning.
 
 Archived.
 
 ## Process
 
 ![temperature](temperature.png)
+
+![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
 
@@ -51,6 +53,6 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 13-12-2024 |   0 |       | Bottling day. |
-|   1 |  |  |  |  |
+|   1 | 06-03-2025 |  83 |  3.25 | Partly filled bottle. Biscuity, strong, slight hint of Coriander. Low carbonation. |
 |   2 |  |  |  |  |
 |   3 |  |  |  |  |
