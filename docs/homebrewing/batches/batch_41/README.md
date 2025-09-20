@@ -2,19 +2,21 @@
 
 ## Milestones
 
-25-11-2024 Start brewing.
+25-11-2024 10:45 Start brewing.
 
-26-11-2024 Start fermentation.
+26-11-2024 09:07 Start fermentation.
 
-15-12-2024 Start conditioning.
+15-12-2024 15:38 Start conditioning.
 
-Completed conditioning.
+26-01-2025 23:59 Completed conditioning.
 
 Archived.
 
 ## Process
 
 ![temperature](temperature.png)
+
+![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
 
@@ -42,14 +44,14 @@ Archived.
 | Post-Boil Gravity:      | 1.070  | 1.063 | -0.007 |      |
 | Original Gravity:       | 1.070  | 1.063 | -0.007 |      |
 | Total Gravity:          | 1.072  | 1.074 | +0.002 |      |
-| Final Gravity:          | 1.013  |       |        |      |
-| Alcohol By Volume:      | 7.7    |       |        | %    |
-| Apparent Attenuation:   | 81     |       |        | %    |
+| Final Gravity:          | 1.013  | 1.017 | +0.004 |      |
+| Alcohol By Volume:      | 7.7    | 7.5   | -0.2   | %    |
+| Apparent Attenuation:   | 81     | 75.9  | -5.1   | %    |
 | Mash Efficiency:        | 74     | 74    | 0      | %    |
-| Brewhouse Efficiency:   | 72     |       |        | %    |
+| Brewhouse Efficiency:   | 72     | 58    | -14    | %    |
 | IBU:                    | 21     | 19    | -2     |      |
 | BU/GU Ratio:            | 0.29   | 0.25  | -0.04  |      |
-| RB Ratio:               | 0.30   | 0.26  | -0.04  |      |
+| RB Ratio:               | 0.30   | 0.25  | -0.05  |      |
 | Color                   | 15.8   | 14    | -1.8   | EBC  |
 | Mash pH:                | 5.37   | 5.34  | -0.03  |      |
 
@@ -58,9 +60,9 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 15-12-2024 |   0 |       | Bottling day. |
-|   1 |  |  |  |  |
-|   2 |  |  |  |  |
-|   3 |  |  |  |  |
+|   1 | 26-01-2025 |  42 | 3.25  | Served at 18.8 C, low carbonation, decent head, good lacing,strong, grainy, biscuity, low on hops. |
+|   2 | 16-03-2025 |     |       | Send to Clibit for evaluation. |
+|   3 | 16-03-2025 |     |       | Send to Clibit for evaluation. |
 |   4 |  |  |  |  |
 |   5 |  |  |  |  |
 |   6 |  |  |  |  |
