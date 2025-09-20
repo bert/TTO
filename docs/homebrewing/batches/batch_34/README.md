@@ -10,7 +10,7 @@
 
 26-06-2023 23:59 Completed conditioning.
 
-Archived.
+13-09-2025 20:08 Archived.
 
 ## Process
 
@@ -52,4 +52,4 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 12-05-2023 |   0 |       | Bottling day. |
 |   1 | 15-09-2023 | 126 | 3.5   | Served @ 14.7 C. Clear, foamy head, moderate lacing. Clean, hoppy, malty, fruity, moderate mouthfeel. |
-|   2 |            |     |       |  |
+|   2 | 13-09-2025 | 855 | 0.5   | Soapy. Past its best. Plonk beer. |
