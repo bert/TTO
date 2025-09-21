@@ -14,8 +14,6 @@ Archived.
 
 ## Process data
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_6_Brouwpunt_Sinterklaas_Special_results.pdf)
 
@@ -58,7 +58,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 06-12-2020 |   0 |       | Brew day. |
 |     | 20-12-2020 |  14 |       | Bottling day. |
-|   1 | 09-01-2021 |  34 |  3.25 | Pours with a thin foam. Slightly hazy. Light carbonation. Sweet aroma. Nutmeg and clove flavours. No dominant flavours. Thin mouthfeel. Crisp. |
+|   1 | [09-01-2021](20210109_Batch_6_Brouwpunt_Sinterklaas_Special_BJCP_Scoresheet_1_14.pdf) |  34 |  3.25 | Pours with a thin foam. Slightly hazy. Light carbonation. Sweet aroma. Nutmeg and clove flavours. No dominant flavours. Thin mouthfeel. Crisp. |
 |   2 | 25-04-2021 | 140 |  3.25 | Cooled @ 10 C. Pours with a thin foam. Clear. Light carbonation. Sweet aroma. Nutmeg and clove flavour. No dominant flavours. Thin mouthfeel. Crisp. |
 |   3 | 16-12-2022 | 740 |  3.25 | Served @ 16.4 C. Rich, good carbonation, good head, not boozy, Cinnamon flavour dominates. |
 |   4 | 07-04-2023 | 852 |  3.25 | Served @ 16.8 C. Dry, good carbonation, good head, not boozy, Cinnamon flavour dominates. |
