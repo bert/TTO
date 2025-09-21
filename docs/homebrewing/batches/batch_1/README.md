@@ -14,8 +14,6 @@
 
 ## Process data
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_1_Brouwpunt_Witbier_results.pdf)
 
@@ -57,7 +57,7 @@
 |     | 21-05-2020 |   0 |       | Brew day. |
 |     | 27-05-2020 |   6 |  2.75 | Taster sample. |
 |     | 01-06-2020 |  11 |       | Bottling day. |
-|   0 | 14-06-2020 |  24 |  2.50 | Opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lacing, slightly darker color than expected, tasted sour and boozy, very light carbonation. |
+|   0 | [14-06-2020](2020614_Batch_1_Brouwpunt_Witbier_BJCP_Scoresheet_0_12.pdf) |  24 |  2.50 | Opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lacing, slightly darker color than expected, tasted sour and boozy, very light carbonation. |
 |   1 | 05-07-2020 |  45 |  3.00 | Light foam which dissolves quickly, very light carbonation, little hint of orange, sour. |
 |   2 | 18-07_2020 |  58 |  2.75 | Cooled and served @ 11 C, light carbonation, no foam, sour taste. |
 |   3 | 07-08-2020 |  78 |  2.75 | Cooled and served @ 11 C, light carbonation, no foam, sour taste. |
