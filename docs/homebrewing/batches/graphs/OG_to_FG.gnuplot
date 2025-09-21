@@ -1,7 +1,7 @@
 # general settings
-NUM_BATCHES = 43
+NUM_BATCHES = 60
 # setup graph
-set term png size 1200,450
+set term png size ((NUM_BATCHES*25)+400),800
 output_file = "OG_to_FG.png"
 set output output_file
 set title "Original Gravity to Final Gravity"
@@ -24,6 +24,7 @@ plot "OG_vs_FG.data" using 1:2:(0.0):($3-$2):4 with vectors lw 3 lc variable not
          keyentry with point lc  5 lt 5 title "Fermentis S-04", \
          keyentry with point lc  1 lt 5 title "Fermentis S-33", \
          keyentry with point lc  6 lt 5 title "Fermentis US-05", \
+         keyentry with point lc 12 lt 5 title "Fermentis W-34/70", \
          keyentry with point lc  8 lt 5 title "Lallemand Abbaye", \
          keyentry with point lc  9 lt 5 title "Lallemand London", \
          keyentry with point lc  4 lt 5 title "Lallemand New England", \

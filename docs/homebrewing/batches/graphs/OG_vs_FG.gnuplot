@@ -1,5 +1,5 @@
 # setup graph
-set term png size 1280,480
+set term png size 1380,480
 output_file = "OG_vs_FG.png"
 set output output_file
 set title "Original Gravity vs Final Gravity"
@@ -24,6 +24,7 @@ plot "OG_vs_FG.data" using 2:3:4 with points lc variable notitle, \
          keyentry with point lc  5 lt 1 title "Fermentis S-04", \
          keyentry with point lc  1 lt 1 title "Fermentis S-33", \
          keyentry with point lc  6 lt 1 title "Fermentis US-05", \
+         keyentry with point lc 12 lt 1 title "Fermentis W-34/70", \
          keyentry with point lc  8 lt 1 title "Lallemand Abbaye", \
          keyentry with point lc  9 lt 1 title "Lallemand London", \
          keyentry with point lc  4 lt 1 title "Lallemand New England", \
