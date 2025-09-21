@@ -61,9 +61,9 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 01-08-2025 |   0 |       | Bottling day. |
-|   1 |            |     |       | Bottled in a pastic bottle. Sent to Chug for the HBUK competition. |
-|   2 |            |     |       | Bottled in a pastic bottle. Sent to Chug for the HBUK competition. |
-|   3 |            |     |       | . |
+|   1 | 02-08-2025 |   1 |       | Bottled in a pastic bottle.<br>Sent to Chug for the HBUK competition.<br>First up was Thirsty's Maibock, which was the last to arrive and freshly brewed so could have been different with a few more weeks conditioning.<br>Appearance:- Slight haze but given its youth may clear and have a nice golden colour, no real head and no bubbles.<br>Aroma:- I got stewed fruit, reminded me of my plum and apple wine along with slight winey/alcoholy nose that hinted at a strong beer.<br>Flavour:- Tasted strong but not overly alcoholy, at first seems slightly sweet/malty but a moderate bitterness cuts in and leaves a sweet but dryish, slightly warming finish with fruity overtones.<br>Mouthfeel:- low carbonation but medium to full bodied and reasonably smooth, for some reason I was reminded of port in the aftertaste.<br>Overall:- Strong, sweet, malty, fruity and warming. |
+|   2 | 02-08-2025 |   1 |       | Bottled in a pastic bottle.<br>Sent to Chug for the HBUK competition.<br>First up was Thirsty's Maibock, which was the last to arrive and freshly brewed so could have been different with a few more weeks conditioning.<br>Appearance:- Slight haze but given its youth may clear and have a nice golden colour, no real head and no bubbles.<br>Aroma:- I got stewed fruit, reminded me of my plum and apple wine along with slight winey/alcoholy nose that hinted at a strong beer.<br>Flavour:- Tasted strong but not overly alcoholy, at first seems slightly sweet/malty but a moderate bitterness cuts in and leaves a sweet but dryish, slightly warming finish with fruity overtones.<br>Mouthfeel:- low carbonation but medium to full bodied and reasonably smooth, for some reason I was reminded of port in the aftertaste.<br>Overall:- Strong, sweet, malty, fruity and warming. |
+|   3 | 07-09-2025 |  37 | 3.5   | Hazy, not too strong on hops, sweet and hints of yeast. Lasting foam and lacing. |
 |   4 |            |     |       | . |
 |   5 |            |     |       | . |
 |   6 |            |     |       | . |
