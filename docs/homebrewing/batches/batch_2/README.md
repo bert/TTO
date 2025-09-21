@@ -14,8 +14,6 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_2_Brouwpunt_Kruidig_Wit_results.pdf)
 
@@ -56,7 +56,7 @@
 |-----|------------|-----|-------|-------|
 |     | 04-07-2020 |   0 |       | Brew day. |
 |     | 14-07-2020 |  10 |       | Bottling day |
-|   1 | 12-08-2020 |  39 |  3.00 | more carbonation and foam, slightly harsh and slightly spicy taste. I give myself a 3 out of 5 score. |
+|   1 | [12-08-2020](20200812_Batch_2_Brouwpunt_Kruidig_Wit_BJCP_Scoresheet_1_14.pdf) |  39 |  3.00 | more carbonation and foam, slightly harsh and slightly spicy taste. I give myself a 3 out of 5 score. |
 |   2 | 21-08-2020 |  38 |  3.00 | hazy and more hints of coriander flavor, still boozy. |
 |   3 | 25-09-2020 |  73 |  3.00 | cooled and serverd @ 11 C, pours with foam which remains for several minutes, hazy and hints of coriander flavor, still boozy. |
 |   4 | 09-10-2020 |  87 |  3.25 | cooled and served @ 11 C, pours with foam which remains for several minutes, less sour, hazy and hints of coriander flavor, still boozy. |
