@@ -14,8 +14,6 @@
 
 ## Process data
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_3_SMaSH_Godiva_results.pdf)
 
@@ -56,7 +56,7 @@
 |-----|------------|-----|-------|-------|
 |     | 06-09-2020 |   0 |       | Brew day. |
 |     | 16-09-2020 |  10 |       | Bottling day. |
-|   1 | 02-10-2020 |  26 |  2.75 | Cooled and served @ 11 C. Opening the swing-top gave a puff. Poured clear with a little yeast from conditioning. No foam, light carbonation. A light sour taste, boozy, some light esters and dry mouthfeel. |
+|   1 | [02-10-2020](20201002_Batch_3_SMaSH_Godiva_BJCP_Scoresheet_1_14.pdf) |  26 |  2.75 | Cooled and served @ 11 C. Opening the swing-top gave a puff. Poured clear with a little yeast from conditioning. No foam, light carbonation. A light sour taste, boozy, some light esters and dry mouthfeel. |
 |   2 | 13-10-2020 |  37 |  2.75 | Cooled and served @ 11 C. Opening the swing-top gave a puff. Poured clear with a little yeast from conditioning. No foam, light carbonation. A light sour taste, boozy, some light esters and dry mouthfeel. |
 |   3 | 24-10-2020 |  48 |  2.75 | Cooled and served @ 11 C. Opening the swing-top gave a puff. Poured clear with a little yeast from conditioning. No foam, light carbonation. A light sour taste, boozy and dry mouthfeel. |
 |   4 | 31-10-2020 |  55 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Light carbonation. A light sour grassy taste, boozy and a dry mouthfeel. |
@@ -69,4 +69,4 @@
 |  11 | 17-04-2021 | 223 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with decent foam head. Moderate carbonation. A light grassy taste, less boozy and a dry mouthfeel. |
 |  12 | 08-05-2021 | 244 |  2.75 | |
 |  13 | 06-06-2021 | 273 |  2.50 | Cooled and served @ 12 C. Opening the swing-top gave a puff. Poured clear with small foam head. Moderate carbonation. A grassy taste, boozy and a dry mouthfeel. |
-|  14 | 10-11-2024 |1526 |  2.50 | Cooled and served @ 13 C. Opening the swing-top gave a very light puff. Poured clear with no foam head. Almost absent carbonation. A grassy taste, a tiny bit boozy and a dry mouthfeel. |
+|  14 | [10-11-2024](20241110_Batch_3_SMaSH_Godiva_BJCP_Scoresheet_14_14.pdf) |1526 |  2.50 | Cooled and served @ 13 C. Opening the swing-top gave a very light puff. Poured clear with no foam head. Almost absent carbonation. A grassy taste, a tiny bit boozy and a dry mouthfeel. |
