@@ -16,7 +16,7 @@ set mytics 5
 set xlabel "Age [days]"
 set grid x
 set mxtics 5
-set xtics offset 0,-1.5 rotate by 90
+set xtics offset 0,-1.75 rotate by 90
 set autoscale x
 set xrange [0:]
 # plot the graph

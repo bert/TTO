@@ -28,7 +28,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch_16_Shameless_Magpied_Summer_Ale_results.pdf)
+[Batch notes](Batch_16_Shameless_Magpied_Summer_Ale_results.pdf)
 
 ## Evaluation
 
@@ -57,13 +57,13 @@ Archived.
 
 ## Tasting notes
 
-| No. | Date       | Age | Score | Notes |
-|-----|------------|-----|-------|-------|
-|     | 15-01-2022 |   0 |       | Bottling day. |
-|   1 | 25-03-2022 |  69 |  0    | Gusher. |
-|   2 | 02-06-2022 | 138 |  2.25 | Served @ 12 C. Lots of carbonation, thin mouthfeel, dry, malty, no hop flavours or aroma. |
-|   3 | 03-06-2022 | 139 |  0    | Gusher. Used for specific gravity and pH measurements. |
-|   4 | 10-09-2022 | 238 |  0    | Gusher. |
-|   5 |            |     |       |  |
-|   6 |            |     |       |  |
-|   7 |            |     |       |  |
+| No. | Date       | Age  | Score | Notes |
+|-----|------------|------|-------|-------|
+|     | 15-01-2022 |    0 |       | Bottling day. |
+|   1 | 25-03-2022 |   69 |  0    | Gusher. |
+|   2 | [02-06-2022](20220602_Batch_16_Shameless_Magpied_Summer_Ale_BJCP_Scoresheet-2_7.pdf) |  138 |  2.25 | Served @ 12 C. Lots of carbonation, thin mouthfeel, dry, malty, no hop flavours or aroma. |
+|   3 | 03-06-2022 |  139 |  0    | Gusher. Used for specific gravity and pH measurements. |
+|   4 | 10-09-2022 |  238 |  0    | Gusher. |
+|   5 | 10-08-2025 | 1303 |  0.25 | Sour, past its time ... ditched. |
+|   6 |            |      |       |  |
+|   7 |            |      |       |  |
