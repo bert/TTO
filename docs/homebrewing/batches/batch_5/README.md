@@ -14,8 +14,6 @@
 
 ## Process data
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_5_SMaSH_Centennial_results.pdf)
 
@@ -58,7 +58,7 @@
 |-----|------------|-----|-------|-------|
 |     | 21-11-2020 |   0 |       | Brew day. |
 |     | 01-12-2020 |  10 |       | Bottling day. |
-|   1 | 20-12-2020 |  29 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Pleasant mouthfeel with citrusy, fruity taste. A bit of a lingering bitter twang at the back of the palate. |
+|   1 | [20-12-2020](20201220_Batch_5_SMaSH_Centennial_BJCP_Scoresheet_1_14.pdf) |  29 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Pleasant mouthfeel with citrusy, fruity taste. A bit of a lingering bitter twang at the back of the palate. |
 |   2 | 05-02-2021 |  76 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
 |   3 | 06-02-2021 |  77 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
 |   4 | 19-02-2021 |  90 |  3.00 | Opened with a small puff. Poured clear with a small foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
