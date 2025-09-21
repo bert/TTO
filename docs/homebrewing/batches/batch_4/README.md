@@ -14,8 +14,6 @@
 
 ## Process data
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_4_SMaSH_Fuggle_results.pdf)
 
@@ -56,7 +56,7 @@
 |-----|------------|-----|-------|-------|
 |     | 24-10-2020 |   0 |       | Brew day. |
 |     | 04-11-2020 |  11 |       | Bottling day. |
-|   1 | 20-11-2020 |  27 |  3.00 | Cooled and served @ 10 C. Opening the swing-top gave a puff. Poured clear with a little foam. Moderate carbonation. Light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy taste and a dry mouthfeel. |
+|   1 | [20-11-2020](20201120_Batch_4_SMaSH_Fuggle_BJCP_Scoresheet_1_12.pdf) |  27 |  3.00 | Cooled and served @ 10 C. Opening the swing-top gave a puff. Poured clear with a little foam. Moderate carbonation. Light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy taste and a dry mouthfeel. |
 |   2 | 29-11-2020 |  36 |  3.00 | Cooled and served @ 10 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Moderate carbonation. Light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy/vegetal taste and a dry mouthfeel. |
 |   3 | 04-12-2020 |  41 |  3.00 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Moderate carbonation. Light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy/vegetal taste and a dry mouthfeel. |
 |   4 | 05-12-2020 |  42 |  3.00 | Cooled and served @ 12 C. Opening the swing-top gave a very small puff. Poured clear with a little foam. Light carbonation. Very light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy/vegetal taste and a dry mouthfeel. |
