@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_8_SMaSH_Simcoe_results.pdf)
 
@@ -57,7 +57,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 04-04-2021 |   0 |       | Brew day. |
 |     | 18-04-2021 |  14 |       | Bottling day. |
-|   1 | 02-05-2021 |  28 |  2.50 | Served @ 10 C. Gave a small puff. No distinct carbonation. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
+|   1 | [02-05-2021](20210502_Batch_8_SMaSH_Simcoe_BJCP_Scoresheet_1-14.pdf) |  28 |  2.50 | Served @ 10 C. Gave a small puff. No distinct carbonation. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
 |   2 | 04-06-2021 |  61 |  2.75 | Served @ 10 C. Gave a small puff. No distinct carbonation. Thin mouthfeel. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
 |   3 | 31-07-2021 | 118 |  3.25 | Served @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
 |   4 | 14-08-2021 | 132 |  3.25 | Served @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
@@ -69,5 +69,5 @@ Archived.
 |  10 | 24-12-2021 | 264 |  3.00 |  |
 |  11 | 22-01-2022 | 293 |  2.75 | Served @ 11 C. Gave a small puff. Low carbonation, small foam head. Getting a little bit bitter. Clear and crisp. |
 |  12 | 01-05-2022 | 392 |  2.75 | Served @ 11 C. Gave a small puff. Low carbonation, small foam head. Getting a little bit bitter. Clear and crisp. |
-|  13 | 29-12-2022 | 634 |  3.00 | Served @ 17.1 C. Gave a loud plop. Clear. Small foam head. Hoppy, citrusy, strong, good body, fresh mouthfeel. |
+|  13 | [29-12-2022](20221229_Batch_8_SMaSH_Simcoe_BJCP_Scoresheet_13-14.pdf) | 634 |  3.00 | Served @ 17.1 C. Gave a loud plop. Clear. Small foam head. Hoppy, citrusy, strong, good body, fresh mouthfeel. |
 |  14 |            |     |       |  |
