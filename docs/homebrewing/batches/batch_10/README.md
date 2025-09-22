@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_10_Three_Hops_Blonde_results.pdf)
 
@@ -57,7 +57,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 02-05-2021 |   0 |       | Brew day. |
 |     | 16-05-2021 |  14 |       | Bottling day. |
-|   1 | 02-07-2021 |  61 |  3.00 | Served at 11 C. Pale yelow. Low carbonation. Hoppy, sweet, citrus. |
+|   1 | [02-07-2021](20210702_Batch_10_Three_Hops_Blonde_BJCP_Scoresheet-1_14.pdf) |  61 |  3.00 | Served at 11 C. Pale yelow. Low carbonation. Hoppy, sweet, citrus. |
 |   2 | 11-08-2021 | 101 |  3.00 | Served at 11 C. Pale yellow. Small foam head which dissolves quickly. Low carbonation. Mild on hops, sweet, citrus. Clean, crisp. |
 |   3 | 04-09-2021 | 125 |  3.00 | Served at 11 C. Pale yellow. Small foam head which dissolves quickly. Low carbonation. Mild on hops, sweet, citrus. Clean, crisp. |
 |   4 | 02-10-2021 | 153 |  3.00 | Served at 11 C. Pale yellow. Small foam head which dissolves quickly. Low carbonation. Hoppy, sweet, citrus. Clean, crisp. |
