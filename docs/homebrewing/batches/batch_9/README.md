@@ -14,8 +14,6 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_9_SMaSH_Simcoe_v2_results.pdf)
 
@@ -57,4 +57,4 @@
 |     | 04-04-2021 |   0 |       | Brew day. |
 |     | 18-04-2021 |  14 |       | Bottling day. |
 |   1 | 19-06-2021 |  76 |  2.75 | Served @ 11 C. Clean, crisp, low carbonation, hardly any hop taste decernible. |
-|   2 | 31-07-2021 | 118 |  2.75 | Served @ 11 C. Clean, crisp, low carbonation, hardly any hop taste decernible. |
+|   2 | [31-07-2021](20210731_Batch_9_SMaSH_Simcoe_v2_BJCP_Scoresheet_2_2.pdf) | 118 |  2.75 | Served @ 11 C. Clean, crisp, low carbonation, hardly any hop taste decernible. |
