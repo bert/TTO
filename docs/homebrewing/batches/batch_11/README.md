@@ -14,8 +14,6 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_11_SMaSH_Magnum_results.pdf)
 
@@ -53,4 +53,4 @@
 |     | 02-05-2021 |   0 |       | Brew day. |
 |     | 16-05-2021 |  14 |       | Bottling day. |
 |   1 | 27-06-2021 |  56 |  2.75 | Served at 11 C. Floral/grassy and a bit over carbonated. |
-|   2 | 09-10-2021 | 160 |  2.75 | Served at 11 C. Sweet, dry, thin, carbonated. |
+|   2 | [09-10-2021](20211009_Batch_11_SMaSH_Magnum_BJCP_Scoresheet-2_2.pdf) | 160 |  2.75 | Served at 11 C. Sweet, dry, thin, carbonated. |
