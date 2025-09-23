@@ -1,0 +1,3707 @@
+[
+  {
+    "id": "manual",
+    "time": 1645898400000,
+    "sg": null,
+    "type": "manual",
+    "temp": 16.8,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "zBakRTzf0RYMt1q3IUAs4bAdqAcQ61"
+  },
+  {
+    "type": "manual",
+    "temp": 16.8,
+    "time": 1645887600000,
+    "comment": "",
+    "sg": null,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "BO1GJffZXNICteVNJWBoqH3ljuXUiw"
+  },
+  {
+    "type": "manual",
+    "temp": 17,
+    "time": 1645873200000,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "pXKPKhaY1OLe8zicPQNCmN2z8Nr1Bz"
+  },
+  {
+    "comment": "",
+    "time": 1645858800000,
+    "id": "manual",
+    "temp": 16.4,
+    "type": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GkQrLzkvytBgcHyrB2g4xhhwk78QkJ"
+  },
+  {
+    "temp": 17.4,
+    "type": "manual",
+    "time": 1645844400000,
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Jj1vclsoRupVECta5slJ6g90zvGXjx"
+  },
+  {
+    "time": 1645830000000,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "otWpp5LM4lDXMxDarq9i83PZzcqvVZ"
+  },
+  {
+    "sg": null,
+    "id": "manual",
+    "temp": 17.4,
+    "comment": "",
+    "type": "manual",
+    "time": 1645815600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "mL18GdSfew6K1w6yZFOyLzgCa9fxEX"
+  },
+  {
+    "time": 1645801200000,
+    "comment": "",
+    "temp": 16.5,
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "gKHm7rOLPLSAkS5F3KmNdDvzRt7tK0"
+  },
+  {
+    "id": "manual",
+    "time": 1645786800000,
+    "type": "manual",
+    "temp": 17,
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "8aN6jvocJkTsvpEK911Zr0iuThBGkE"
+  },
+  {
+    "comment": "",
+    "temp": 16.5,
+    "time": 1645772400000,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "PZjzAOdtmE8FL8fC3oEDjH6yqGDlRh"
+  },
+  {
+    "type": "manual",
+    "temp": 17.1,
+    "comment": "",
+    "time": 1645758000000,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "yg2pYpJkfQneUSKHtON5sq9RH12GKY"
+  },
+  {
+    "id": "manual",
+    "time": 1645743600000,
+    "sg": null,
+    "temp": 16.5,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "hp6RUH9BRatz4DdsMsXxh9pUaagJdM"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "temp": 17,
+    "time": 1645729200000,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "dNovb0bVISqSuJjq6EmrG7uyZohPHX"
+  },
+  {
+    "sg": null,
+    "time": 1645714800000,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "temp": 16.8,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "wranq4VAbnMOXO009RWQ5Cu4Ggj1St"
+  },
+  {
+    "temp": 16.8,
+    "time": 1645700400000,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "6NzXRU17OAU3xjU2k6d1MVvxc21AEM"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "temp": 17.4,
+    "time": 1645686000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "iiygDKqckXEEXcOm3LagqQ7KWcdqGM"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "time": 1645671600000,
+    "temp": 16.5,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "RJ0HVnJSAESn3FN1q1iNK3ltqj1jOL"
+  },
+  {
+    "type": "manual",
+    "time": 1645657200000,
+    "temp": 17.4,
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "30Ptz1QbSuiamGia6e82Woz5gV42Ie"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "time": 1645642800000,
+    "comment": "",
+    "sg": null,
+    "temp": 16.8,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "coRYIpKbaukm3dbcrWj8iuDJ7WQ8C2"
+  },
+  {
+    "temp": 16.9,
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "time": 1645628400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "9JZP8llWonthUzlnWoi0PHoqGM0opg"
+  },
+  {
+    "id": "manual",
+    "time": 1645614000000,
+    "type": "manual",
+    "temp": 17.5,
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "5xgs5WXfN2NyJhrHPQJzqt60j5J9N7"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "time": 1645599600000,
+    "id": "manual",
+    "comment": "",
+    "temp": 16.6,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "sdFSSa00GltIE7TGhsyZBd10kBeOQu"
+  },
+  {
+    "comment": "",
+    "temp": 17.5,
+    "type": "manual",
+    "time": 1645585200000,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "5i6YXGEvBX2Pci6EZBnmmrRmGiDP3j"
+  },
+  {
+    "time": 1645570800000,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "KHiPm5YA7WdFzZfBxs29wnwJfBv2hv"
+  },
+  {
+    "comment": "",
+    "time": 1645556400000,
+    "sg": null,
+    "id": "manual",
+    "temp": 17.4,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "U4k3LovDT83kfpfZMn9qcydEuyg4Im"
+  },
+  {
+    "time": 1645542000000,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "temp": 16.7,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ut1YdSjQuV8WLuOVffBMdFhVrg9nEJ"
+  },
+  {
+    "sg": null,
+    "time": 1645527600000,
+    "comment": "",
+    "id": "manual",
+    "temp": 16.9,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "K6NCqwpdJoRUxxSL7IOxLfg9wpmGSM"
+  },
+  {
+    "comment": "",
+    "temp": 17,
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "time": 1645513200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "vf2N2hglyTHEY2ABJEzG0uWpwFJxL0"
+  },
+  {
+    "time": 1645498800000,
+    "sg": null,
+    "temp": 16.7,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "HLgS9uxyHkaia0gUvwRDJSakSJp8oe"
+  },
+  {
+    "time": 1645484400000,
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "type": "manual",
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "KcUySbNhIEZLZ4x6xrsfVTnFSmS4Bl"
+  },
+  {
+    "sg": null,
+    "time": 1645470000000,
+    "id": "manual",
+    "temp": 16.5,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "LfePQIsnN35LDTs3WJxE5sk8ScKgOV"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "temp": 17.5,
+    "id": "manual",
+    "time": 1645455600000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ghf7rwyFcad4nVP2qhvuyQYhp2BNbi"
+  },
+  {
+    "id": "manual",
+    "temp": 16.5,
+    "type": "manual",
+    "sg": null,
+    "time": 1645441200000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "1hqpGz9enrrOyxWNZWbnUnw8JkNJGG"
+  },
+  {
+    "id": "manual",
+    "sg": null,
+    "time": 1645426800000,
+    "comment": "",
+    "temp": 17.3,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "sJkZJG0OooyGKWsZ2YDf8XadHdGQpr"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "temp": 16.5,
+    "time": 1645412400000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "bDN5GnnIvj1xxqZ5VUemezQpvlsyuY"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "temp": 17,
+    "time": 1645398000000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ivlOTXZv93JtDTlH71hGMbjg4FBEkK"
+  },
+  {
+    "temp": 17.2,
+    "time": 1645383600000,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "tUmM7rOCDNAUI8uNhSLuBWDTfspvaN"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1645369200000,
+    "id": "manual",
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "A9axRAX5S0E4AYg9pKRrxXPKifLR9E"
+  },
+  {
+    "time": 1645354800000,
+    "temp": 17.5,
+    "comment": "",
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Uf7nnbl3jFOHKPIHyrjWgm45f1YA7f"
+  },
+  {
+    "comment": "",
+    "sg": null,
+    "temp": 16.4,
+    "time": 1645340400000,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "WlCMOREIIXvCSSdRnf8gsSaWqqwXwP"
+  },
+  {
+    "id": "manual",
+    "time": 1645326000000,
+    "temp": 17.3,
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "I3FCbWeRqSEvcgYKIa1lsAX3IpAkRw"
+  },
+  {
+    "time": 1645311600000,
+    "sg": null,
+    "comment": "",
+    "temp": 16.6,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "T5cwIwSetOKsbdcRPcHkg9s2FIM3V9"
+  },
+  {
+    "type": "manual",
+    "temp": 16.9,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "time": 1645297200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "6O7jzcxu28jxmXrdg98BdtdNlGaq7v"
+  },
+  {
+    "comment": "",
+    "temp": 17.2,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "time": 1645282800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "7miLBfOOWaZOPL8WdBL540yVMPxcSz"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "time": 1645268400000,
+    "id": "manual",
+    "sg": null,
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "weQZngLR0RLh1UWTSFKsD1gBEeZZ9w"
+  },
+  {
+    "type": "manual",
+    "temp": 17.5,
+    "time": 1645254000000,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "zafjD1opdHGFg6Uw1FHmqMIN80SK6n"
+  },
+  {
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "time": 1645239600000,
+    "temp": 16.4,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "WZQNwSK3DTPDsBf0mAINKVtDTy7Frr"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "time": 1645225200000,
+    "temp": 17.3,
+    "type": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nMve6RZN2mYTILfqoqcKOYBNZQzzF4"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1645210800000,
+    "temp": 16.6,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "j8LY2e2MTiKD8NppLoltadc3mRvDWg"
+  },
+  {
+    "id": "manual",
+    "time": 1645196400000,
+    "temp": 16.9,
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ZSK8VHpZ7xIvc3c0uiHUqhYFdXd8SW"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "temp": 17.3,
+    "time": 1645182000000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "quqrhavhyk4pD3ayfD0uF7uVzucjiL"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "temp": 16.5,
+    "comment": "",
+    "id": "manual",
+    "time": 1645167600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "SCeE2dJLV5haNIEcxf7AamSfYe1qLy"
+  },
+  {
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "time": 1645153200000,
+    "temp": 17.5,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "wQNzsyvjbclRFLM2V1waCVUQBOOI13"
+  },
+  {
+    "temp": 16.5,
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "time": 1645138800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nVPhM375OmyvtwsXj9Vng9eqk0iOXc"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "time": 1645124400000,
+    "id": "manual",
+    "temp": 17.1,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "gFLc3JAhosXRURGPAWljganfXCAUdq"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "id": "manual",
+    "time": 1645110000000,
+    "temp": 17,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "m3bgX3IUbKFipZBfx68uowz4PoYI4L"
+  },
+  {
+    "sg": null,
+    "temp": 17,
+    "comment": "",
+    "type": "manual",
+    "time": 1645095600000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "sn026syO2cpQhOl4fFOTNZa3aEO2Zq"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "time": 1645081200000,
+    "sg": null,
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "9oNeDTxIRdRf4WqiH0AL6SLMR7AEz4"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "temp": 16.5,
+    "time": 1645066800000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "bzPBimZYJO8zg2WumgZYn0LAHC8Go5"
+  },
+  {
+    "temp": 17.5,
+    "time": 1645052400000,
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "OhLD6bnzgXnAdcCOp4MA8aZADHSoWe"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "time": 1645038000000,
+    "sg": null,
+    "comment": "",
+    "temp": 16.8,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Tu7cWKT94VLn7MipeAqulSERSOV8dY"
+  },
+  {
+    "type": "manual",
+    "time": 1645023600000,
+    "id": "manual",
+    "temp": 17,
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "s0bLzRvctwvgFboOjviIKbacAtgbfE"
+  },
+  {
+    "time": 1645009200000,
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "temp": 17.3,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GAC4Ox3R2zbWZLAg9zyxfhotH2MMHh"
+  },
+  {
+    "sg": null,
+    "temp": 16.5,
+    "type": "manual",
+    "time": 1644994800000,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ltQsB5erQU8rigZ7CNWmPENQKWI7jT"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "temp": 17.5,
+    "comment": "",
+    "time": 1644980400000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "1u70hzhc0vOzuQ20Gq7og3mhD50sJZ"
+  },
+  {
+    "id": "manual",
+    "comment": "",
+    "temp": 16.7,
+    "type": "manual",
+    "time": 1644966000000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Ck4kTdcRGufiRbWNqYEGiDvbr8ralb"
+  },
+  {
+    "sg": null,
+    "temp": 17,
+    "type": "manual",
+    "comment": "",
+    "time": 1644951600000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "tdO6j2OzwScEBpvdk8IYCtOSGzjMep"
+  },
+  {
+    "type": "manual",
+    "temp": 17.1,
+    "comment": "",
+    "id": "manual",
+    "time": 1644937200000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "wuCcRjSNxzvttkpy5uG39raDSZKR5o"
+  },
+  {
+    "comment": "",
+    "time": 1644922800000,
+    "temp": 16.6,
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "gPwSRNPymVGNsRMgfCe7bRtrajMuhQ"
+  },
+  {
+    "comment": "",
+    "temp": 17.5,
+    "sg": null,
+    "time": 1644908400000,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "vy6KezwyFWdlN4MUuCYvJZRFijgc0e"
+  },
+  {
+    "temp": 16.5,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "time": 1644894000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "4xGOFPnVpfZ8YKVEzZ3lYYFTYCfV53"
+  },
+  {
+    "temp": 17.1,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "time": 1644879600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "3FoIkixTKcgUt2eRHKngaSNz83N2eX"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "time": 1644865200000,
+    "temp": 17.1,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nvslgsvPBHY3ZJoEZ5sNVx43GBpAyK"
+  },
+  {
+    "time": 1644850800000,
+    "sg": null,
+    "comment": "",
+    "temp": 16.5,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "IMqhI8xTw9J9jO8Fizifa4fGPaf1VN"
+  },
+  {
+    "type": "manual",
+    "temp": 17.5,
+    "sg": null,
+    "comment": "",
+    "time": 1644836400000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "LH0RO4x7LVQEink0gUrI4ERlmrG2NM"
+  },
+  {
+    "comment": "",
+    "time": 1644822000000,
+    "id": "manual",
+    "type": "manual",
+    "temp": 16.5,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "MfpQ7ObTQVPqIDaOehAJEajNmmR6H1"
+  },
+  {
+    "temp": 17.2,
+    "type": "manual",
+    "time": 1644807600000,
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "v0ai920AK5Sy14MuPrpCqL6I1G2jKV"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "temp": 16.8,
+    "id": "manual",
+    "sg": null,
+    "time": 1644793200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "0M4lHKjGSzGSQcq8CmI8v0LyCipQL7"
+  },
+  {
+    "comment": "",
+    "time": 1644778800000,
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "temp": 16.7,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "abhJ7jSubqRRIjaPdkjnOnjZl7AIER"
+  },
+  {
+    "type": "manual",
+    "time": 1644764400000,
+    "comment": "",
+    "id": "manual",
+    "temp": 17.2,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "6XAFlvVuroDiFQHRUaHgOmeXPZTSdM"
+  },
+  {
+    "sg": null,
+    "time": 1644750000000,
+    "temp": 16.9,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GnPpNTvuWMpmmPff1cEUsh5mfYTxc8"
+  },
+  {
+    "comment": "",
+    "time": 1644735600000,
+    "temp": 16.4,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "xdURe7FomVytO1tUUY4DYRof18D7tr"
+  },
+  {
+    "type": "manual",
+    "temp": 17.5,
+    "sg": null,
+    "comment": "",
+    "time": 1644721200000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "bY1lxEha0QcYPdXo0Q9VZc1QUGAx0g"
+  },
+  {
+    "temp": 16.7,
+    "time": 1644706800000,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "rRJW0EDu4J13gUb5ofvHVZhGzz5m0y"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "temp": 16.9,
+    "time": 1644692400000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "7VOOhDXYdlPeKbgCaEL8YP36Tm6Lh0"
+  },
+  {
+    "type": "manual",
+    "time": 1644678000000,
+    "sg": null,
+    "temp": 16.8,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "EMlWcDSI9TqxIr1gRVb4jFzzdJU90F"
+  },
+  {
+    "temp": 17.5,
+    "sg": null,
+    "type": "manual",
+    "time": 1644663600000,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "juIREtdZpmh0U75pKtD0ByEQGPsQRG"
+  },
+  {
+    "time": 1644649200000,
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "temp": 17,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "wBbTfv06daPf1elC5hEgbICBXLcQ92"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "time": 1644634800000,
+    "type": "manual",
+    "temp": 16.5,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "4MlFoadIoxUYE4RBQYbphJCQpfsxKl"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "comment": "",
+    "temp": 17.5,
+    "id": "manual",
+    "time": 1644620400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "NgB5nUb27HIWg4Ia4VHyU24fcKLvVc"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "comment": "",
+    "temp": 16.6,
+    "time": 1644606000000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GvDOtTfZYeIDGsCD3vCD4kD5qMFsfV"
+  },
+  {
+    "time": 1644591600000,
+    "comment": "",
+    "temp": 17.5,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "MJqQX3y70OA3W1YDqfCehF3h1oJzi5"
+  },
+  {
+    "type": "manual",
+    "time": 1644577200000,
+    "temp": 16.4,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "0sGJ0Virp9W8UmcxE1vqAARPdA4QsG"
+  },
+  {
+    "type": "manual",
+    "temp": 17.5,
+    "comment": "",
+    "sg": null,
+    "time": 1644562800000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "cm0DtnHp2ChlKA8uWPJiR8sMmFZPLh"
+  },
+  {
+    "type": "manual",
+    "time": 1644548400000,
+    "id": "manual",
+    "sg": null,
+    "temp": 16.5,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "2tnDWbjlTpZo3KhmEpFvCyJOWk9Sz6"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "temp": 17.3,
+    "comment": "",
+    "time": 1644534000000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "tXeLMrzXbVOfXimUihguldNDR62kcO"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "time": 1644519600000,
+    "temp": 16.7,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "XiZW9mwLzXmCzEiVJMZX4ZhknlH9be"
+  },
+  {
+    "type": "manual",
+    "time": 1644505200000,
+    "id": "manual",
+    "comment": "",
+    "temp": 16.9,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "fdFFIsJAgk4dvaztl6MC24T0n1MEWO"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1644490800000,
+    "id": "manual",
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "IEqZzSPD31mdmcy8aiKOL7rJ8W8VCN"
+  },
+  {
+    "type": "manual",
+    "temp": 16.5,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "time": 1644476400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "whnPLGMyq9VdrvKqbWn8Qm6vHmqDCf"
+  },
+  {
+    "temp": 17.5,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1644462000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "D6u5oWfx52JrrRZbZJU6tKSZyBEHCC"
+  },
+  {
+    "comment": "",
+    "time": 1644447600000,
+    "id": "manual",
+    "sg": null,
+    "temp": 16.8,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Ye1kgeooe1bLsx2WLO3CFyUOpCE7Cw"
+  },
+  {
+    "sg": null,
+    "time": 1644433200000,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "temp": 16.9,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ijh59YHcJhXNswZjwuas3afYh51Oqd"
+  },
+  {
+    "time": 1644418800000,
+    "sg": null,
+    "temp": 17.3,
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "uSQiThtPDbYb4Wsg6RgdHyq9dreBlr"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "temp": 16.5,
+    "time": 1644404400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Kqzn9qDXJtoaSImCFnuY1ELwmLSBrN"
+  },
+  {
+    "temp": 17.5,
+    "sg": null,
+    "time": 1644390000000,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "z9E1lJRJYdEuu5SBd1bc0KhzkZQuuZ"
+  },
+  {
+    "temp": 16.7,
+    "sg": null,
+    "comment": "",
+    "time": 1644375600000,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "HQv0mkMzrQBpR0PuH6YtYH39x5E82I"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "temp": 16.9,
+    "type": "manual",
+    "sg": null,
+    "time": 1644361200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "PymqBKFbMKGYXHkTiv79a7StC9xbKL"
+  },
+  {
+    "type": "manual",
+    "time": 1644346800000,
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 17.3,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "uK0H0kgfUpJVP7RkusdfPpAwHyDuPW"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "time": 1644332400000,
+    "temp": 16.5,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "lEp1N0dmUvkTA77PzTvB4xhg8urTeo"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "time": 1644318000000,
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "EWWww23akoTftSkwRjWVRCiVGVcQdj"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "temp": 16.5,
+    "time": 1644303600000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "IfLXob3rlkjXE52exlzmWnlspeUkbX"
+  },
+  {
+    "id": "manual",
+    "temp": 17.1,
+    "comment": "",
+    "time": 1644289200000,
+    "sg": null,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "AdaW5hAebKCxWcZJKfRpq7z0u49YaZ"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "time": 1644274800000,
+    "id": "manual",
+    "temp": 17.1,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "kPVQ7nBaoJWsyYUUnua0QDU1umt3KF"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 16.7,
+    "time": 1644260400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nPvbw2iZgOhaFuSqUFkbS2rSLbtQww"
+  },
+  {
+    "id": "manual",
+    "time": 1644246000000,
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "temp": 17.4,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "LqSJfsD92fMDZglYMumUAIv0Jle7jp"
+  },
+  {
+    "time": 1644231600000,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "temp": 16.6,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "JNcqkcNQF5HKPXXUZ113IRBQ31Wbns"
+  },
+  {
+    "comment": "",
+    "sg": null,
+    "time": 1644217200000,
+    "temp": 17.5,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "FoF1nuNJucmAcumQK73LFXBZUDTCo2"
+  },
+  {
+    "comment": "",
+    "time": 1644202800000,
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "temp": 16.6,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ZNGupo6BuxR6H2Y9cLZVg9he0pVphm"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "time": 1644188400000,
+    "sg": null,
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "mfEyHNEfJ9MWTBkWR69FXiiQxQ9V6k"
+  },
+  {
+    "comment": "",
+    "time": 1644174000000,
+    "temp": 16.5,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "hMGMu4F63ByA4lN9ayFgn091oqLSDZ"
+  },
+  {
+    "id": "manual",
+    "temp": 17.5,
+    "type": "manual",
+    "comment": "",
+    "time": 1644159600000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "kbIIayc2SnEkLZzCwPbh9AYuOwlac4"
+  },
+  {
+    "time": 1644145200000,
+    "sg": null,
+    "temp": 16.4,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "a41t51rLpFuqrlpOT77Ed4w5z4KMF2"
+  },
+  {
+    "sg": null,
+    "time": 1644130800000,
+    "temp": 17.1,
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "sljgaKdYI0PxZqLNdriAgzmYUw8PpE"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "temp": 17.2,
+    "type": "manual",
+    "sg": null,
+    "time": 1644116400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "hFrhDIb2vYmqVjhMIIKBOD84YJA8rJ"
+  },
+  {
+    "comment": "",
+    "temp": 16.5,
+    "time": 1644102000000,
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ascEMAV70qm8nc9O582iyB6X3Ujv1O"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "temp": 17.5,
+    "type": "manual",
+    "time": 1644087600000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "V1botUrSfGAZBqRj0sEbIf8PuiAsLv"
+  },
+  {
+    "temp": 16.5,
+    "time": 1644073200000,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Db16QNyVMjJFIsYFG75qfKfrQXhbbr"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "time": 1644058800000,
+    "temp": 17.2,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "65mV50OURmZWfSHSyZSM5bknnqWrU3"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "time": 1644044400000,
+    "temp": 16.5,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "yjAs9vhhSezxhNmggM7odklKXECQLc"
+  },
+  {
+    "id": "manual",
+    "time": 1644030000000,
+    "temp": 17.1,
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "qdkstbHk8cgAgDFrB9zQPuX7ghDNwg"
+  },
+  {
+    "comment": "",
+    "sg": null,
+    "temp": 16.6,
+    "id": "manual",
+    "type": "manual",
+    "time": 1644015600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "8AGps3mGlJyUbD3jYRMgw2Jtdxlg09"
+  },
+  {
+    "temp": 17,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "time": 1644001200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ghtBT7tYx81IJcIrJrkL1AxXWUgudX"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "temp": 16.9,
+    "time": 1643986800000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "2y3NWS3RH0aKEPRrtY2HAfEPWBwFo5"
+  },
+  {
+    "comment": "",
+    "time": 1643972400000,
+    "temp": 16.7,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "PAYjOQScEU6i0ue4bUvMCQoFOzyEBg"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "temp": 17.3,
+    "time": 1643959800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "tE6PpRaGwH6nQpWYtlOqZHKM4YVMLy"
+  },
+  {
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "time": 1643938200000,
+    "temp": 17,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "eDY2vE3b4e6CQyQvfNx5vn3v2bfi3H"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "temp": 17.3,
+    "id": "manual",
+    "time": 1643929200000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "M4S4t0qn1AC1YqPXPCMjYvkvduXPdC"
+  },
+  {
+    "time": 1643914800000,
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "temp": 16.7,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "LZKilADPOroBw7waeGCuVGLuY69TBB"
+  },
+  {
+    "time": 1643900400000,
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "temp": 17,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "xPq7zpZn2Lt0m9HJAKbx7ktGwJMAKH"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "temp": 17.3,
+    "time": 1643886000000,
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "kVm6Akg06h57UrUpt5Eznpkc9zd6f6"
+  },
+  {
+    "type": "manual",
+    "time": 1643871600000,
+    "temp": 16.5,
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "O9zYZKuXDUdpc8JFZ3HrddK3wB0tlE"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "temp": 17.5,
+    "id": "manual",
+    "time": 1643857200000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "74typGVIwoFmRauEQOnp7BQSbG2zYW"
+  },
+  {
+    "time": 1643842800000,
+    "temp": 16.6,
+    "comment": "",
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "S9lK3FkaYbT1QJzvKkAefvJk5HFI54"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1643828400000,
+    "temp": 16.9,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "JJWpINfU8B8hOE1WP6oDSKkdnPqmIU"
+  },
+  {
+    "temp": 17.3,
+    "type": "manual",
+    "time": 1643814000000,
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "kqtz3I1aN2PgLd7JMS5dy28uu7vrgz"
+  },
+  {
+    "temp": 16.5,
+    "time": 1643799600000,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "iUPZD2RYUz2rFwisvEm4kF8Jk0VCi2"
+  },
+  {
+    "time": 1643785200000,
+    "temp": 17.5,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "VBMjdBi7UYCkgLuPsqRwC5m648EYO2"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "comment": "",
+    "temp": 16.5,
+    "id": "manual",
+    "time": 1643770800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Hkjex0gJhkINsbNHZwHEYAWDpyjOKM"
+  },
+  {
+    "temp": 17,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "time": 1643756400000,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "NV9vRevI0UyrdAn8KMbVeJ8BijleR0"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "temp": 17.1,
+    "id": "manual",
+    "sg": null,
+    "time": 1643742000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "tnG7qmub7ud0QBXmTbIYS1xmOS1w66"
+  },
+  {
+    "id": "manual",
+    "temp": 16.6,
+    "type": "manual",
+    "time": 1643727600000,
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "hhUYWO3stb3NMVvhUQkyE840tF7qUA"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "time": 1643713200000,
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Pid9s5dbKCXAVKODZoCfn51a7JjKFy"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "time": 1643698800000,
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "IeSiwQLspV6tN19nw11ARu50ozWVYT"
+  },
+  {
+    "temp": 17.5,
+    "time": 1643684400000,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "lZYtCRaUUjzziyMnTkrYU5NaF5Up1B"
+  },
+  {
+    "sg": null,
+    "time": 1643670000000,
+    "type": "manual",
+    "id": "manual",
+    "temp": 16.5,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "csIHf4nNDKOeIEBqXkKhmUdBM1cF1b"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "temp": 14.9,
+    "comment": "",
+    "id": "manual",
+    "time": 1643655600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "0lPgI2yHmXPLqwY5OUGeBSIT7ZBzZD"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "temp": 14.9,
+    "comment": "",
+    "time": 1643651100000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "CP3Um9jbdoAw69OGhT02PxV4dmJFR7"
+  },
+  {
+    "sg": null,
+    "time": 1643638500000,
+    "comment": "",
+    "type": "manual",
+    "temp": 16.5,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "cGKzedcd2iI5VXumlmR6ux1lndE9DY"
+  },
+  {
+    "type": "manual",
+    "time": 1643626800000,
+    "id": "manual",
+    "temp": 17.5,
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "e9WBVzkFVufxA07VXzMlb1fQO794VM"
+  },
+  {
+    "time": 1643612400000,
+    "sg": null,
+    "temp": 16.5,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "MwzbbF4OldvaZWTFRH1BptwkNJ5uCG"
+  },
+  {
+    "comment": "",
+    "temp": 17.5,
+    "sg": null,
+    "time": 1643598000000,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "v5WGynQJE7mqy1IhrKKPj7QJGV6ipq"
+  },
+  {
+    "time": 1643583600000,
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "qexLqrpG6kfktItNtGfoq8AGB1nXQF"
+  },
+  {
+    "comment": "",
+    "sg": null,
+    "time": 1643569200000,
+    "type": "manual",
+    "id": "manual",
+    "temp": 17.3,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "e1gtuftHp7fxETzTjKPjQXQnJO4JEC"
+  },
+  {
+    "temp": 16.6,
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "time": 1643554800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Wrfdv16faqwdja4jwXI8MeWaq7xMcB"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "temp": 17,
+    "time": 1643540400000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "azySeKm4CkAKoueuLpOEwHx4R1ww7w"
+  },
+  {
+    "comment": "",
+    "temp": 17,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "time": 1643526000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Bjau4xhqEHK7E66K2lr6xFhORmzcA6"
+  },
+  {
+    "comment": "",
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "temp": 16.5,
+    "time": 1643511600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "r6gOYKJZFx7vvJFENldzKAFI3DoSsP"
+  },
+  {
+    "temp": 17.5,
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "time": 1643497200000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "B3yyRiBtpu802Jf9FD0eo7UakGkJgg"
+  },
+  {
+    "time": 1643482800000,
+    "comment": "",
+    "temp": 16.5,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "o1IfIpT2UOEaONlVqPDoTrFrhX8arY"
+  },
+  {
+    "temp": 17.5,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "time": 1643468400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "3mnciCZbIZL8FUJl3XUAkfz0fOf79O"
+  },
+  {
+    "id": "manual",
+    "temp": 16.6,
+    "type": "manual",
+    "time": 1643454000000,
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Ckr1nqmEeG0lKguNbnRVTyGMR3kf0M"
+  },
+  {
+    "time": 1643439600000,
+    "type": "manual",
+    "comment": "",
+    "temp": 16.9,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "aHrEHez4yTaJi8lPMZKhyE4US2pk9s"
+  },
+  {
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "type": "manual",
+    "temp": 17.5,
+    "time": 1643425200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Mlq8DVAPuL0N7n9elgQmPOZznNgbUp"
+  },
+  {
+    "temp": 16.4,
+    "type": "manual",
+    "sg": null,
+    "time": 1643410800000,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "NEQ9PjIREfvtGcoY32ilqnurHp1x2S"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "time": 1643396400000,
+    "temp": 17.5,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "7URhmuDet7XSqlQboXY8aVMIcUJGES"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "time": 1643382000000,
+    "comment": "",
+    "sg": null,
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Uug67UkBZh6ON5A09fW1XZplACorm2"
+  },
+  {
+    "temp": 17.4,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "time": 1643367600000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "6SFSsT9QTBNJjp58gMutbedKAFRRjX"
+  },
+  {
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "time": 1643353200000,
+    "sg": null,
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "FavjWTu4kYvl1YHWZ9tIr4EURPSfS2"
+  },
+  {
+    "id": "manual",
+    "time": 1643338800000,
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "temp": 17.2,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "yXHULWm110OMWbNTHhJMjIB2TUDP57"
+  },
+  {
+    "time": 1643324400000,
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 16.4,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nUEOF5Vf4CjxS0MOKiJ7qjMOUR9zpi"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "temp": 16.9,
+    "type": "manual",
+    "time": 1643310000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "VNyrxVmEAkPZzQl77nPL2pQx511rXm"
+  },
+  {
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "temp": 17.3,
+    "time": 1643295600000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "OqDBKqRKn1JqK40cZ6VTkMm2I6nE5E"
+  },
+  {
+    "temp": 16.7,
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "time": 1643281200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "bJqXy0WqU4mY29GLmBUytGRywRRQj7"
+  },
+  {
+    "temp": 17.5,
+    "comment": "",
+    "sg": null,
+    "time": 1643266800000,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "gJGjcg42h1NPT1wM7x6rHppC6Ric2s"
+  },
+  {
+    "type": "manual",
+    "temp": 16.5,
+    "sg": null,
+    "time": 1643252400000,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "NroR83Kohl1QjiLDaadOBEs1ya7If6"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "time": 1643238000000,
+    "id": "manual",
+    "sg": null,
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "inY4KoEg9GbWECXMAmA9WPhAKGeaki"
+  },
+  {
+    "id": "manual",
+    "time": 1643223600000,
+    "sg": null,
+    "temp": 16.5,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "mv4W9B0daCIDujE6424zBD4ygm2ekf"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "time": 1643209200000,
+    "sg": null,
+    "comment": "",
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "YFR7BxpdlSUDfzscLbvsdPuaC2YzpB"
+  },
+  {
+    "temp": 16.4,
+    "type": "manual",
+    "id": "manual",
+    "time": 1643194800000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "UrCLo60CHfniv9xIwhAsjUTj2kfhiD"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "time": 1643180400000,
+    "comment": "",
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ocd8H4sbzarfCLsz9HaTwDJC0K2fSp"
+  },
+  {
+    "comment": "",
+    "time": 1643166000000,
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "temp": 16.7,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "xHqGKFVvC9BzPcIkbFUHj1n6REOgx5"
+  },
+  {
+    "sg": null,
+    "temp": 17.1,
+    "time": 1643151600000,
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "5aLcXkCJgVogEiyZY2LXEnOIdkxkfu"
+  },
+  {
+    "comment": "",
+    "temp": 17,
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "time": 1643137200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "YLIjX14ougFeFCzWuRQyN7hnGSTZCW"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "temp": 16.5,
+    "id": "manual",
+    "time": 1643122800000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "N8Bnm2fuA5eOkLFTnTrXfCe30VHOZD"
+  },
+  {
+    "time": 1643108400000,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "temp": 17.1,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "eyhSv3VgOKrtEZqHOgYilN00oNOTJt"
+  },
+  {
+    "sg": null,
+    "id": "manual",
+    "temp": 16.5,
+    "comment": "",
+    "type": "manual",
+    "time": 1643094000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GRWFE3x29A2jAfhkSZlmjKoZWlkDeT"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "temp": 17.2,
+    "type": "manual",
+    "time": 1643079600000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Lr9xMIAxIDd5lZKLIxGNAa2L9Dpa7d"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "time": 1643065200000,
+    "comment": "",
+    "temp": 16.5,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "5ODAQE23YJf2WmIOvzOPwgg92bUD1w"
+  },
+  {
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "temp": 17.3,
+    "sg": null,
+    "time": 1643050800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nkyZkfeHr4Ne1GzHahus4NOzbs5H3b"
+  },
+  {
+    "time": 1643036400000,
+    "type": "manual",
+    "temp": 16.5,
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "C8mxsrg0tXgvWsWWkl89U18kTnDrsE"
+  },
+  {
+    "id": "manual",
+    "comment": "",
+    "time": 1643022000000,
+    "temp": 17.1,
+    "type": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "CW50vaJFDOu6hQ1FctNYx5eeMLFk7f"
+  },
+  {
+    "time": 1643007600000,
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 16.6,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "HwJwNU9SjCSozSRQw4VVtJm4sOnzRD"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "temp": 16.9,
+    "time": 1642993200000,
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "caeFiwQiXzyAN3NCivhnkv3Il6xKnK"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "comment": "",
+    "time": 1642978800000,
+    "id": "manual",
+    "temp": 17.1,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "7vGMn79WCTBeZ4gOXSkJMxi7vzDJdD"
+  },
+  {
+    "sg": null,
+    "temp": 16.6,
+    "type": "manual",
+    "id": "manual",
+    "time": 1642964400000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "kZpn1UZsziM9O0Xumn6gijtHVFbF21"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "time": 1642950000000,
+    "temp": 17.5,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ouDqp8dppmmnynrFmugQior8gDosC4"
+  },
+  {
+    "comment": "",
+    "temp": 16.5,
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "time": 1642935600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "W78LCrXsTpe4SJgyoeXyRZ5tVKqslh"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "temp": 17.5,
+    "sg": null,
+    "comment": "",
+    "time": 1642921200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "BxiWAuBRgwXq8LtbirGx9AJ4PSq5ck"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "time": 1642906800000,
+    "temp": 16.5,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ysvssB5ck3RDUBnViULkgzgVtycsCx"
+  },
+  {
+    "time": 1642892400000,
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "temp": 17.3,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ai6rZN72YTxaGhBJoOVufodYkzRmfO"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "time": 1642878000000,
+    "temp": 16.5,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "rpaoAyhIc405OSStMTvOK4mC23NYU4"
+  },
+  {
+    "time": 1642863600000,
+    "type": "manual",
+    "temp": 17.2,
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "1MGY6ipEzV0rNuTipKdjfIwRM4Caza"
+  },
+  {
+    "temp": 16.5,
+    "type": "manual",
+    "time": 1642849200000,
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "760J6LEsUHZOOiPO225bmuFAPVsh2A"
+  },
+  {
+    "temp": 16.9,
+    "comment": "",
+    "time": 1642834800000,
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "2Fr5cN8ASKkBTxhTIED02xspAOlyEj"
+  },
+  {
+    "temp": 16.9,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "time": 1642820400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "UNDqilAHtfdxs492Xh0SbwOO6St27y"
+  },
+  {
+    "temp": 16.8,
+    "type": "manual",
+    "id": "manual",
+    "time": 1642806000000,
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "IEd3qZ5k07HsuODhdMlhU3nvlx9Rcu"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1642791600000,
+    "temp": 17.1,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "5ifZZEf46aIwh5Kj5protOsgFPppQA"
+  },
+  {
+    "temp": 16.8,
+    "time": 1642777200000,
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "8N4S9pDBIEX4y9YZOVlGDlE7SnG42A"
+  },
+  {
+    "sg": null,
+    "temp": 16.4,
+    "type": "manual",
+    "time": 1642762800000,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "NpUo9upXPWuyGYp1Z3L4NezcTGJeed"
+  },
+  {
+    "temp": 17.2,
+    "comment": "",
+    "type": "manual",
+    "time": 1642748400000,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "A22OXDp743mDkbGBv4Bh8LFaraZiUI"
+  },
+  {
+    "temp": 16.4,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "time": 1642734000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "fkMy1sDZvZ98SRHnQVmt3V8Ca2D9Eh"
+  },
+  {
+    "time": 1642719600000,
+    "comment": "",
+    "temp": 17.2,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ERuZwl1vSiI2kKT0iSnWHi5dWjCx6q"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "temp": 17,
+    "time": 1642705200000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "XEqG2WATmJS4yuiTQ0J9pl1sEzuHO5"
+  },
+  {
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "time": 1642690800000,
+    "temp": 16.5,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "4hd3lHZqKwixRCtSOxswwpKm48i8cU"
+  },
+  {
+    "sg": null,
+    "id": "manual",
+    "temp": 17.3,
+    "time": 1642676400000,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "lzyKGlPpPsxhaw9uc2pGof63PL8gQa"
+  },
+  {
+    "comment": "",
+    "temp": 16.5,
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "time": 1642662000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "93rZ1HDZJNSm5Q7TNupFjV04lxxmsf"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "time": 1642647600000,
+    "comment": "",
+    "id": "manual",
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "bSUUgAx8DCEfThBHEEa2JJXdwvgtGe"
+  },
+  {
+    "temp": 16.5,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "time": 1642633200000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ueb37SOydHqv7dFIzzQWjiREByHLPL"
+  },
+  {
+    "id": "manual",
+    "temp": 17.5,
+    "sg": null,
+    "type": "manual",
+    "time": 1642618800000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "SnG58SluAZzhjbAAc5Trb87NEE7Oqc"
+  },
+  {
+    "id": "manual",
+    "time": 1642604400000,
+    "comment": "",
+    "type": "manual",
+    "temp": 16.5,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "CBErWERtGwIZyuSnWZZ4f2Z4aSZu2g"
+  },
+  {
+    "time": 1642590000000,
+    "id": "manual",
+    "temp": 17.5,
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "8CupXk5S99pE8hYZ9BnmqeStzNwdhB"
+  },
+  {
+    "temp": 16.7,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1642575600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "QWNpxJ3VBMhniS0XO0zDZswgOcSLzR"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "temp": 16.7,
+    "comment": "",
+    "id": "manual",
+    "time": 1642561200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "8aJuuKXHsPurrQcNRjCX19pQXmh4X9"
+  },
+  {
+    "temp": 17,
+    "comment": "",
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "time": 1642546800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "jFujiRVVBFOUTkWVZ2VgjK8tOsnCil"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "temp": 16.5,
+    "id": "manual",
+    "time": 1642532400000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "PgQNOb157uB1Nj01WqeZHwB4ggTvE9"
+  },
+  {
+    "comment": "",
+    "time": 1642518000000,
+    "type": "manual",
+    "id": "manual",
+    "temp": 17.1,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "l7eYXnXV0HkTEHnmZriyLx3Xc0w925"
+  },
+  {
+    "id": "manual",
+    "temp": 16.4,
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "time": 1642503600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "bxW6H4oYDxMlYLTvJhjpSRlfA9MBjF"
+  },
+  {
+    "id": "manual",
+    "temp": 17.3,
+    "time": 1642489200000,
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nU8cvQkrL53bPIT6Exgq8Oi0F7Kt8S"
+  },
+  {
+    "type": "manual",
+    "temp": 16.5,
+    "sg": null,
+    "id": "manual",
+    "time": 1642474800000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ia7kCeTw3lfuCDO5A7j7QlioYWB3oh"
+  },
+  {
+    "comment": "",
+    "time": 1642460400000,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "d4dQT0t7gP41Dd7c6NVnEej5nV5PxQ"
+  },
+  {
+    "comment": "",
+    "time": 1642446000000,
+    "type": "manual",
+    "sg": null,
+    "temp": 16.5,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "AbcJRT1h9wVqqjGNJ0sW8B4Qw62eWB"
+  },
+  {
+    "comment": "",
+    "temp": 17.3,
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "time": 1642431600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "xLpcvGEAJwB6SFR8UrOQqifazMgsRh"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "time": 1642417200000,
+    "temp": 16.5,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "1lXfWRlIBW0lt40xJ5vIzmoBfBaHZ0"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "temp": 17,
+    "time": 1642402800000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "wb4iwmm2uP1Zg86eUR9eHmGMT5YnkT"
+  },
+  {
+    "type": "manual",
+    "temp": 16.6,
+    "sg": null,
+    "time": 1642388400000,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "mfe3ffKRA4dvM7l5SM93NoeIGvVwc0"
+  },
+  {
+    "time": 1642374000000,
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "temp": 16.9,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "KgmA5oxiMNHX8WMU00NxdJjVojnqOC"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "temp": 16.8,
+    "time": 1642359600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "N02aM2gBqE9H5xRtdk50gqTLJ0NmlF"
+  },
+  {
+    "time": 1642345200000,
+    "type": "manual",
+    "temp": 17,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "p1VJS5CxlzaW0vpViy2pHd0g8vr2FH"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "time": 1642330800000,
+    "comment": "",
+    "temp": 17.8,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "od5h00IFgXNzHgoJxNjtoXZAHIeRzj"
+  },
+  {
+    "temp": 17.3,
+    "comment": "",
+    "time": 1642316400000,
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Y7X3JHOFwVo5G0Nz08DlAqekzjGiB4"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "temp": 16.9,
+    "time": 1642302000000,
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GrE4fIn6RPYRHuwJFyWqgTl1q0TxqG"
+  },
+  {
+    "temp": 17.9,
+    "time": 1642287600000,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "QHHro87S7XjZqQAR38dtjPuR0PlU7i"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "time": 1642273200000,
+    "temp": 17.2,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "21zfQKsNGNcG8omd0lkx58I8zoQPw4"
+  },
+  {
+    "temp": 16.3,
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "time": 1642258800000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "05pimWzL30Kwsuj4pOX5goYlFox9Kv"
+  },
+  {
+    "ph": 4.51,
+    "temp": 17.7,
+    "sg": 1.005,
+    "id": "manual",
+    "comment": "",
+    "time": 1642244400000,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "BWJjYpfEhESaHuwtoUr2pDFbPXVmg3"
+  },
+  {
+    "time": 1642230000000,
+    "temp": 16.7,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "0Kb6O9gWmHlWCxNF4HMETVDcWUYWSp"
+  },
+  {
+    "comment": "",
+    "temp": 16.4,
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "time": 1642215600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "wGhutmxMCG1BuzFOIFsN0C4OhfUMiW"
+  },
+  {
+    "time": 1642201200000,
+    "temp": 16.5,
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "JONJcZJZYkFtWilY5Rip8j3gWKkleK"
+  },
+  {
+    "temp": 17,
+    "type": "manual",
+    "comment": "",
+    "time": 1642186800000,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "PbC2WQacrPAsWTL074s5F22VkXVwXf"
+  },
+  {
+    "time": 1642172400000,
+    "temp": 16.4,
+    "type": "manual",
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "pm0rZIUtGr4lgRGTxUW08vKcdfLZbA"
+  },
+  {
+    "id": "manual",
+    "sg": null,
+    "time": 1642158000000,
+    "temp": 16.4,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "L0TBUMiztdm37VIHE3ACzxYLSwdIvC"
+  },
+  {
+    "comment": "",
+    "time": 1642143600000,
+    "id": "manual",
+    "temp": 16.7,
+    "sg": null,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ZqCIDdJZmXnsUg4xmtb8pP6sA0X8EI"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "time": 1642129200000,
+    "temp": 16.1,
+    "sg": null,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "oKfbxuGxCjnj28XrecUPIX7HYvY0vV"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "temp": 16.8,
+    "time": 1642114800000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "XlTyn9Fk09wfgV61pIIPesVbhEIDhZ"
+  },
+  {
+    "time": 1642100400000,
+    "comment": "",
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "temp": 16.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "8rwqxaTjeOt1pcMkS8eg0tY9BxyGYy"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "time": 1642086000000,
+    "comment": "",
+    "temp": 16.1,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "xVdXGUgZci3c0lyObNe1qvlM8hoB7m"
+  },
+  {
+    "temp": 16.5,
+    "type": "manual",
+    "time": 1642071600000,
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "x51j7lnVTSa0gQ8FXhaUmEdCv2YWpP"
+  },
+  {
+    "temp": 16.8,
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "comment": "",
+    "time": 1642057200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Yigv7m6IT8VSf2NAVhGMkZZSdQW7KJ"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 16,
+    "time": 1642042800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "O5rQbrgNdEIgapHVZZRBZOiqYwWm3T"
+  },
+  {
+    "temp": 16.9,
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "time": 1642028400000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "T1I39W7kYWNDo0BEKJBcsyB2VaPKbQ"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "temp": 16.4,
+    "sg": null,
+    "time": 1642014000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "unPpySxir5JoGzlshAwlxQ3KrkFdHN"
+  },
+  {
+    "time": 1641999600000,
+    "temp": 16.3,
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "1ZP6B5M4Aj5RxST8BVCPgmmwXIaj35"
+  },
+  {
+    "time": 1641985200000,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "temp": 17.5,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "wvk7xw7xMfvG0Hy2Sd2B6JnPl7Bl2K"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "time": 1641970800000,
+    "temp": 17.6,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "RVmlFujVP4LHEZkJLVang7WkP2NtOW"
+  },
+  {
+    "type": "manual",
+    "time": 1641956400000,
+    "comment": "",
+    "id": "manual",
+    "temp": 17.9,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "3G8cGhcCEfyevKbUDoShYPLuHGCGWm"
+  },
+  {
+    "sg": null,
+    "temp": 17.6,
+    "time": 1641942000000,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "T3WNnPfRBGgul1ubwpGCCxWedPof0Y"
+  },
+  {
+    "temp": 19.1,
+    "sg": null,
+    "type": "manual",
+    "time": 1641928500000,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "WCWqNKn9gjOvIPvIxHxLsKAj9gzGYb"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "time": 1641927600000,
+    "sg": null,
+    "temp": 17.9,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Asnzo5BAcRpmLYcucay3nT5cY1dTeM"
+  },
+  {
+    "id": "manual",
+    "sg": null,
+    "time": 1641926700000,
+    "temp": 19.1,
+    "comment": "",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "lVqoirld5i4yLHkzIEZE3atdDN6aUx"
+  },
+  {
+    "temp": 19.6,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "time": 1641913200000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "dXxvfZ2638WJYgDZ0yVFjiDLy9woxm"
+  },
+  {
+    "sg": null,
+    "time": 1641898800000,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "temp": 19.7,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "64lyOTtqeFtVAjp6xm8MCFL7jdLmkw"
+  },
+  {
+    "temp": 19.8,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "time": 1641884400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "9MwA0fhtgS3GH12N7cUX2fJ9Gqt6P6"
+  },
+  {
+    "id": "manual",
+    "time": 1641870000000,
+    "temp": 19.6,
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "oPDgLPZZ3ey3oNP1zqx6SG1CybwG78"
+  },
+  {
+    "comment": "",
+    "temp": 19,
+    "id": "manual",
+    "type": "manual",
+    "time": 1641855600000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Kpu8v1vmcOKDIzFm5H0zI7Xn3qQ2iM"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "temp": 19.3,
+    "time": 1641841200000,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "PT1Ag5gJDezHbJWfdmU3GCUs6p65qQ"
+  },
+  {
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "temp": 19.5,
+    "time": 1641826800000,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GX9fzUkD031aG9fRN8OwzU6U1hmyAf"
+  },
+  {
+    "type": "manual",
+    "time": 1641812400000,
+    "comment": "",
+    "temp": 19.8,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "kNRJvuZSecORORdDhbWWki0Tj1wqbC"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "temp": 19.2,
+    "time": 1641798000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Bf1XM5Co66twHSo15BDsXmWVMYtpNn"
+  },
+  {
+    "type": "manual",
+    "temp": 19.9,
+    "id": "manual",
+    "time": 1641783600000,
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nEeEb0Bq1Sg48Pmw5HWYDKW3CPuf37"
+  },
+  {
+    "id": "manual",
+    "temp": 19.7,
+    "type": "manual",
+    "sg": null,
+    "comment": "",
+    "time": 1641769200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "YrRFekpHyi5w559sZ2tNvUDx6w6yat"
+  },
+  {
+    "type": "manual",
+    "temp": 19.9,
+    "time": 1641754800000,
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Jqt9owMWed7Pb30t18DUaj98KhjxEg"
+  },
+  {
+    "time": 1641740400000,
+    "sg": null,
+    "comment": "",
+    "temp": 19.7,
+    "type": "manual",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nLspeeAeUsgSR7f01d2Z7z8PnTSZSg"
+  },
+  {
+    "type": "manual",
+    "temp": 19.3,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "time": 1641726000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "atSmxA0hov0DbFskKiZz7doyfDqxvz"
+  },
+  {
+    "time": 1641711600000,
+    "type": "manual",
+    "temp": 19.7,
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "frI8I4YOTFjplLnXlacC200vyuGZOK"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "temp": 19.5,
+    "comment": "",
+    "time": 1641697200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "AfjRnE1GGGlvvmSz3KNQZo7DuXaK0J"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "temp": 19.3,
+    "comment": "",
+    "time": 1641682800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "HeeropRcedYvmgDJNxWcBAgLd4nZbz"
+  },
+  {
+    "type": "manual",
+    "time": 1641668400000,
+    "temp": 19.5,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "3akvL54y1z9Nti6uPTzlWDPCtN1Opn"
+  },
+  {
+    "comment": "",
+    "time": 1641654000000,
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "temp": 19.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "7WXEMSTu335zRGGofVmZUTJkFeWJXz"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "temp": 19.6,
+    "id": "manual",
+    "time": 1641639600000,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "gGURljHoIUq7bCvxtkpmRz1KyAGatX"
+  },
+  {
+    "temp": 19.2,
+    "id": "manual",
+    "time": 1641625200000,
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "nx03St7sdSB8lezxLWyTfhz5hHhcvg"
+  },
+  {
+    "time": 1641610800000,
+    "sg": null,
+    "temp": 19.5,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "9NHMI5RrqBU7n9CHm8uQUiV6ZraiFh"
+  },
+  {
+    "sg": null,
+    "temp": 19.4,
+    "comment": "",
+    "id": "manual",
+    "time": 1641596400000,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "evFuvjS6OOQ3P5UdgRiuyY5zFiLuYf"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "temp": 17.7,
+    "time": 1641582000000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "LktUhGjjVrgeQT7I3NUQIJFhJWRtXq"
+  },
+  {
+    "temp": 17.6,
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "time": 1641567600000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "uVDQzUWbBzF6uWVdA2ZMGPXgSJiLyK"
+  },
+  {
+    "id": "manual",
+    "temp": 17.7,
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1641553200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GrmhhTilF8R6CurgNsP0zPgpSnrpcI"
+  },
+  {
+    "type": "manual",
+    "temp": 17.7,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "time": 1641538800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "UOZP95QEGWolCKBwr8N1aKzhmeVgIF"
+  },
+  {
+    "sg": null,
+    "id": "manual",
+    "type": "manual",
+    "time": 1641524400000,
+    "temp": 17,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "pilSGLRt5TeUrLIjVbMf4IBFnHZzup"
+  },
+  {
+    "temp": 17.6,
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "time": 1641510000000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "VHmqTBAEJMCC5xKRrkXWW25Zcat42n"
+  },
+  {
+    "type": "manual",
+    "time": 1641495600000,
+    "id": "manual",
+    "temp": 17.5,
+    "sg": null,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "vroQThzcAsvGxAumOMhlKFib2YBzyC"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "time": 1641481200000,
+    "sg": null,
+    "temp": 17.2,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Pyl7ztAJKt1TwLmmenR7huET1qZpxG"
+  },
+  {
+    "temp": 17.3,
+    "time": 1641466800000,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "sTjD2ShMoJ5Ymb2NH0fPn54EAA4Vjp"
+  },
+  {
+    "temp": 17.2,
+    "type": "manual",
+    "time": 1641452400000,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Txd8s9K8cVtdvRvneRqZEaF8VEmc4w"
+  },
+  {
+    "comment": "",
+    "time": 1641438000000,
+    "type": "manual",
+    "temp": 17.2,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "5ZYlzjT1VD7IvxW984DqO3T6osSDPz"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "time": 1641423600000,
+    "comment": "",
+    "temp": 17.3,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "qDuGoovOA7KpQw9Pnoh2rHZbnrY4kN"
+  },
+  {
+    "time": 1641409200000,
+    "temp": 17.1,
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "oXnURDYqUXPdYANHFogqfh8V68er91"
+  },
+  {
+    "sg": null,
+    "temp": 17.1,
+    "type": "manual",
+    "id": "manual",
+    "time": 1641394800000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "cOuouiCCaGYGnH1RPAAZ6YH8xn8mxM"
+  },
+  {
+    "time": 1641380400000,
+    "comment": "",
+    "temp": 17.7,
+    "id": "manual",
+    "sg": null,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Bd3Om2j1tVDz7HXi0CMdVWE3ya9ZAX"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "temp": 18,
+    "time": 1641366000000,
+    "sg": null,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "bPeE78rrQ5BzqtUE7uWKr4LbXzvEH0"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "temp": 17.7,
+    "time": 1641351600000,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "GRiEieUgju5IMqYCwtl4UAu2kgafUz"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "temp": 17.1,
+    "time": 1641337200000,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "o0DmAt1AnO5ExujujbzGpayqtuxGPE"
+  },
+  {
+    "comment": "",
+    "temp": 17,
+    "time": 1641323700000,
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "1duFGnw727sqIUEpqdLpTjNAMniQEN"
+  },
+  {
+    "time": 1641308400000,
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "temp": 17.1,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "yZ5iHe9axHWn95ZXzs8yE33jEBAmux"
+  },
+  {
+    "time": 1641294000000,
+    "sg": null,
+    "comment": "",
+    "temp": 17.7,
+    "id": "manual",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "RGFBQVxQmnShGyxdoaT8IewlojXlcB"
+  },
+  {
+    "time": 1641278700000,
+    "type": "manual",
+    "temp": 17.2,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "xNrzv2Q3NdTah3GzvBSdoL5nzwNSAm"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "temp": 17.6,
+    "time": 1641265200000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "qNKqXQKc99xQcOYIkf0nv9hwPYBf2b"
+  },
+  {
+    "type": "manual",
+    "temp": 17.7,
+    "time": 1641250800000,
+    "comment": "",
+    "sg": null,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "38fWoeuZCIqBjaNs32kR02ynhF2kc1"
+  },
+  {
+    "comment": "",
+    "time": 1641238200000,
+    "temp": 17.4,
+    "type": "manual",
+    "sg": null,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "bdzMCEtKlTmMkIpgJ6aS3S0dCKbe7E"
+  },
+  {
+    "comment": "",
+    "time": 1641222900000,
+    "type": "manual",
+    "temp": 17.8,
+    "sg": null,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "foW53kVfWw2g6VGMjcapXcTCebd1Vq"
+  },
+  {
+    "temp": 17.4,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "time": 1641207600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "TjGGpvLoxBikQ7TzY2OPYP2LaoUAWo"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "time": 1641195900000,
+    "type": "manual",
+    "temp": 17.1,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "s29neLFh4mwCXW2iCEdSeAf3BVVced"
+  },
+  {
+    "temp": 17.4,
+    "type": "manual",
+    "id": "manual",
+    "time": 1641178800000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "UslnxoyUycgTjhq2lEcCGZd9XjVeLP"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 17.5,
+    "time": 1641164400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "swipRUgpXP4sKUh4AuJHG3gj7MNcSX"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "comment": "",
+    "time": 1641160800000,
+    "id": "manual",
+    "temp": 17,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "kvIRIk2AtI2AxH4CM35D92GNfC5Zjl"
+  },
+  {
+    "type": "manual",
+    "temp": 17.1,
+    "comment": "",
+    "time": 1641139200000,
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "7a9h4yfNj39LlWWDFeYHmrOs6zrIqg"
+  },
+  {
+    "time": 1641124800000,
+    "id": "manual",
+    "type": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 17,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "okEWKtsSSAmw7p828EsO9HDC4S18VL"
+  },
+  {
+    "comment": "",
+    "temp": 17.3,
+    "id": "manual",
+    "time": 1641114900000,
+    "type": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "MAOMFE0i8hydJS9AogtIaIh8iEakdO"
+  },
+  {
+    "id": "manual",
+    "sg": null,
+    "time": 1641106800000,
+    "comment": "",
+    "temp": 17.6,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ovR6yCaIyYNHrAWits8afbIFPXkNCw"
+  },
+  {
+    "sg": null,
+    "type": "manual",
+    "temp": 17.2,
+    "id": "manual",
+    "time": 1641092400000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "YQrJXEtEbg4LkrVqkQjTMYfPJL9KjA"
+  },
+  {
+    "id": "manual",
+    "comment": "",
+    "time": 1641078000000,
+    "type": "manual",
+    "temp": 17.1,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "tIpibH0TIvnlRZo8KvGI2TfCwrLvB6"
+  },
+  {
+    "time": 1641076200000,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "temp": 16.6,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "AmyfKOLhItsAcvI68ERT9CE8TSRUiI"
+  },
+  {
+    "sg": null,
+    "time": 1641061800000,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "temp": 17.5,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ZFd0vhmQuQbaec6zEujEl15WOmvr0t"
+  },
+  {
+    "sg": null,
+    "temp": 17.1,
+    "time": 1641045600000,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "16vSWblSoJsQEO7AedEaH1N7U6kQG1"
+  },
+  {
+    "sg": null,
+    "comment": "",
+    "temp": 16.7,
+    "type": "manual",
+    "time": 1641031200000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Vj8ZSDyiK9sWVU63KszmWdZoAPE9Vc"
+  },
+  {
+    "temp": 17,
+    "time": 1641020400000,
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "91RVBaTEWn2lPUdxOooFaysvzG1feq"
+  },
+  {
+    "id": "manual",
+    "time": 1641006000000,
+    "comment": "",
+    "sg": null,
+    "type": "manual",
+    "temp": 17.4,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "6TTdJKpxY4HgkaabXj3UK4DoVEJkLj"
+  },
+  {
+    "comment": "",
+    "time": 1640991600000,
+    "type": "manual",
+    "temp": 16.6,
+    "sg": null,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "rseMKVWaSqjO9SmaUg19k9ND3f83eS"
+  },
+  {
+    "temp": 16.7,
+    "sg": null,
+    "id": "manual",
+    "time": 1640979000000,
+    "comment": "",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "gLGjNTGvRvApdjVhZjUHUTyGYFieod"
+  },
+  {
+    "sg": null,
+    "id": "manual",
+    "temp": 16.6,
+    "comment": "",
+    "type": "manual",
+    "time": 1640960100000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "A9fAPu7JPt1eNGHmJcGfEeP5Pi0KPz"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "temp": 16.7,
+    "comment": "",
+    "sg": null,
+    "time": 1640948400000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "OksgFT0Hk3qdp4XCt0vpyCineZbC6d"
+  },
+  {
+    "id": "manual",
+    "type": "manual",
+    "time": 1640939400000,
+    "comment": "",
+    "temp": 17.3,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "MKrHDbrkfx7FKjrpgHaPEH8nv5ev85"
+  },
+  {
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "sg": null,
+    "time": 1640934000000,
+    "temp": 16.6,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "M6qTR50cjvO4X2S4WDuvewOaOaiRcI"
+  },
+  {
+    "sg": null,
+    "temp": 16.7,
+    "time": 1640919600000,
+    "id": "manual",
+    "comment": "",
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "r0yaJfTuEOm70WipAIHjNm5zncvsF2"
+  },
+  {
+    "temp": 16.8,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "time": 1640905200000,
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Fsqg1En8DQ2EaGl5m364o6gGx0hNEM"
+  },
+  {
+    "temp": 16.9,
+    "id": "manual",
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "time": 1640892600000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "3OWmIJR2XZHjejGplis2h6pwDDXz9Z"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "temp": 17.4,
+    "id": "manual",
+    "time": 1640876400000,
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "7iy70WApBMPvS9OXCCroya0nCWHUv3"
+  },
+  {
+    "sg": null,
+    "temp": 16.6,
+    "type": "manual",
+    "time": 1640862000000,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Bq3GDNXgGwH8S1O7utGCc6vhooiVTS"
+  },
+  {
+    "temp": 16.8,
+    "sg": null,
+    "comment": "",
+    "id": "manual",
+    "type": "manual",
+    "time": 1640852100000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "MLJHZrgEHcArQeaFPPT4z118ws7Lox"
+  },
+  {
+    "time": 1640847600000,
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "temp": 17.5,
+    "type": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "jOYZICejJGKmfyfbYhKk0MpkL7r7ZQ"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "time": 1640833200000,
+    "temp": 17,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "9ob4dE3b0yLX78Z859WOBovkXCC1DG"
+  },
+  {
+    "comment": "",
+    "temp": 16.8,
+    "id": "manual",
+    "time": 1640830500000,
+    "type": "manual",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "ZuYvOPafUQ5Z2oL9Fwvt4pgETOXnyc"
+  },
+  {
+    "type": "manual",
+    "temp": 16.7,
+    "time": 1640818800000,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "X0FJMJKLOBFJQ9ALF3vUhOQsB57CCz"
+  },
+  {
+    "time": 1640804400000,
+    "sg": null,
+    "temp": 16.8,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "qOOCt2CnGu6uEGIL2MgMzAmC3HsIHc"
+  },
+  {
+    "comment": "",
+    "type": "manual",
+    "id": "manual",
+    "time": 1640793180000,
+    "temp": 16.8,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "OUlCfcfSswtET9w8TwMjeHzJFP2I0F"
+  },
+  {
+    "type": "manual",
+    "sg": null,
+    "temp": 17.1,
+    "id": "manual",
+    "comment": "",
+    "time": 1640790000000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "FxGnfTFxkSilYbZirZ7xb9kwFABeML"
+  },
+  {
+    "type": "manual",
+    "temp": 16.7,
+    "time": 1640775600000,
+    "sg": null,
+    "id": "manual",
+    "comment": "",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "7lBe2pKrQcZGxTmdk2631uPFmTMoX5"
+  },
+  {
+    "time": 1640766900000,
+    "sg": null,
+    "comment": "",
+    "type": "manual",
+    "temp": 15.8,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "3eXf8nkseMFD5k20jBAoaItmaxLn0B"
+  },
+  {
+    "time": 1640761200000,
+    "temp": 16,
+    "type": "manual",
+    "id": "manual",
+    "comment": "",
+    "sg": null,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "38vNA0oKGt5gLDpjzGIOv4XaIcZoVC"
+  },
+  {
+    "type": "manual",
+    "id": "manual",
+    "sg": null,
+    "temp": 17,
+    "comment": "",
+    "time": 1640746800000,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "KLixyG0LhOojfYXNpRFvAGLADoLLYX"
+  },
+  {
+    "sg": null,
+    "time": 1640732400000,
+    "type": "manual",
+    "comment": "",
+    "id": "manual",
+    "temp": 17.1,
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "Grh1VSBlHbnnZDs2gL0BcMNq3EmdLX"
+  },
+  {
+    "type": "manual",
+    "comment": "",
+    "pressure": 0.145038,
+    "temp": 22.2,
+    "sg": 1.042,
+    "time": 1640725200000,
+    "id": "manual",
+    "__acc_reading_doc_id": "TjtwdVQupuNBdoluPdPMKXCyuffTpq$0$manual$manual$0",
+    "__acc_reading_data_id": "5TVeAnesNoXizaG6ZJU98CuyVomZhK"
+  }
+]

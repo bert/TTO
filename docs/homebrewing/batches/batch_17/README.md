@@ -51,4 +51,4 @@
 |-----|------------|-----|-------|-------|
 |     | 15-01-2022 |   0 |       | Bottling day. |
 |   1 | 25-03-2022 |  69 |  0.00 | Gusher. |
-|   2 | 11-08-2022 | 208 |  2.50 | A clear Blonde ale with a small foam layer which dissolves at a nmedium rate. Normal carbonation. Mild on hops, sweet. Clear crisp mouthfeel |
+|   2 | [11-08-2022](20220811_Batch_17_Three_Hops_Blonde_v2_BJCP_Scoresheet-2_2.pdf) | 208 |  2.50 | A clear Blonde ale with a small foam layer which dissolves at a nmedium rate. Normal carbonation. Mild on hops, sweet. Clear crisp mouthfeel |
