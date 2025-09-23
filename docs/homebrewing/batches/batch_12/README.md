@@ -24,9 +24,9 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-![bottled pH](bottled_ph.png)
-
 ![temperature](temperature.png)
+
+![bottled pH](bottled_ph.png)
 
 [Results](./Batch_12_AnOtter_Apple_Cider_results.pdf)
 
