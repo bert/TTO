@@ -14,13 +14,13 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -51,5 +51,5 @@
 |-----|------------|-----|-------|-------|
 |     | 28-12-2021 |   0 |       | Brew day. |
 |     | 15-01-2022 |  18 |       | Bottling day. |
-|   1 | 25-03-2022 |  87 | 3.00  | A clear Blonde with a decent foam layer which remains. Strong on hops, sweet, citrusy. Crisp, dry mouthfeel. |
+|   1 | [25-03-2022](20220325_Batch_18_Three_Hops_Blonde_v3_BJCP_Scoresheet-1_2.pdf) |  87 | 3.00  | A clear Blonde with a decent foam layer which remains. Strong on hops, sweet, citrusy. Crisp, dry mouthfeel. |
 |   2 | 17-09-2022 | 263 | 2.75  | A cloudy/hazy blonde with a decent foam layer. Highly carbonated.Stron hops, dank, herbal flavor. Dry mouthfeel. |
