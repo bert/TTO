@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -27,6 +25,8 @@ Archived.
 ![conditioning](conditioning.png)
 
 ![bottled pH](bottled_ph.png)
+
+![temperature](temperature.png)
 
 [Results](./Batch_12_AnOtter_Apple_Cider_results.pdf)
 
@@ -61,8 +61,8 @@ Archived.
 |     | 06-06-2021 |   0 |       | Brew day. |
 |     | 27-06-2021 |  21 |       | Bottling day. |
 |   1 | 04-09-2021 |  90 |  2.5  | Served at 11 C. Cloudy. Opened with a small puff. Light carbonation. Still very green, needs more time to mellow out ... if it will. |
-|   2 | 04-06-2022 | 363 |  2.75 | Served at 12 C. Cloudy. Opened with a small puff. Light carbonation. Dry, tart, apple flavour. Hazy. |
-|   3 | 01-06-2024 |1091 |  3.0  | Served at 10.8 C. Cloudy. Opened with a small puff. Light carbonation. Dry, tart, apple flavour. Hazy. |
+|   2 | [04-06-2022](20220604_Batch_12_AnOtter_Apple_Cider_BJCP_Scoresheet-2_16.pdf) | 363 |  2.75 | Served at 12 C. Cloudy. Opened with a small puff. Light carbonation. Dry, tart, apple flavour. Hazy. |
+|   3 | [01-06-2024](20240601_Batch_12_AnOtter_Apple_Cider_BJCP_Scoresheet-3_16.pdf) |1091 |  3.0  | Served at 10.8 C. Cloudy. Opened with a small puff. Light carbonation. Dry, tart, apple flavour. Hazy. |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |

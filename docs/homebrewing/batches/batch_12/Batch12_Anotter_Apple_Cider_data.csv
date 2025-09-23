@@ -1,0 +1,231 @@
+time,id,comment,temp,type,sg,__acc_reading_doc_id,__acc_reading_data_id,timepoint,ph,pressure
+1629668540281,manual,,20.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ZmvNOqH51tPUpf01B1WLZY29qyj3f1,2021-08-22T21:42:20.281Z
+1629642812980,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,L0DrSeAMBFETV9q4eFPsStZEFSiwA6,2021-08-22T14:33:32.980Z
+1629617979206,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,TS1NvTtVdJIJX4pO0ZjDcWA4GTeUl5,2021-08-22T07:39:39.206Z
+1629582085177,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,nKhQTqpvyPr5HSofHMpQHvla7PVbX0,2021-08-21T21:41:25.177Z
+1629563799431,manual,,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,glecWvdYC1NeQmpcQTzZeQtl1bzCfz,2021-08-21T16:36:39.431Z
+1629532721836,manual,,19.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,kD1y2ilw55koFEuD8VUTyGDfJsi5yt,2021-08-21T07:58:41.836Z
+1629487478731,manual,,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,5OtGjSSXY6iPXRGoEQRZo62tZYstFt,2021-08-20T19:24:38.731Z
+1629462900000,manual,,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ppFboLBc2Kyj51nufD2cyKtYYLtovB,2021-08-20T12:35:00.000Z
+1629441402255,manual,,19.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,R18bCZUzGZschSBlnhNwQJZlKWIC4t,2021-08-20T06:36:42.255Z
+1629409755398,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,fz78FyM74iBWglqPSBjpUZxAaFjUXi,2021-08-19T21:49:15.398Z
+1629380683091,manual,,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,QJG8HtY5yJp19coUemy7ES57q6CFWP,2021-08-19T13:44:43.091Z
+1629355080000,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,UgpuXM6YgSCeZZX7ghbtMwfeHof3a5,2021-08-19T06:38:00.000Z
+1629323700000,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,tzViDRm8WI6PmU32tYT94p6tz0HUWn,2021-08-18T21:55:00.000Z
+1629301020000,manual,,20.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Wr8VP1vfJZeJUxKauXVt9ZKJNpeiHR,2021-08-18T15:37:00.000Z
+1629270574835,manual,,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,tU5s5qinnvdZvl8T0LEJAm6LP4AqZh,2021-08-18T07:09:34.835Z
+1629236480324,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Bk2rzEtwIhPehEF6t8hStWJ3lThJpY,2021-08-17T21:41:20.324Z
+1629219480000,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,8cyilWu7x91aRxIwRGBC2MuUwvYX9M,2021-08-17T16:58:00.000Z
+1629193728813,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,WvPXJHSzknL7EdjGA7F9U1IcZ6JRp9,2021-08-17T09:48:48.813Z
+1629182854568,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,tLSKTTGWCEX0dFADedoeuZH4bUt10c,2021-08-17T06:47:34.568Z
+1629151016286,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,4Z5c9z9EES39RUN7HL3gAffU18u7CF,2021-08-16T21:56:56.286Z
+1629121390035,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,3O9JnOJTOhcZRfDDUx1ytIoWPmaoUH,2021-08-16T13:43:10.035Z
+1629097373089,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Xt0nNvpMqUxdchllrqIDmx3Dgj2EXv,2021-08-16T07:02:53.089Z
+1629060733164,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,a4AEZW02pcJ6ARBwu1k5dkUNRgipzA,2021-08-15T20:52:13.164Z
+1629041942830,manual,,20.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,dB8SiOL9g37FPNDuN2VQvZDpmh1Klz,2021-08-15T15:39:02.830Z
+1629014278011,manual,,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,c6p8Jzrvebmc7EarOqkkjriGf4F6sD,2021-08-15T07:57:58.011Z
+1628971179999,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,c0PyfHQN1xKSPcq7mPOPoERAaOufhE,2021-08-14T19:59:39.999Z
+1628945642010,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,pifRL3uUjrLdVyjCiq27wGBapL3u96,2021-08-14T12:54:02.010Z
+1628926054125,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ckNaEDfvfpT7aMz0578i4RFxTER5ez,2021-08-14T07:27:34.125Z
+1628891627427,manual,,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,JL7xJwVh8TzYMIrZLqPt3zdMasLmvh,2021-08-13T21:53:47.427Z
+1628873112857,manual,,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,B0eNeMBLJC7UoL76HPTGSlOOjZWkdb,2021-08-13T16:45:12.857Z
+1628837807654,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,szQ0ww5jtNngLEEARzcFD2QSCCex9m,2021-08-13T06:56:47.654Z
+1628800967542,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,7sSsuURanaiTo2XOxIsVVNCTpoKRmg,2021-08-12T20:42:47.542Z
+1628786420028,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,8Rjrfz4cSulIkEaoAeRb9qFxGOUiGB,2021-08-12T16:40:20.028Z
+1628753067980,manual,,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,wzEB7rgREq7WQFbpyZEDBFxPMqeZnv,2021-08-12T07:24:27.980Z
+1628716531531,manual,,19.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,fBXp37ie8srqtHERUmaNCbLsNttNsq,2021-08-11T21:15:31.531Z
+1628691192404,manual,,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,IVjJxzkqzgypMgwtU1SE0sABraq0Jy,2021-08-11T14:13:12.404Z
+1628663898435,manual,,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,s6y0PWPp7IzmxuyM62s1i0qX2bql09,2021-08-11T06:38:18.435Z
+1628630137046,manual,,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ezWsqGYX1bR74p8r1m6F5Gfh40oZO4,2021-08-10T21:15:37.046Z
+1628606316799,manual,,19.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,GQTPbOv3nfx25IK0xEpkXZIQoBzgKg,2021-08-10T14:38:36.799Z
+1628575655020,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,VfpBiUatLhEvX05C4c67TvfTkry5LW,2021-08-10T06:07:35.020Z
+1628546271345,manual,,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,rHrKQFIfE3OE6DCao2PQaYm8htUQqf,2021-08-09T21:57:51.345Z
+1628522716508,manual,,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,tYPqwVADUmU24MCKUM8D0vP6imarAT,2021-08-09T15:25:16.508Z
+1628492880000,manual,,19.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,rbDpUpcUC5uK3TkLSXizMVn8Dcj2G9,2021-08-09T07:08:00.000Z
+1628459756522,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Oveln2B3RUrgFzOAkNy5WHQEmqVQRd,2021-08-08T21:55:56.522Z
+1628445996930,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,VjXoSLC64bWHZVTDBHkRMdzs23z0jB,2021-08-08T18:06:36.930Z
+1628413281720,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,BGxJUpE5jpTxfH0VaaJzpoRFiYmdUw,2021-08-08T09:01:21.720Z
+1628368656246,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ZrclxRa5qAABuHRT1VsnDVp7Lavann,2021-08-07T20:37:36.246Z
+1628348042009,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,IOAKATCDwuVaygEfT8J1BS7M8Wj192,2021-08-07T14:54:02.009Z
+1628315227799,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,DwtP5SB1nt9HYnavytYGag1qINxgWV,2021-08-07T05:47:07.799Z
+1628281174417,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,GKQondYztuCXHJjm4VGNj3RpR2LQ4o,2021-08-06T20:19:34.417Z
+1628257851596,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,CuRsseS67P4zqXCsTojgAyZnZRskej,2021-08-06T13:50:51.596Z
+1627894285566,manual,,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,NFo8jvffiPqYVYnzBdA6K8HCxtTiw8,2021-08-02T08:51:25.566Z
+1627854575132,manual,,20.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,KdPIGIZ5GOUXGWa4Yyr38tJAhgcsQh,2021-08-01T21:49:35.132Z
+1627824112267,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,2yUsYLHQKve2WFyjyUUhVDQiatlQ8t,2021-08-01T13:21:52.267Z
+1627807934400,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,gE1zgSZ6mgJEz3GILOgcwUdf11W16w,2021-08-01T08:52:14.400Z
+1627768680000,manual,,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,mZlfC5psYfzlqpDvPhcAEok13UzffR,2021-07-31T21:58:00.000Z
+1627743587697,manual,,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,10CPUDrvCNPWZUfOicjqAqUfkjbKxU,2021-07-31T14:59:47.697Z
+1627719826336,manual,,20.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,nEK5RqggyjetQ29XqCDSh9meYZCEZb,2021-07-31T08:23:46.336Z
+1627681052172,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,QMvaRgRu0vgBPzahmC12s31W7svfqv,2021-07-30T21:37:32.172Z
+1627655044209,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,0cc2TtcRRsrTnLcXpxxqefYuhw0K4V,2021-07-30T14:24:04.209Z
+1627627674339,manual,,20.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,bDLc1vPN2RJ7W7HCAO7fbbsgxG5Gvp,2021-07-30T06:47:54.339Z
+1627595029234,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,IsgKfFrqqeQsF3CY2RNtDIyKtSn9Vu,2021-07-29T21:43:49.234Z
+1627576754331,manual,,20.5,manual,NaN,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,uNAjNH298nPdgcoRsAKZua7B8Lul5a,2021-07-29T16:39:14.331Z,NaN
+1627541700000,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,EHFNilEGCaaE0cUx4pyVZAvQgZ2ALi,2021-07-29T06:55:00.000Z,
+1627507453843,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,X5L4DtMoIK4cx1BUZ6vHSPTlxqjiB4,2021-07-28T21:24:13.843Z,
+1627481554182,manual,,20.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,DXKuJbJi8UqcfG0G90LKjRy8kwM4ee,2021-07-28T14:12:34.182Z,
+1627452890057,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,LQ4cRLWPZs2KSZ1mQje40VgJY5Obqk,2021-07-28T06:14:50.057Z,
+1627418649972,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,leIJxAkevkUz4L7tBEg1uY8IXTBgnj,2021-07-27T20:44:09.972Z,
+1627393579605,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,GBcxxeZhy6QhtyfjvjRFEhMnr3Gfbj,2021-07-27T13:46:19.605Z,
+1627365380283,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ZoV7iZYTzibw4Z1FElhkHAa1xQeWjm,2021-07-27T05:56:20.283Z,
+1627333227610,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,5juZAQuzEH1rTYF5V59PbKIzlTYjFQ,2021-07-26T21:00:27.610Z,
+1627311534564,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,9SuzFvI2z4WZqN2yBFyBsV1eYF5DgJ,2021-07-26T14:58:54.564Z,
+1627282710825,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,BgOwqPfBNjwnfUkrsCU5MTtNx4CTKT,2021-07-26T06:58:30.825Z,
+1627247808158,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,OzXiO9PufJ1KYtfd6ZL6KVEIpApNIF,2021-07-25T21:16:48.158Z,
+1627224908118,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,7FSI5vpcxuRexSv4w09yDrr9hj1Kdh,2021-07-25T14:55:08.118Z,
+1627195978278,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,QwbrWPleAsmWkrS9CpTriGa9gReIbM,2021-07-25T06:52:58.278Z,
+1627157870734,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Pu7To37sbqXnBMcRbhNifDeJFdJbcE,2021-07-24T20:17:50.734Z,
+1627136539816,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,zU2xXRTwNX2cm1dE9ARJaz3h4e5Ucs,2021-07-24T14:22:19.816Z,
+1627111696744,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,mFH5hHE6Efl2gkCzpR4F8kvzY6rCFh,2021-07-24T07:28:16.744Z,
+1627071847585,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,fMXitMiggk2480CWJWL04tb5w8YtYc,2021-07-23T20:24:07.585Z,
+1627047391044,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,0ojjMB3uWmCebDiTdkZd1PWMIXMXzq,2021-07-23T13:36:31.044Z,
+1627020511840,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,kKrAEi8mGFut9WmruZyDIeazTTm66a,2021-07-23T06:08:31.840Z,
+1626985965540,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,THDT2jMrN7PB84KievxXcSa9UMpwbJ,2021-07-22T20:32:45.540Z,
+1626958416311,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,qwNHYdBzHMI7mwsBH6vKfxFC1oHQln,2021-07-22T12:53:36.311Z,
+1626934479036,manual,,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,yg8LjpyA5EsgBEdLq1SgmEIqahsLKD,2021-07-22T06:14:39.036Z,
+1626904172572,manual,,20.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,s3FIgKAVnQDszTbb5S2CQ3g6cVeJtA,2021-07-21T21:49:32.572Z,
+1626877730980,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,SlbE2923ReyfaMZ0MsM2RTb1Wd0HXY,2021-07-21T14:28:50.980Z,
+1626852654841,manual,,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,eXCy70og50teH2KHbe7w4p4epKBHbn,2021-07-21T07:30:54.841Z,
+1626815800832,manual,,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,3wZepG7R7RDSjesMq7wOZNRxM6udL5,2021-07-20T21:16:40.832Z,
+1626795866358,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,1I5UV3KHGmidpxwT8puFyCRlZDnKlK,2021-07-20T15:44:26.358Z,
+1626778969454,manual,,20.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,rtMJaoEiKhhVilWKyJtohz7dgC43xf,2021-07-20T11:02:49.454Z,
+1626762738021,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,yvHUpejDfmGpr3ojTVwh81MAjGvzD9,2021-07-20T06:32:18.021Z,
+1626725120726,manual,,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,YWFDDrk0hC6sqvuUgNU6eWKY76BT3u,2021-07-19T20:05:20.726Z,
+1626697315108,manual,,20.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,FCcj2Y7TA10GfmFADQ4w19bgYVZWLH,2021-07-19T12:21:55.108Z,
+1626677303628,manual,,20.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,BbBJFNDjkC2AiDSLiSTyhGcSnDE7PP,2021-07-19T06:48:23.628Z,
+1626641926888,manual,,20.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,lNwvq68C1TlaWpMMUWV9OEEazxkSCq,2021-07-18T20:58:46.888Z,
+1626615097551,manual,,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,N3iNJ3Ns6yio6xhwicpsDhp3mEBqpr,2021-07-18T13:31:37.551Z,
+1626594960000,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,idSgYUfx40R9VvPj2w7ImJtXrcWNWY,2021-07-18T07:56:00.000Z,
+1626556346928,manual,,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,xhIjMwXjE8nPajDiSeiWl5kC9AQNvZ,2021-07-17T21:12:26.928Z,
+1626524530402,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,MW08lDbCjbiHQMt5NNv0Fo4KhQLXCZ,2021-07-17T12:22:10.402Z,
+1626504338084,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,RO8wwcihrTVDr5jDjCwqIxWH7UyKLH,2021-07-17T06:45:38.084Z,
+1626467548568,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,o871PTcSs8ZGdflIawQM8cAtDQEeJW,2021-07-16T20:32:28.568Z,
+1626443627776,manual,,19.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,2yEgHbRiA4VIVNLc6wuHxEyFzXbStY,2021-07-16T13:53:47.776Z,
+1626417927330,manual,,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ePnmkgTUgT9MHzoNDPqoGHSSPTtgDf,2021-07-16T06:45:27.330Z,
+1626385800000,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,hq6dpiQMkAE8JzxUG8DPwjUu1oshtT,2021-07-15T21:50:00.000Z,
+1626349443861,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,wMx9DkuuaqDnj8iPur0LvTxPJUN9gY,2021-07-15T11:44:03.861Z,
+1626325380000,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,JxSKlwmbIVcRtWgM8kGs8sn1CZLKjw,2021-07-15T05:03:00.000Z,
+1626299880000,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,iqlsbfRTEtfpkuLoj4Afg4yArgAgZs,2021-07-14T21:58:00.000Z,
+1626262404090,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,K3RymGQHHSLO7929WTxhZbFzlcfdbm,2021-07-14T11:33:24.090Z,
+1626246278946,manual,,20.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,IyaWryN03nCteVybhqli2pkHeZlCZT,2021-07-14T07:04:38.946Z,
+1626200715966,manual,,20.1,manual,NaN,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,zPQql5MJH8kIixHOvDnykr5zUV1tkQ,2021-07-13T18:25:15.966Z,NaN,
+1626176375922,manual,,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,bBsZTuYaFkFrAW7TY0UgEqfmKliVIL,2021-07-13T11:39:35.922Z,,
+1626155346927,manual,,19.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,xK05SIFHbgxMMeaDhJjJtAKgZwEaqL,2021-07-13T05:49:06.927Z,,
+1626124879048,manual,,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,qm3LonWOyeICGnoxhc9wFjV0tCy2OJ,2021-07-12T21:21:19.048Z,,
+1626096159026,manual,,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,YnivFF8XVfw2trHNshviOQr3QFym3o,2021-07-12T13:22:39.026Z,,
+1626071054679,manual,,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,pnPkx12STQNVEA3ymc4eu3HVXbU6Uj,2021-07-12T06:24:14.679Z,,
+1626040620702,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,rV5cSFnSN4vsCQMMoFgTV5Y5VGQqWc,2021-07-11T21:57:00.702Z,,
+1626023049427,manual,,19,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,2rG0XBW1E3iIv6GVCDf9K79ouKcWn8,2021-07-11T17:04:09.427Z,,
+1626004623428,manual,,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Kmm0niD6oVxpAeZLXc3NQbutLvRYUp,2021-07-11T11:57:03.428Z,,
+1625991846691,manual,,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,pMumIzX8BohsrWnKKSerkYH2pr5dqD,2021-07-11T08:24:06.691Z,,
+1625942925904,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,yXfM3TCJYu6RQJT4flm64p1arv6fyC,2021-07-10T18:48:45.904Z,,
+1625912284665,manual,,19,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,IMqTIKnhASUA9Ako2tGN3dhFt6UIEn,2021-07-10T10:18:04.665Z,,
+1625866984977,manual,,19,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,JFePVHLiW9oQAfjLMoutyRt0AaWbfP,2021-07-09T21:43:04.977Z,,
+1625834961013,manual,,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,jYuky6V88BSOBBgtPOm4GGiUdhzoAj,2021-07-09T12:49:21.013Z,,
+1625810291940,manual,,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,iFuF3OA0Acw40SW3NmnJKbpM2dqyNA,2021-07-09T05:58:11.940Z,,
+1625776258618,manual,,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,zLBuVQuZf9cC9IIXtFacEjYFTFlSlu,2021-07-08T20:30:58.618Z,,
+1625750284280,manual,,19,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,cA9V9Vsom9y4cdrgxYq2Uu9JtXmeDS,2021-07-08T13:18:04.280Z,,
+1625725425178,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,DfRYqBZe6o9z4KsDKKAW0GFPffoM1G,2021-07-08T06:23:45.178Z,,
+1625683421997,manual,,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,9cbxJCIObZUU00CMlujaxqDpt7C4iz,2021-07-07T18:43:41.997Z,,
+1625656972393,manual,,19.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,eeBmDgoIr2xIV8AajKS3XqJCSt8fZm,2021-07-07T11:22:52.393Z,,
+1625636236620,manual,,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,5W5pl84IUAWu8fza3T0ymEh3KhsxnS,2021-07-07T05:37:16.620Z,,
+1625608431615,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,KdNfN03b8Qwpeft3Rq5tjTK6CYOx8H,2021-07-06T21:53:51.615Z,,
+1625586927393,manual,,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,AzChICEUv9VcU7yQPF1aDpIpcm3DRE,2021-07-06T15:55:27.393Z,,
+1625561942127,manual,,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,cLvmxCREexNnrp8aO8thYIMtMY7YhC,2021-07-06T08:59:02.127Z,,
+1625551741350,manual,,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,735BZXtFqsDq2XYajSEKDgHAwdhUGC,2021-07-06T06:09:01.350Z,,
+1625520798442,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,35oZz5SCGsbOyZMyZjZzvVPZdHCRcQ,2021-07-05T21:33:18.442Z,,
+1625489607727,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,aSZJZGuJugcszwoRGIwSPNIKU5T05F,2021-07-05T12:53:27.727Z,,
+1625465639213,manual,,19.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,jzD4cMW2BiaKnpUYyPbUVCGeMDndjP,2021-07-05T06:13:59.213Z,,
+1625435700000,manual,,19,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,oH05npUaziBQm8Mw80wFIppsIAS77L,2021-07-04T21:55:00.000Z,,
+1625411228903,manual,,19,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,UoKmEJC7Qa66EG0ddkAefsLb4jzs1o,2021-07-04T15:07:08.903Z,,
+1625398200000,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,aoJzIE9E5TMVyopD4OTpdFJPtFFQ3j,2021-07-04T11:30:00.000Z,,
+1625395500000,manual,,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,zMKEnEBcfBrh5P6BlapuUlory70vKv,2021-07-04T10:45:00.000Z,,
+1625381100000,manual,,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,lc07Q7ejWvAqpwkVqOSpgdNYGHd9Qb,2021-07-04T06:45:00.000Z,,
+1625348700000,manual,,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,zRDb61CYEbtJQCJFjpdi9hszW5DlQt,2021-07-03T21:45:00.000Z,,
+1625326200000,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,kJ5Vrk1vQBfQLdnwi5gZdsH8nv1U82,2021-07-03T15:30:00.000Z,,
+1625309100000,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,OCBqeD0AtIxxwDcSYFE3Hk9sZEbshD,2021-07-03T10:45:00.000Z,,
+1625294700000,manual,,19.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,xcxnbGF9IK1WvDgD5Xa4MpFn2jxsuR,2021-07-03T06:45:00.000Z,,
+1625262300000,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,JArjnUbOcwa9E7MEw8KKGukY4cLf1Z,2021-07-02T21:45:00.000Z,,
+1625239800000,manual,,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,8PE4x6XEJLS38HPgkN56PYoY9AfkUf,2021-07-02T15:30:00.000Z,,
+1625222700000,manual,,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,xugHzpsOzcpXZDR2oVzteJPuI8Gbu6,2021-07-02T10:45:00.000Z,,
+1625208300000,manual,,19.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,9kYcO1JkjANw2L8v1yCbEbzF4IZFaJ,2021-07-02T06:45:00.000Z,,
+1625169600000,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,pH5ukAt4IFrCX25a0GhaQNtHq8v4MG,2021-07-01T20:00:00.000Z,,
+1625153400000,manual,,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,nyk5OFMeNzXIqZt1txxpKkF4HLQJFB,2021-07-01T15:30:00.000Z,,
+1625136300000,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,V4toU5wcLUBuFfatsS1jqHMlGP2f2e,2021-07-01T10:45:00.000Z,,
+1625117400000,manual,,19.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,EYk11JzaL4tGV665jYt9HRAM1kV83L,2021-07-01T05:30:00.000Z,,
+1625078700000,manual,,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,eeXgLO2Hgf542bhoGMFepNDT3A8jXf,2021-06-30T18:45:00.000Z,,
+1625063400000,manual,,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,OmPDsNqUhKn6588NyHfSNzoK1uHZQw,2021-06-30T14:30:00.000Z,,
+1625049900000,manual,,19.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,m1YepiHMlq3y4RMKi8kaW9CwqAJZbd,2021-06-30T10:45:00.000Z,,
+1625035500000,manual,,19.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Jq8Aii1YCjTJT9x5dYESyj0cRTkbB5,2021-06-30T06:45:00.000Z,,
+1624995900000,manual,,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,2Uz3QPgwipXMwTt0pf9T4QQ8LfczSf,2021-06-29T19:45:00.000Z,,
+1624979700000,manual,,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,n1YIT5lYNzlX6QxQxOyGFjkUAczRtr,2021-06-29T15:15:00.000Z,,
+1624963500000,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,0QNKz5eCAZBRC6HcTLHihAub3CCe0p,2021-06-29T10:45:00.000Z,,
+1624949719927,manual,,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,vGNAjN3FELhHtAxziIFO9kEdkaNETE,2021-06-29T06:55:19.927Z,,
+1624894200000,manual,,20.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,JkZ1WYABm3riqwbfflRICbNMCdyIfK,2021-06-28T15:30:00.000Z,,
+1624877688161,manual,,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,DzFF8Sww8o4GDUwPRld1ngRPAtpell,2021-06-28T10:54:48.161Z,,
+1624853700000,manual,,20.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,do4XNnum9TKUhmLMDnWDA6oT6ZnxPG,2021-06-28T04:15:00.000Z,,
+1624827852603,manual,,20.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,QXB0MH3asBYpxwZdCKj7WGCtBWvmfD,2021-06-27T21:04:12.603Z,,
+1624806817627,manual,,20.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,B2gL3FnfWqZMiybHYGQmUdDzvrl8sd,2021-06-27T15:13:37.627Z,,
+1624793126676,manual,,21.7,manual,0.994,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,RlLwfcdmDcu4UMdks0m3coNy7VC7gU,2021-06-27T11:25:26.676Z,3.86,0.145038
+1624784580000,manual,no bubbles.,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,iM2PqnGQFK1szO1esPII11JNYIizzp,2021-06-27T09:03:00.000Z,,652.66982
+1624741872488,manual,no bubbles.,19.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,FOTGahe2Y3zmizgozD1DmDZBmRaenD,2021-06-26T21:11:12.488Z,,652.66982
+1624719708248,manual,no bubbles.,19.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,1B6tVidkfgXJk35plHSzn8SZTwoFLG,2021-06-26T15:01:48.248Z,,652.66982
+1624694897391,manual,no bubbles.,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,w30q7Qrh8np28ofriHkk62cBImaz6J,2021-06-26T08:08:17.391Z,,652.66982
+1624654162657,manual,no bubbles.,19.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,5NxKM0GV3ODVMdmFRffo3JHRhqYRlr,2021-06-25T20:49:22.657Z,,652.66982
+1624640893354,manual,no bubbles.,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,P9eFw1AdfmhpVtcyVS41TmCRjEozJU,2021-06-25T17:08:13.354Z,,652.66982
+1624614444598,manual,one bubble.,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,nNUysESjTMiVvIb0Z9x9wZUMnmkwaD,2021-06-25T09:47:24.598Z,,725.188689
+1624564186343,manual,no bubbles.,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,R4usiKZmQ5YCgNIYGevCTycYCxyTgz,2021-06-24T19:49:46.343Z,,696.181141
+1624534978455,manual,no bubbles.,19.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,WtPpzAT0QWnnkSaLBYwmHR0PYcsqHc,2021-06-24T11:42:58.455Z,,652.66982
+1624518297958,manual,no bubbles.,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,gWcRVLqK9kHz2bGTYkxO2c2oaxe4to,2021-06-24T07:04:57.958Z,,652.66982
+1624481212489,manual,no bubbles.,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,EYlhviDWUnA2obTRipzKOIP7SVBaM7,2021-06-23T20:46:52.489Z,,580.150951
+1624460163514,manual,no bubbles.,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,25lUXy88xiTlWCAIDudE0s8Wbslc64,2021-06-23T14:56:03.514Z,,652.66982
+1624419811628,manual,no bubbles.,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,JT9sS9pzBge2wCP81HARqtohFjybNB,2021-06-23T03:43:31.628Z,,652.66982
+1624384797936,manual,no bubbles.,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ceq7xLM6NWc6L3wuifGIAIxJLc7uJq,2021-06-22T17:59:57.936Z,,652.66982
+1624334802806,manual,,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,PiVN0tuuTZj32GtU76RY2eWTZVKSPh,2021-06-22T04:06:42.806Z,,
+1624302008794,manual,one bubble.,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,LpscysZLbiQHFPuCiBlA8F0JmCNMQa,2021-06-21T19:00:08.794Z,,725.188689
+1624250766715,manual,,19.2,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,vR3pRUNzqOObaeauQeCFKJLeuxoeu1,2021-06-21T04:46:06.715Z,,
+1624225312099,manual,no bubbles.,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,TKQ6cApT8ErctWVsYsuGIrWbzWRaSh,2021-06-20T21:41:52.099Z,,652.66982
+1624202794396,manual,ni bubble.,19.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Q69WAGA6reCowOw5WdS6awriF5nHGS,2021-06-20T15:26:34.396Z,,710.684915
+1624173000000,manual,one bubble.,19.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,X1Hnt9VPUVNEHnicmYCN06BdJJtPyk,2021-06-20T07:10:00.000Z,,725.188689
+1624135526983,manual,one bubble.,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,RxEKRwKPghphxj4nwXn2z6qphssLko,2021-06-19T20:45:26.983Z,,725.188689
+1624083075131,manual,one bubble.,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,y23zqGmPesiqPMzDrE6CS2sB0dDvIc,2021-06-19T06:11:15.131Z,,725.188689
+1624049188924,manual,no bubbles.,20.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,BPSkB9hL2RWuFjE4SE9GyLNlRUrpNO,2021-06-18T20:46:28.924Z,,652.66982
+1624020720000,manual,one bubble.,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,RxwczgrdeEoYjjqtE0oFsNJk3jNl3T,2021-06-18T12:52:00.000Z,,725.188689
+1623997111039,manual,no bubbles.,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,m78HD3NmPDEZsE3BeBOW88HBoA7ruj,2021-06-18T06:18:31.039Z,,652.66982
+1623960752852,manual,no bubbles.,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,mrUZcWGtvB1b2rDy3xkYl6QDhrYR8J,2021-06-17T20:12:32.852Z,,710.684915
+1623942758961,manual,no bubbles.,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,fUqNCQuvhJFFqGX6IDxoWOkjJBs2MB,2021-06-17T15:12:38.961Z,,652.66982
+1623911676016,manual,no bubbles.,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,9GoSwiYEit0zbqHxjTsqyS8a33MyfB,2021-06-17T06:34:36.016Z,,710.684915
+1623875410099,manual,no bubbles.,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,kVKuRQibeQbAQHMU4X3QwOxuWWfA5X,2021-06-16T20:30:10.099Z,,710.684915
+1623855749393,manual,no bubbles.,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,PRtvIDSnQEn3oRxdllKA4MARrOAKHP,2021-06-16T15:02:29.393Z,,710.684915
+1623828547353,manual,no bubbles.,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,iM84TqJM2d8E5YKgWTYOgJx6otDgC8,2021-06-16T07:29:07.353Z,,710.684915
+1623794047367,manual,one bubble.,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,gUwVmVgZSR99wTEsNA3SGlpLj6SYUx,2021-06-15T21:54:07.367Z,,725.188689
+1623778184432,manual,no bubbles.,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,GNdAyhKiJrQw9Nr7NKbIZFLRl37A9v,2021-06-15T17:29:44.432Z,,710.684915
+1623736532835,manual,one bubble.,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,8FEy7JkNiBY6rZLH7RllWJ00vSlHKX,2021-06-15T05:55:32.835Z,,725.188689
+1623706897862,manual,one bubble.,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,KBMhPizzl0kvnXxkAVaxJUrnlmhoQ6,2021-06-14T21:41:37.862Z,,725.188689
+1623676989454,manual,one bubble.,19.6,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,HlE1DohD9hSOhsup00p7Fpk8fiWTEm,2021-06-14T13:23:09.454Z,,725.188689
+1623650023888,manual,one bubble.,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,IkatJ9ZG43y79jd0o4u9Jh0SbDejVd,2021-06-14T05:53:43.888Z,,725.188689
+1623617901636,manual,one bubble.,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,wkCneKTrFAuyrzSVXRodIbGiK7u2su,2021-06-13T20:58:21.636Z,,725.188689
+1623585225709,manual,few bubbles.,19.9,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,yZyakQ5DWu32qhlGhG1VCevgoggagA,2021-06-13T11:53:45.709Z,,725.188689
+1623570720000,manual,"one bubble,",19,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,ns6mHSJNS92EH6BKIVE6RBhAhBr6hl,2021-06-13T07:52:00.000Z,,725.188689
+1623534742482,manual,many bubbles.,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,iQ4VDFxyRolAiRzpvnAU6D4IzQqe6E,2021-06-12T21:52:22.482Z,,725.188689
+1623508500000,manual,many bubbles.,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Jlqss3qao5F6Cl8hABO9kNE3A7tcl1,2021-06-12T14:35:00.000Z,,725.188689
+1623485165818,manual,many bubbles.,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,H8VBJkHrHDItX9Nhv3eNzZQmKveSUr,2021-06-12T08:06:05.818Z,,725.188689
+1623445525769,manual,many bubbles.,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,7pfQLC6zIei6sSmwCBYaBuHP8IJlWW,2021-06-11T21:05:25.769Z,,725.188689
+1623432487523,manual,many bubbles.,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,cH9fjSQ3ZFwmYO1gdmjdfH1ph8Q23B,2021-06-11T17:28:07.523Z,,725.188689
+1623398691019,manual,many bubbles.,20.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,KcLGbkXsE9TrupYY3rsVNfc0xlB50G,2021-06-11T08:04:51.019Z,,725.188689
+1623360529528,manual,many bubbles.,20.4,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,FMpbpoXMtnrvBfpzHIP7qnkEAKIth4,2021-06-10T21:28:49.528Z,,725.188689
+1623328800000,manual,many bubbles.,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,mZsEqkBlfYdRFNwk4U26Khtd60aveD,2021-06-10T12:40:00.000Z,,725.188689
+1623309477487,manual,many bubbles.,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,JrmW5Z7Hu8YxGpVQUY36gEotDF9x2j,2021-06-10T07:17:57.487Z,,725.188689
+1623271620000,manual,many bubbles.,20.1,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,yGOKXMxHWr0EKtgckfzFNSofBpI6Pr,2021-06-09T20:47:00.000Z,,725.188689
+1623242670457,manual,many bubbles.,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,8oQWGu0f3VaXMV8OBtfqhhXVDg7QhO,2021-06-09T12:44:30.457Z,,725.188689
+1623221623196,manual,many bubbles.,20.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,bj2b80jxHv5zdMRJH0PU8dJbGoLnOB,2021-06-09T06:53:43.196Z,,725.188689
+1623188672468,manual,many bubbles.,20.5,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,fUSRevkNAH7G75v8IMCCXDMimQEQjh,2021-06-08T21:44:32.468Z,,725.188689
+1623153374226,manual,one bubble.,19.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,j4lBByYrhH9gntbgD8mO2XExZOWIpx,2021-06-08T11:56:14.226Z,,725.188689
+1623130475846,manual,one bubble.,19.8,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,GoXY7tWcvX8LDY8da7mZi1YiJ87NQV,2021-06-08T05:34:35.846Z,,725.188689
+1623098011072,manual,one bubble.,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,i3jvF7y8b2lJDu4wbuNaESFPId8lfd,2021-06-07T20:33:31.072Z,,725.188689
+1623069818352,manual,no bubbles.,20,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,KpGUNnl9cgrNMvlvKX7qw8SfPrxGsH,2021-06-07T12:43:38.352Z,,710.684915
+1623047965517,manual,no bubbles.,19.3,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,XjOZSGMjzA7W5tZnRWuJtNfyUl3X46,2021-06-07T06:39:25.517Z,,710.684915
+1623009870727,manual,no bubbles.,19.7,manual,,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,50PyuNx0LIdCqj6dvFf2s2HmrZ5mYL,2021-06-06T20:04:30.727Z,,145.037738
+1623000995746,manual,no bubbles.,19.8,manual,NaN,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,Mhgq8CEdUJb734ysyjYS3PkJ2PUbXJ,2021-06-06T17:36:35.746Z,NaN,0.014504
+1622986140000,manual,pitched 2.15 grams yeast,19.4,manual,1.04,YibgCircIAvpV9Q0SKgqgoAsRJOf4V$0$manual$manual$0,b0WBqvpOQ1x9fLFfxBdCLdnfA4SpJ1,2021-06-06T13:29:00.000Z,3.59,1.450377
