@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled_ph](bottled_ph.png)
 
@@ -51,5 +51,5 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 22-07-2022 |   0 |       | Bottling day. |
-|   1 | 13-10-2022 |  83 | 3.0   | Served at 14.8 C. Strong, full, warm, hoppy. Low carbonation. |
+|   1 | [13-10-2022](20221013_Batch_21_Never_Give_Up_v3_BJCP_Scoresheet-1_2.pdf) |  83 | 3.0   | Served at 14.8 C. Strong, full, warm, hoppy. Low carbonation. |
 |   2 |            |     |       |  |
