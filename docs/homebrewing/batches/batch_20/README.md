@@ -14,8 +14,6 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled_ph](bottled_ph.png)
 
@@ -51,5 +51,5 @@
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 22-07-2022 |   0 |       | Bottling day. |
-|   1 | 09-10-2022 |  79 | 2.50  | Served @ 11.3 C. Strong, warm, yeasty, malty, not much hop flavours. Low carbonation. |
+|   1 | [09-10-2022](20221009_Batch_20_Never_Give_Up_v2_BJCP_Scoresheet-1_2.pdf) |  79 | 2.50  | Served @ 11.3 C. Strong, warm, yeasty, malty, not much hop flavours. Low carbonation. |
 |   2 | 15-12-2024 | 877 | 2.50  | Served @ 17.8 C. Strong, warm, yeasty, malty, not much hop flavours. Low carbonation. This bottle gave hop gunk during pouring. |
