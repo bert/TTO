@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
@@ -25,6 +23,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled_ph](bottled_ph.png)
 
