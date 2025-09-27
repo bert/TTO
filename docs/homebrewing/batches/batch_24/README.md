@@ -60,12 +60,12 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 27-11-2022 |   0 |       | Bottling day. |
-|   1 | 15-12-2022 |  18 | 3.25  | Served @ 16.8 C. Sweet, Malty, Strong. Mild on hops. Good retention. |
+|   1 | [15-12-2022](20221215_Batch_24_Five_Pints_of_Best_Fuggles_BJCP_Scoresheet-1_9.pdf) |  18 | 3.25  | Served @ 16.8 C. Sweet, Malty, Strong. Mild on hops. Good retention. |
 |   2 | 02-03-2023 |  95 |       | Tasting by Clibit pending |
 |   3 | 02-03-2023 |  95 |       | Tasting by Clibit pending |
 |   4 | 26-10-2024 | 699 |       | Tasting by EV pending. |
-|   5 |            |     |       |  |
-|   6 |            |     |       |  |
+|   5 | [12-04-2025](20250412_Batch_24_Five_Pints_of_Best_Fuggles_BJCP_Scoresheet-5_9.pdf) | 867 | 3.25  | Served @ 19.9 C. Sweet, Malty, Strong. Mild on hops. Good retention. |
+|   6 | [07-06-2025](20250607_Batch_24_Five_Pints_of_Best_Fuggles_BJCP_Scoresheet-6_9.pdf) | 923 | 3.25  | Served @ 16.6 C. Sweet, Malty, Strong. Mild on hops. Good retention. |
 |   7 |            |     |       |  |
 |   8 |            |     |       |  |
 |   9 |            |     |       |  |
