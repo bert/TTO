@@ -14,8 +14,6 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled_ph](bottled_ph.png)
 
@@ -52,5 +52,5 @@
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 23-11-2022 |   0 |       | Bottling day. |
-|   1 | 29-12-2022 |  36 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
-|   2 | 20-07-2024 | 605 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
+|   1 | [29-12-2022](20221229_Batch_25_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_EKG_BJCP_Scoresheet-1_2.pdf) |  36 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
+|   2 | [20-07-2024](20240720_Batch_25_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_EKG_BJCP_Scoresheet-2_2.pdf) | 605 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
