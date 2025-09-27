@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled_ph](bottled_ph.png)
 
@@ -51,5 +51,5 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 23-11-2022 |   0 |       | Bottling day. |
-|   1 | 12-01-2023 |  50 | 3.25  | Served at 18.6 C. Has a nice body, malty, yeasty, warm mouthfeel, no off flavours. |
+|   1 | [12-01-2023](20230112_Batch_26_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress_BJCP_Scoresheet-1_2.pdf) |  50 | 3.25  | Served at 18.6 C. Has a nice body, malty, yeasty, warm mouthfeel, no off flavours. |
 |   2 |            |     |       |  |
