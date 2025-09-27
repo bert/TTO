@@ -4,12 +4,13 @@ output_file = "temperature.png"
 set key left top nobox
 set output output_file
 set title "Temperature"
-set style data points
+# format Y-axis
 set ylabel "Temperature [°C]"
 set yrange [0:40]
 set grid y
 set ytics 5
 set mytics 5
+# format X-axis
 set xlabel "Date" offset 0,-4
 set grid x
 set xtics offset 0,-4.5 rotate by 90
@@ -17,8 +18,11 @@ set autoscale x
 set xdata time
 set timefmt "%d-%m-%Y  %H:%M"
 set format x "%d-%m-%Y"
-plot "fermentation.data" using 1:3 pt 0 ps 1 title "Fermentation", \
-     "conditioning.data" using 1:3 pt 0 ps 1 title "Conditioning"
+# plot the graph
+plot "fermentation.data" using 1:3 with points pt 0 ps 1 title "Fermentation", \
+     "conditioning.data" using 1:3 with points pt 0 ps 1 title "Conditioning", \
+     "temperature_profile.data" using 1:3 with lines lt 1 lc 3 title "Profile", \
+     "temperature_set_value.data" using 1:3 with lines lt 1 lc 4 title "Set values"
 # set output back to default
 set output
 # reset terminal type
