@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -61,8 +61,8 @@ Archived.
 |     | 19-02-2023 |   0 |       | Bottling day. |
 |   1 | 02-03-2023 |  11 |       | 11th Home Brewing UK Competition entry. |
 |   2 | 02-03-2023 |  11 |       | 11th Home Brewing UK Competition entry. |
-|   3 | 11-03-2023 |  20 | 2.50  | Served @ 17.4 C. Dry, malty, hoppy, berries. Low carbonation. |
-|   4 | 05-07-2024 | 502 | 3.00  | Served @ 17.4 C. Dry, malty, hoppy, berries. Good foamy lasting head. Low carbonation. |
+|   3 | [11-03-2023](20230311_Batch_30_AnOtter_Bodged_Bitter_BJCP_Scoresheet-3_7.pdf) |  20 | 2.50  | Served @ 17.4 C. Dry, malty, hoppy, berries. Low carbonation. |
+|   4 | [05-07-2024](20240705_Batch_30_AnOtter_Bodged_Bitter_BJCP_Scoresheet-4_7.pdf) | 502 | 3.00  | Served @ 17.4 C. Dry, malty, hoppy, berries. Good foamy lasting head. Low carbonation. |
 |   5 | 03-08-2024 | 531 | 0     | Gusher. |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
