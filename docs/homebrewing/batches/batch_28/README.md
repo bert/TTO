@@ -14,8 +14,6 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -51,5 +51,5 @@
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 29-01-2023 |   0 |       | Bottling day. |
-|   1 | 23-03-2023 |  53 |  0.5  | Served @ 18.8 C. Gusher, acidic, gunks of hop. Not a good one. Plonk beer. |
-|   2 | 29-12-2023 | 334 |  0.5  | Served @ 16.7 C. Gusher, acidic, gunks of hop. Not a good one. Plonk beer. |
+|   1 | [23-03-2023](20230323_Batch_28_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress_BJCP_Scoresheet-1_2.pdf) |  53 |  0.5  | Served @ 18.8 C. Gusher, acidic, gunks of hop. Not a good one. Plonk beer. |
+|   2 | [29-12-2023](20231229_Batch_28_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress_BJCP_Scoresheet-2_2.pdf) | 334 |  0.5  | Served @ 16.7 C. Gusher, acidic, gunks of hop. Not a good one. Plonk beer. |
