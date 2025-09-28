@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -52,5 +52,5 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 05-02-2023 |     |       | Brew day. |
 |     | 19-02-2023 |   0 |       | Bottling day. |
-|   1 | 24-06-2023 | 125 | 3.0   | Served @ 12.1 C. Clear, foamy head, moderate lacing, hints of berries, malty, moderate mouthfeel. |
+|   1 | [24-06-2023](20230624_Batch_32_AnOtter_Bodged_Bitter_v3_BJCP_Scoresheet-1_2.pdf) | 125 | 3.0   | Served @ 12.1 C. Clear, foamy head, moderate lacing, hints of berries, malty, moderate mouthfeel. |
 |   2 |            |     |       |  |
