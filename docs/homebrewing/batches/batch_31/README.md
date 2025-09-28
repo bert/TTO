@@ -14,8 +14,6 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -51,5 +51,5 @@
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 19-02-2023 |   0 |       | Bottling day. |
-|   1 | 08-06-2023 | 109 | 3.0   | Served @ 13.4 C. Clear, foamy head, good lacing, hints of berries, malty, moderate mouthfeel. |
+|   1 | [08-06-2023](20230608_Batch_31_AnOtter_Bodged_Bitter_v2_BJCP_Scoresheet-1_2.pdf) | 109 | 3.0   | Served @ 13.4 C. Clear, foamy head, good lacing, hints of berries, malty, moderate mouthfeel. |
 |   2 | 19-07-2024 | 516 | 3.0   | Served @ 16.5 C. Clear, small foamy head, poor lacing, sweet, malty, bitter, hoppy, moderate mouthfeel. |
