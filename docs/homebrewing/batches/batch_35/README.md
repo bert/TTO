@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -52,5 +52,5 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 30-04-2023 |     |       | Brew day. |
 |     | 12-05-2023 |   0 |       | Bottling day. |
-|   1 | 18-11-2023 | 190 |  3.0  | Served @ 17.1 C. Clear, no foamy head, no moderate lacing. Clean, fruity, hoppy. |
+|   1 | [18-11-2023](20231118_Batch_35_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings_v2_BJCP_Scoresheet-1_2.pdf) | 190 |  3.0  | Served @ 17.1 C. Clear, no foamy head, no moderate lacing. Clean, fruity, hoppy. |
 |   2 |            |     |       |  |
