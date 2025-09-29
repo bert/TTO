@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -59,8 +59,8 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 30-04-2023 |     |       | Brew day. |
 |     | 12-05-2023 |   0 |       | Bottling day. |
-|   1 | 29-06-2023 |  48 | 3.0   | Served @ 18.4 C. Clear, foamy head, moderate lacing, malty, fruity, moderate mouthfeel. |
-|   2 | 30-11-2024 | 568 | 3.0   | Served @ 17.5 C. Hazy, foamy head, moderate lacing, malty, fruity, moderate mouthfeel. Stirred up yeast. |
+|   1 | [29-06-2023](20230629_Batch_33_SMaSH_Fuggle_v2_BJCP_Scoresheet-1_8.pdf) |  48 | 3.0   | Served @ 18.4 C. Clear, foamy head, moderate lacing, malty, fruity, moderate mouthfeel. |
+|   2 | [30-11-2024](20241130_Batch_33_SMaSH_Fuggle_v2_BJCP_Scoresheet-2_8.pdf) | 568 | 3.0   | Served @ 17.5 C. Hazy, foamy head, moderate lacing, malty, fruity, moderate mouthfeel. Stirred up yeast. |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
