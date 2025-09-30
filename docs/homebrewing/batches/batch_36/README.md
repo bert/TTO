@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
@@ -27,6 +25,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -62,10 +62,10 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 04-07-2023 |   0 |       | Bottling day. |
-|   1 | 29-07-2023 |  25 | 3.00  | Served @ 20.1 C. Cloudy, small foamy head, good lacing, malty, tart, Juniper flavor. |
+|   1 | [29-07-2023](20230729_Batch_36_Juniper_Ascending_BJCP_Scoresheet-1_10.pdf) |  25 | 3.00  | Served @ 20.1 C. Cloudy, small foamy head, good lacing, malty, tart, Juniper flavor. |
 |   2 | 09-12-2023 | 158 | 3.00  | Served @ 19.6 C. Cloudy, small foamy head, good lacing, malty, tart, Juniper flavor. |
-|   3 | 26-05-2024 | 327 | 2.50  | Served @ 16.7 C. Hazy, no foam, tart, Juniper flavor. |
-|   4 | 06-07-2024 | 368 | 1.50  | Served @ 17.4 C. Clear, no foam, acidic, Juniper flavor. |
+|   3 | [26-05-2024](20240526_Batch_36_Juniper_Ascending_BJCP_Scoresheet-3_10.pdf) | 327 | 2.50  | Served @ 16.7 C. Hazy, no foam, tart, Juniper flavor. |
+|   4 | [06-07-2024](20240706_Batch_36_Juniper_Ascending_BJCP_Scoresheet-4_10.pdf) | 368 | 1.50  | Served @ 17.4 C. Clear, no foam, acidic, Juniper flavor. |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
