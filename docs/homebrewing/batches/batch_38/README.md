@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
@@ -27,6 +25,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -56,6 +56,6 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 26-06-2023 |     |       | Brew day. |
 |     | 04-07-2023 |   0 |       | Bottling day. |
-|   1 | 03-08-2023 |  30 | 3.00  | Served @ 18.6 C. Hazy, small head, moderate lacing, malty, tart, strong Juniper flavor. |
+|   1 | [03-08-2023](20230803_Batch_38_Juniper_Ascending_v3_BJCP_Scoresheet-1_3.pdf) |  30 | 3.00  | Served @ 18.6 C. Hazy, small head, moderate lacing, malty, tart, strong Juniper flavor. |
 |   2 |            |     |       |  |
 |   3 |            |     |       |  |
