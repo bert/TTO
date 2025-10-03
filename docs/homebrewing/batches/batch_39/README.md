@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
@@ -25,6 +23,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -60,12 +60,12 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 02-10-2023 |   0 |       | Bottling day. |
-|   1 | 02-05-2024 | 213 | 3.50  | Served @ 23.2 C. Clear, small foamy head, good lacing, hoppy, fruity, berries, strong. |
-|   2 | 10-08-2024 | 313 | 3.50  | Served @ 20.0 C. Clear, small foamy head, good lacing, hoppy, fruity, berries, strong. |
+|   1 | [02-05-2024](20240502_Batch_39_Wet_Hops_Blonde_Ale_Willamette_v2_2023_BJCP_Scoresheet-1_11.pdf) | 213 | 3.50  | Served @ 23.2 C. Clear, small foamy head, good lacing, hoppy, fruity, berries, strong. |
+|   2 | [10-08-2024](20240810_Batch_39_Wet_Hops_Blonde_Ale_Willamette_v2_2023_BJCP_Scoresheet-2_11.pdf) | 313 | 3.50  | Served @ 20.0 C. Clear, small foamy head, good lacing, hoppy, fruity, berries, strong. |
 |   3 | 26-10-2024 | 390 |  | Tasting by EV pending. |
 |   4 | 14-12-2024 | 439 | 3.25  | Served @ 19.2 C. Clear, small foamy head, good lacing, hoppy, fruity, berries. |
-|   5 |  |  |  |  |
-|   6 |  |  |  |  |
+|   5 | 26-05-2025 | 602 | 3.50  | Served @ 17.0 C. Clear, small foamy head, good lacing, hoppy, fruity, berries. |
+|   6 | 28-06-2025 | 635 | 3.50  | Served @ 18.2 C. Clear, small foamy head, good lacing, hoppy, fruity, berries. |
 |   7 |  |  |  |  |
 |   8 |  |  |  |  |
 |   9 |  |  |  |  |
