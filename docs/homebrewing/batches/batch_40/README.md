@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
@@ -23,6 +21,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -57,7 +57,7 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 30-09-2024 |   0 |       | Bottling day. |
-|   1 | 23-11-2024 |  53 | 3.0   | Served at 17.7 C. Light bodied, grainy, biscuity. |
+|   1 | [23-11-2024](20241123_Batch_40_Wet_Hops_Blonde_Ale_Willamette_v2_2024_BJCP_Scoresheet-1_15.pdf) |  53 | 3.0   | Served at 17.7 C. Light bodied, grainy, biscuity. |
 |   2 |  |  |  |  |
 |   3 |  |  |  |  |
 |   4 |  |  |  |  |
