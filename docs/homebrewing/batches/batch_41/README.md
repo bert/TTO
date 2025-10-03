@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
@@ -25,6 +23,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -60,7 +60,7 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 15-12-2024 |   0 |       | Bottling day. |
-|   1 | 26-01-2025 |  42 | 3.25  | Served at 18.8 C, low carbonation, decent head, good lacing,strong, grainy, biscuity, low on hops. |
+|   1 | [26-01-2025](20250126_Batch_41_Refuse_Resist_Ukrainian_Golden_Ale_BJCP_Scoresheet-1_9.pdf) |  42 | 3.25  | Served at 18.8 C, low carbonation, decent head, good lacing,strong, grainy, biscuity, low on hops. |
 |   2 | 16-03-2025 |     |       | Send to Clibit for evaluation. |
 |   3 | 16-03-2025 |     |       | Send to Clibit for evaluation. |
 |   4 |  |  |  |  |
