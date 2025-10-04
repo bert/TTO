@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
@@ -25,6 +23,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -53,6 +53,6 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 13-12-2024 |   0 |       | Bottling day. |
-|   1 | 06-03-2025 |  83 |  3.25 | Partly filled bottle. Biscuity, strong, slight hint of Coriander. Low carbonation. |
+|   1 | [06-03-2025](20250306_Batch_42_Refuse_Resist_Ukrainian_Golden_Ale_v2_BJCP_Scoresheet-1_3.pdf) |  83 |  3.25 | Partly filled bottle. Biscuity, strong, slight hint of Coriander. Low carbonation. |
 |   2 |  |  |  |  |
 |   3 |  |  |  |  |
