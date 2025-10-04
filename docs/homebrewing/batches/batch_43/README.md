@@ -1,4 +1,4 @@
-# Batch #42 - Refuse/Resist (Ukrainian Golden Ale) v2
+# Batch #43 - Refuse/Resist (Ukrainian Golden Ale) v3
 
 ## Milestones
 
@@ -8,13 +8,13 @@
 
 13-12-2014 17:14 Start conditioning.
 
-Completed conditioning.
+24-01-2025 23:59 Completed conditioning.
 
 Archived.
 
 ## Process
 
-![temperature](temperature.png)
+![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
 
@@ -23,6 +23,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -51,6 +53,6 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 13-12-2024 |   0 |       | Bottling day. |
-|   1 |  |  |  |  |
+|   1 | [30-03-2025](20250330_Batch_43_Refuse_Resist_Ukrainian_Golden_Ale_v3_BJCP_Scoresheet-1_3.pdf) | 107 |   3.0 | Strong, dry, carbonated. |
 |   2 |  |  |  |  |
 |   3 |  |  |  |  |
