@@ -14,8 +14,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
@@ -25,6 +23,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
@@ -52,6 +52,6 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 14-04-2025 |   0 |       | Bottling day. |
-|   1 | 09-05-2025 |  25 | 3.5   | Chocolate, bitter, clean. |
+|   1 | [09-05-2025](20250509_Batch_46_AnOtter Chocolate Caramel Biscuit_v3_BJCP_Scoresheet-1_3.pdf) |  25 | 3.5   | Chocolate, bitter, clean. |
 |   2 |            |     |       | . |
 |   3 |            |     |       | . |
