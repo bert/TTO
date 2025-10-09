@@ -54,7 +54,7 @@
 
 - Batch #10 Three Hops Blonde
 
- -Batch #11 SMaSH Magnum
+- Batch #11 SMaSH Magnum
 
 <hr>
 
@@ -196,12 +196,42 @@
 
 <hr>
 
-## Planned:
+## 06-07-2025:
 
 - Batch #47 Bock Dich, Befehl Ich Dir
 
 - Batch #48 Bock Dich, Befehl Ich Dir v2
 
 - Batch #49 Bock Dich, Befehl Ich Dir v3
+
+<hr>
+
+## Planned 05-10-2025:
+
+- Batch #50 SMaSH Godiva v3
+
+- Batch #51 Two Pints and a Packet of Hops (Godiva and Goldings)
+
+- Batch #52 Two Pints and a Packet of Hops (Godiva and Bramling-X)
+
+<hr>
+
+## Planned 29-12-2025:
+
+- Batch #53 SMaSH HBC 431
+
+- Batch #54 Three Hops APA
+
+- Batch #55 Three Hops APA v2
+
+<hr>
+
+## Planned 15-03-2026
+
+- Batch #56 AnOtter East Kentish Old Ale
+
+- Batch #57 AnOtter East Kentish Old Ale v2
+
+- Batch #58 AnOtter East Kentish Old Ale v3
 
 <hr>
