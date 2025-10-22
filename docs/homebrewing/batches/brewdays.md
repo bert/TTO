@@ -206,7 +206,7 @@
 
 <hr>
 
-## Planned 05-10-2025:
+## 05-10-2025:
 
 - Batch #50 SMaSH Godiva v3
 
