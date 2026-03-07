@@ -216,7 +216,7 @@
 
 <hr>
 
-## Planned 29-12-2025:
+## Planned:
 
 - Batch #53 SMaSH HBC 431
 
@@ -226,7 +226,7 @@
 
 <hr>
 
-## Planned 15-03-2026
+## Planned:
 
 - Batch #56 AnOtter East Kentish Old Ale
 
