@@ -10,7 +10,7 @@
 
 02-04-2023 23:59 Completed conditioning.
 
-Archived.
+07-03-2026 19:50 Archived.
 
 ## Process
 
@@ -48,9 +48,9 @@ Archived.
 
 ## Tasting notes
 
-| No. | Date       | Age | Score | Notes |
-|-----|------------|-----|-------|-------|
-|     | 05-02-2023 |     |       | Brew day. |
-|     | 19-02-2023 |   0 |       | Bottling day. |
+| No. | Date       | Age  | Score | Notes |
+|-----|------------|------|-------|-------|
+|     | 05-02-2023 |      |       | Brew day. |
+|     | 19-02-2023 |   0  |       | Bottling day. |
 |   1 | [24-06-2023](20230624_Batch_32_AnOtter_Bodged_Bitter_v3_BJCP_Scoresheet-1_2.pdf) | 125 | 3.0   | Served @ 12.1 C. Clear, foamy head, moderate lacing, hints of berries, malty, moderate mouthfeel. |
-|   2 |            |     |       |  |
+|   2 | 07-03-2026 | 1112 |   2.5 | Clean, malty, watery. |
