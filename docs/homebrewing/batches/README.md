@@ -10,6 +10,8 @@
 
 [Batches 41 - 50](Batches_41-50.md)
 
+[Batches 51 - 60](Batches_51-60.md)
+
 ![Milestones](graphs/milestones.png)
 
 [More Graphs](graphs/README.md)
