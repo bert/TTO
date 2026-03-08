@@ -10,7 +10,7 @@
 
 26-02-2022 19:07 Completed conditioning.
 
-Archived.
+22-02-2026 09:56 Archived.
 
 ## Process
 
@@ -65,5 +65,5 @@ Archived.
 |   3 | 03-06-2022 |  139 |  0    | Gusher. Used for specific gravity and pH measurements. |
 |   4 | 10-09-2022 |  238 |  0    | Gusher. |
 |   5 | 10-08-2025 | 1303 |  0.25 | Sour, past its time ... ditched. |
-|   6 |            |      |       |  |
-|   7 |            |      |       |  |
+|   6 | 21-02-2026 | 1498 |  0.25 | Sour, past its time ... ditched. |
+|   7 | 22-02-2026 | 1499 |       | Damaged bottle, disposed. |
