@@ -1,5 +1,6 @@
 # Batch #21: The Thirsty Otter - Never Give Up! v3
 #
-#Age  pH    Temp  Remarks  (Age in days, 0 = bottling day)
-   0  4.28  19.2
-  83  4.24  14.8
+#Age   pH    Temp  Remarks  (Age in days, 0 = bottling day)
+    0  4.28  19.2
+   83  4.24  14.8
+ 1206  4.28  18.2

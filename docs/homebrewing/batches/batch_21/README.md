@@ -10,7 +10,7 @@
 
 02-09-2022 23:59 Completed conditioning.
 
-Archived.
+09-11-2025 19:20 Archived.
 
 ## Process
 
@@ -48,8 +48,8 @@ Archived.
 
 ## Tasting notes
 
-| No. | Date       | Age | Score | Notes |
-|-----|------------|-----|-------|-------|
-|     | 22-07-2022 |   0 |       | Bottling day. |
-|   1 | [13-10-2022](20221013_Batch_21_Never_Give_Up_v3_BJCP_Scoresheet-1_2.pdf) |  83 | 3.0   | Served at 14.8 C. Strong, full, warm, hoppy. Low carbonation. |
-|   2 |            |     |       |  |
+| No. | Date       | Age  | Score | Notes |
+|-----|------------|------|-------|-------|
+|     | 22-07-2022 |   0  |       | Bottling day. |
+|   1 | [13-10-2022](20221013_Batch_21_Never_Give_Up_v3_BJCP_Scoresheet-1_2.pdf) |   83 | 3.0   | Served at 14.8 C. Strong, full, warm, hoppy. Low carbonation. |
+|   2 | 09-11-2025 | 1206 |  2.5  | Served at 18.2 C. Strong, boozy, thin , watery.  |
