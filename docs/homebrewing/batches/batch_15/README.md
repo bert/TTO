@@ -71,7 +71,7 @@ Archived.
 |   7 | 07-01-2023 |  468 |  2.50 | Served @ 16 C. Light, thin and malty, slight hints of hops, medium carbonation. Clean and crisp.|
 |   8 | 29-04-2023 |  580 |  2.50 | Served @ 17 C. Light, thin and malty, no hints of hops, highly carbonated. Clean and crisp. |
 |   9 | 20-09-2025 | 1455 |  2.00 | Light, watery, thin and malty, no hints of hops, highly carbonated. Clean and crisp. |
-|  10 |            |      |       |  |
+|  10 | 21-02-2026 | 1609 |  2.50 | Light, thin and malty, no hints of hops, light carbonation. Boozy. Clean and crisp. |
 |  11 |            |      |       |  |
 |  12 |            |      |       |  |
 |  13 |            |      |       |  |
