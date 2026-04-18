@@ -1,6 +1,6 @@
 ![logo](AnOtter_Bodged_Bitter.jpeg)
 
-# AnOtter Bodged Bitter
+# AnOtter Bodged Bitter v1
 
 Style: Ordinary Bitter
 
