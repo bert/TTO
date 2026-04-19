@@ -1,3 +1,5 @@
+![logo](./Brouwpunt_Sinterklaas_Special.jpeg)
+
 # Brouwpunt - Sinterklaas Special
 
 Style: 30B Autumn Seasonal Beer
