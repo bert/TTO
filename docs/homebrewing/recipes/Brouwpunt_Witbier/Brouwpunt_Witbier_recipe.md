@@ -1,3 +1,5 @@
+![logo](Brouwpunt_Witbier.jpeg)
+
 # Brouwpunt - Witbier
 
 Style: 24A Witbier
@@ -16,13 +18,23 @@ Batch size: 5 L
 
 ## Mash
 
+Source profile: NL Hoofddorp Rein Tap Water (2020-Q1 WQR)
+
+Target profile: Mild Ale Profile
+
+| Ca 2+ | Mg 2+ | Na + | Cl - | SO4 2- | HCO3 |     |
+|-------|-------|------|------|--------|------|-----|
+| 50    | 9     | 67   | 15   | 44     | 178  | ppm |
+
+Mash pH: 6.01 (too high because of using tap water and no addition of water agents)
+
 Strike temperature @ 73.3 C
 
 60 minutes @ 67 C
 
-630 grams Brouwpunt Pilsen malt
+630 grams Brouwpunt Pilsen malt (pre-milled, pre-mixed)
 
-630 grams Brouwpunt Wheat malt
+630 grams Brouwpunt Wheat malt (pre-milled, pre-mixed)
 
 ## Boil
 
