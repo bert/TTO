@@ -53,6 +53,6 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     |            |   0 |       | Bottling day. |
-|   1 |            |     |       | . |
+|   1 | 02-11-2025 |  93 | 3.25  | Sweet, malty, strong, grassy, floral. |
 |   2 |            |     |       | . |
 |   3 |            |     |       | . |
