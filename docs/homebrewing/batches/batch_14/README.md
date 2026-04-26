@@ -74,4 +74,4 @@
 |  10 | [28-04-2023](20230428_Batch_14_SMaSH_Sabro_BJCP_Scoresheet-10_13.pdf) | 614 |  3.25 | Served at 17 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity. |
 |  11 | 19-05-2023 | 635 |  3.25 | Served at 13 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity. |
 |  12 | [24-11-2024](20241124_Batch_14_SMaSH_Sabro_BJCP_Scoresheet-12_13.pdf) | 1190 | 3.25 | Served at 20.3 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity. |
-|  13 | [19-09-2025](20250919_Batch_14_SMaSH Sabro_BJCP_Scoresheet-13_13.pdf) | 1489 | 3.75 |Good head of white foam, good lacing. Sweet, hoppy, grapefruity, grassy, dry. |
+|  13 | [19-09-2025](20250919_Batch_14_SMaSH_Sabro_BJCP_Scoresheet-13_13.pdf) | 1489 | 3.75 |Good head of white foam, good lacing. Sweet, hoppy, grapefruity, grassy, dry. |
