@@ -28,7 +28,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch__results.pdf)
+[Results](Batch_42_Refuse_Resist_Ukrainian_Golden_Ale_v2_results.pdf)
 
 ### Evaluation
 
@@ -54,5 +54,5 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 13-12-2024 |   0 |       | Bottling day. |
 |   1 | [06-03-2025](20250306_Batch_42_Refuse_Resist_Ukrainian_Golden_Ale_v2_BJCP_Scoresheet-1_3.pdf) |  83 |  3.25 | Partly filled bottle. Biscuity, strong, slight hint of Coriander. Low carbonation. |
-|   2 |  |  |  |  |
+|   2 | [02-05-2026](20260502_Batch_42_Refuse_Resist_Ukrainian_Golden_Ale_v2_BJCP_Scoresheet-2_3.pdf) | 505 | 3.5 | Biscuity, strong, fruity, hint of Coriander. |
 |   3 |  |  |  |  |
