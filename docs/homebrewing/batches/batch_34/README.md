@@ -51,5 +51,5 @@
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 12-05-2023 |   0 |       | Bottling day. |
-|   1 | 15-09-2023 | 126 | 3.5   | Served @ 14.7 C. Clear, foamy head, moderate lacing. Clean, hoppy, malty, fruity, moderate mouthfeel. |
-|   2 | 13-09-2025 | 855 | 0.5   | Soapy. Past its best. Plonk beer. |
+|   1 | [15-09-2023](20230915_Batch_34_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress_v2_BJCP_Scoresheet-1_2.pdf) | 126 | 3.5   | Served @ 14.7 C. Clear, foamy head, moderate lacing. Clean, hoppy, malty, fruity, moderate mouthfeel. |
+|   2 | [13-09-2025](20250913_Batch_34_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress_v2_BJCP_Scoresheet-2_2.pdf) | 855 | 0.5   | Soapy. Past its best. Plonk beer. |
