@@ -1,5 +1,7 @@
 # Batch #8 - SMaSH Simcoe
 
+![photo](photo.jpg)
+
 ## Milestones
 
 04-04-2021 10:38 Start brewing.
