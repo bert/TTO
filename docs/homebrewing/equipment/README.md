@@ -12,3 +12,4 @@
 
 [12L Pot](pot_12L/README.md)
 
+[AnOtter Square 8L Fermenter](AnOtter_Square/README.md)
