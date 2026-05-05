@@ -1,5 +1,7 @@
 # Batch #9 - SMaSH Simcoe v2
 
+![photo](photo.jpg)
+
 ## Milestones
 
 04-04-2021 10:38 Start brewing.
