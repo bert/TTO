@@ -1,5 +1,7 @@
 # Batch #12 - AnOtter Apple Cider
 
+![photo](photo.jpg)
+
 ## Milestones
 
 06-06-2021 14:27 Start brewing.
