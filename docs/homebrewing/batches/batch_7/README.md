@@ -1,5 +1,7 @@
 # Batch #7 - SMaSH Citra
 
+![photo](photo.jpg)
+
 ## Milestones
 
 06-03-2021 09:42 Start brewing.
