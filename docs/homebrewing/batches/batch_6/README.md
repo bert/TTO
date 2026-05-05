@@ -1,5 +1,7 @@
 # Batch #6 - Brouwpunt - Sinterklaas Special
 
+![photo](photo.jpg)
+
 ## Milestones
 
 06-12-2020 11:43 Start brewing.
