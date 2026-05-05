@@ -1,5 +1,6 @@
 # Batch #3 - SMaSH Godiva
 
+![photo](photo.jpg)
 ## Milestones
 
 06-09-2020 09:30 Start brewing.
