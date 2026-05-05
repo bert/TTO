@@ -1,5 +1,7 @@
 # Batch #13 - AnOtter Perry Cider
 
+![photo](photo.jpg)
+
 ## Milestones
 
 04-07-2021 14:51 Start brewing.
