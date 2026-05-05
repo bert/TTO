@@ -1,5 +1,7 @@
 # Batch #14 - SMaSH Sabro
 
+![photo](photo.jpg)
+
 ## Milestones
 
 08-08-2021 11:59 Start brewing.
