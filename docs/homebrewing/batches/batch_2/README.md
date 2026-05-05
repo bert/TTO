@@ -1,5 +1,7 @@
 # Batch #2 - Brouwpunt - Kruidig Wit
 
+![photo](photo.jpg)
+
 ## Milestones
 
 04-07-2020 10:35 Start Brewing.
