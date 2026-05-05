@@ -1,5 +1,7 @@
 # Batch #4 - SMaSH Fuggle
 
+![photo](photo.jpg)
+
 ## Milestones
 
 24-10-2020 12:00 Start brewing.
