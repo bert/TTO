@@ -1,5 +1,7 @@
 # Batch #5 - SMaSH Centennial
 
+![photo](photo.jpg)
+
 ## Milestones
 
 21-11-2020 10:10 Start brewing.
