@@ -1,5 +1,7 @@
 # Batch #15 - Wet Hops Blonde Ale (Chinook)
 
+![photo](photo.jpg)
+
 ## Milestones
 
 12-09-2021 10:32 Start brewing.
