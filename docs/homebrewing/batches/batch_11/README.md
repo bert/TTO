@@ -1,5 +1,7 @@
 # Batch #11 - SMaSH Magnum
 
+![photo](photo.jpg)
+
 ## Milestones
 
 02-05-2021 08:47 Start brewing.
