@@ -1,4 +1,6 @@
-# [The Malt Miller 12 L brew pot](https://www.themaltmiller.co.uk/product/12-litre-stainless-steel-pot/)
+# [The Malt Miller 12L brew pot](https://www.themaltmiller.co.uk/product/12-litre-stainless-steel-pot/)
+
+![photo](photo.jpeg)
 
 12 litre stainless steel pot with lid suitable for conversion to a boiler or hot liquor tun.
 
