@@ -1,5 +1,7 @@
 # Batch #1 - Brouwpunt - Witbier
 
+![photo](photo.jpg)
+
 ## Milestones
 
 21-05-2020 11:00 Start brewing
@@ -24,7 +26,7 @@
 
 ![temperature](temperature.png)
 
-[Results](./Batch_1_Brouwpunt_Witbier_results.pdf)
+[Results](Batch_1_Brouwpunt_Witbier_results.pdf)
 
 ## Evaluation
 
