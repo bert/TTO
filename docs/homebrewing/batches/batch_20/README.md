@@ -1,5 +1,11 @@
 # Batch #20 - Never Give Up! v2
 
+![photo](photo.jpg)
+
+Batch #20 is a Belgian Golden Strong Ale brewed with Pilsner Malt, Saaz hops
+and dry hopped with Cascade.
+Fermented with Lallemand Abbaye yeast.
+
 ## Milestones
 
 03-07-2022 10:29 Start brewing.
