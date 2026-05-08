@@ -2,6 +2,10 @@
 
 ![photo](photo.jpg)
 
+Batch #11 is a SMaSH Blonde Ale brewed with Thomas Fawcett Maris Otter Pale Ale
+Malt and Magnum pellet hops.
+Fermented with Fermentis US-05 yeast.
+
 ## Milestones
 
 02-05-2021 08:47 Start brewing.
