@@ -1,5 +1,11 @@
 # Batch #21 - Never Give Up! v3
 
+![photo](photo.jpg)
+
+Batch #21 is a Belgian Golden Strong Ale brewed with Pilsner Malt, Saaz hops and
+dry hopped with Saaz.
+Fermented with Lallemand Abbaye yeast.
+
 ## Milestones
 
 03-07-2022 10:29 Start brewing.
