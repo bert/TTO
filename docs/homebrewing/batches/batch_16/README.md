@@ -1,5 +1,12 @@
 # Batch #16 - Shameless Magpied Summer Ale 
 
+![photo](photo.jpg)
+
+Batch #16 is a Blonde Ale brewed with Bestmalz Pale Ale and Weyermann Carapils
+malts, late kettle Centennial and Citra hops, and dry hopped with Centennial
+and Citra hops.
+Fermented with Fermentis US-05 yeast.
+
 ## Milestones
 
 28-12-2021 11:00 Start brewing.
