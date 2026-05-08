@@ -2,6 +2,9 @@
 
 ![photo](photo.jpg)
 
+Batch #13 is a Perry cider made with pear juice from "De Olmenhorst" orchards.
+Fermented with Mangrove Jack's Cider yeast. 
+
 ## Milestones
 
 04-07-2021 14:51 Start brewing.
