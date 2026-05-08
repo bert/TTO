@@ -2,6 +2,10 @@
 
 ![photo](photo.jpg)
 
+Batch #5 is a single malt and single hop American Pale Ale with Thomas Fawcett
+Maris Otter Pale Ale malt and Centennial hops.
+Fermented with Lallemand New England yeast.
+
 ## Milestones
 
 21-11-2020 10:10 Start brewing.
