@@ -1,5 +1,10 @@
 # Batch #19 - Never Give Up!
 
+![photo](photo.jpg)
+
+Batch #19 is a Belgian Golden Strong Ale brewed with Pilsner Malt, Saaz hops.
+Fermented with Lallemand Abbaye yeast.
+
 ## Milestones
 
 03-07-2022 10:29 Start brewing.
