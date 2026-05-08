@@ -2,6 +2,10 @@
 
 ![photo](photo.jpg)
 
+Batch #14 is a single malt and single hops American IPA with Thomas Fawcett
+Golden Promise Pale Ale malt and Sabro hops.
+Fermented with Lallemand New England yeast.
+
 ## Milestones
 
 08-08-2021 11:59 Start brewing.
