@@ -2,6 +2,10 @@
 
 ![photo](photo.jpg)
 
+Batch #15 is a blonde ale with late addition fresh Chinook hop cones, and
+Brewferm Pale Ale, Pils and Wheat malts.
+Fermented with Fermentis S-04 yeast.
+
 ## Milestones
 
 12-09-2021 10:32 Start brewing.
