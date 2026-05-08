@@ -2,6 +2,10 @@
 
 ![photo](photo.jpg)
 
+Batch #10 is a Blond Ale brewed with Thomas Fawcett Maris Otter Pale Ale Malt
+and Magnum, Citra and Centennial pellet hops.
+Fermented with Fermentis S-04 English Ale yeast.
+
 ## Milestones
 
 02-05-2021 08:47 Start brewing.
