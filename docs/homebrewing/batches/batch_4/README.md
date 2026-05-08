@@ -2,6 +2,10 @@
 
 ![photo](photo.jpg)
 
+Batch #4 is a single malt and single hops British Golden Ale with Crisp Extra
+Pale Maris Otter malt and Fuggle hops.
+Fermented with Neale's Brewing Supplies Classic English Ale yeast.
+
 ## Milestones
 
 24-10-2020 12:00 Start brewing.
