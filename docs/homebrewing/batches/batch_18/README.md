@@ -1,5 +1,12 @@
 # Batch #18 - Three Hops Blonde v3
 
+![photo](photo.jpg)
+
+Batch #18 is a blonde ale brewed with Bestmalz Pale Ale and Weyermann Carapils
+malts, late kettle Centennial and Citra hops, and dry hopped with Mosaic,
+Centennial and Citra hops.
+Fermented with Fermentis US-05 yeast.
+
 ## Milestones
 
 28-12-2021 11:00 Start brewing.
