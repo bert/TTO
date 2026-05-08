@@ -1,5 +1,12 @@
 # Batch #17 - Three Hops Blonde v2
 
+![photo](photo.jpg)
+
+Batch #17 is a blonde ale brewed with Bestmalz Pale Ale and Weyermann Carapils
+malts, late kettle Centennial and Citra hops, and dry hopped with HBC 431,
+Centennial and Citra hops.
+Fermented with Lallemand New England yeast.
+
 ## Milestones
 
 28-12-2021 11:00 Start brewing.
