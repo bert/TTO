@@ -1,5 +1,11 @@
 # Batch #22 - Wet Hops Blonde (Bramling-X)
 
+![photo](photo.jpg)
+
+Batch #22 is a blonde ale with late addition fresh homegrown Bramling-X hop
+cones, and Brewferm Pale Ale, Pils and Wheat malts.
+Fermented with Fermentis S-04 yeast.
+
 ## Milestones
 
 04-09-2022 08:59 Start brewing.
