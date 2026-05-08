@@ -1,6 +1,11 @@
 # Batch #3 - SMaSH Godiva
 
 ![photo](photo.jpg)
+
+Batch #3 is a single malt and single hops British Golden Ale with Thomas Fawcett
+Maris Otter Pale Ale malt and Godiva hops.
+Fermented with Lallemand Nottingham yeast.
+
 ## Milestones
 
 06-09-2020 09:30 Start brewing.
