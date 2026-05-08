@@ -2,6 +2,9 @@
 
 ![photo](photo.jpg)
 
+Batch #12 is an Apple cider made with apple juice from "De Olmenhorst" orchards.
+Fermented with Mangrove Jack's Cider yeast.
+
 ## Milestones
 
 06-06-2021 14:27 Start brewing.
