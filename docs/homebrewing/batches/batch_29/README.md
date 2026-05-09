@@ -1,5 +1,11 @@
 # Batch #29 - Two Pints and a Packet of Hops (Godiva and East Kent Goldings)
 
+![photo](photo.jpg)
+
+Batch #29 is a British Golden Ale brewed with Muntons Maris Otter malt, and
+Godiva hop cones and East Kent Goldings hop pellets.
+Fermented with Lallemand Nottingham yeast.
+
 ## Milestones
 
 15-01-2023 10:20 Start brewing.
