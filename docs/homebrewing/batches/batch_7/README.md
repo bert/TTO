@@ -2,6 +2,10 @@
 
 ![photo](photo.jpg)
 
+Batch #7 is a SMaSH American Pale Ale brewed with Thomas Fawcett Maris Otter
+Pale Ale Malt and Citra pellet hops.
+Fermented with US-05 yeast.
+
 ## Milestones
 
 06-03-2021 09:42 Start brewing.
