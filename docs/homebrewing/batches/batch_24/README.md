@@ -1,5 +1,12 @@
 # Batch #24 - Five Pints of Best Fuggles
 
+![photo](photo.jpg)
+
+Batch #24 is a best bitter brewed with Simpson Low Colour Maris Otter, Crystal,
+Amber and Wheat Malts.
+Hopped with Fuggles hop cones.
+Fermented with Lallemand London Ale yeast.
+
 ## Milestones
 
 06-11-2022 09:40 Start brewing.
