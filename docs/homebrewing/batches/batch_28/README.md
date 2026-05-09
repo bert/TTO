@@ -1,5 +1,11 @@
 # Batch #28 - Two Pints and a Packet of Hops (Godiva and Progress)
 
+![photo](photo.jpg).
+
+Batch #28 is a British Golden Ale brewed with Muntons Maris Otter malt, and
+Godiva hop cones and Progress pellet hops.
+Fermented with Lallemand Nottingham yeast.
+
 ## Milestones
 
 15-01-2023 10:20 Start brewing.
