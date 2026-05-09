@@ -2,6 +2,12 @@
 
 ![photo](photo.jpg)
 
+Batch #6 is an Autumn seasonal beer brewed with Pale Ale malt, Pilsner malt,
+Cara 120 malt and sugar.
+East Kent Goldings hops.
+Nutmeg and clove spices, fermented with S-04 yeast.
+Brewed from a kit.
+
 ## Milestones
 
 06-12-2020 11:43 Start brewing.
