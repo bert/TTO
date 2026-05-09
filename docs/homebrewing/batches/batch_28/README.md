@@ -3,7 +3,7 @@
 ![photo](photo.jpg).
 
 Batch #28 is a British Golden Ale brewed with Muntons Maris Otter malt, and
-Godiva hop cones and Progress pellet hops.
+Godiva hop cones and Progress hop pellets.
 Fermented with Lallemand Nottingham yeast.
 
 ## Milestones
