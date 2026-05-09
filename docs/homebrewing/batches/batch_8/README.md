@@ -2,6 +2,10 @@
 
 ![photo](photo.jpg)
 
+Batch #8 is a SMaSH American Pale Ale brewed with Thomas Fawcett Maris Otter
+Pale Ale Malt and Simcoe pellet hops.
+Fermented with US-05 yeast.
+
 ## Milestones
 
 04-04-2021 10:38 Start brewing.
