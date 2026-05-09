@@ -1,5 +1,11 @@
 # Batch #23 - Wet Hops Blonde (Willamette)
 
+![photo](photo.jpg)
+
+Batch #23 is a blonde ale brewed with Brewferm Pale Ale, Pils and Wheat malts.
+Hopped with late addition fresh homegrown Willamette hop cones.
+Fermented with Fermentis S-04 yeast.
+
 ## Milestones
 
 18-09-2022 09:45 Start brewing.
