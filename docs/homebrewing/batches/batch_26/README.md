@@ -1,5 +1,12 @@
 # Batch #26 - Two Pints and a Packet of Hops (Fuggle and Progress)
 
+![photo](photo.jpg)
+
+Batch #26 is an ordinary bitter brewed with Simpson Low Colour Maris Otter,
+Crystal, Amber and Wheat Malts.
+Hopped with Fuggles cones and Progress pellets.
+Fermented with Lallemand London Ale yeast.
+
 ## Milestones
 
 06-11-2022 Start brewing.
