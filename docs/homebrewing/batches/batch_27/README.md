@@ -1,5 +1,11 @@
 # Batch #27 - SMaSH Godiva v2
 
+![photo](photo.jpg)
+
+Batch #27 is a single malt and single hop Golden Ale brewed with Muntons Maris
+Otter malt and Godiva hop cones.
+Fermented with Lallemand Nottingham yeast.
+
 ## Milestones
 
 15-01-2023 10:20 Start brewing.
