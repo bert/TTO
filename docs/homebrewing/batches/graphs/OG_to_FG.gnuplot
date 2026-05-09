@@ -1,5 +1,5 @@
 # general settings
-NUM_BATCHES = 60
+NUM_BATCHES = 55
 # setup graph
 set term png size ((NUM_BATCHES*25)+400),800
 output_file = "OG_to_FG.png"

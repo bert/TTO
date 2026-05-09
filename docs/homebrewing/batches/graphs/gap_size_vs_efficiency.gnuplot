@@ -15,7 +15,7 @@ set format x "%.1f"
 set xrange [0:3]
 set mxtics 5
 set grid x
-plot "gap_size_vs_efficiency.data" using 1:2:3 with points lc variable notitle
+plot "gap_size_vs_efficiency.data" using 1:2:4 with points lc variable notitle
 # set output back to default
 set output
 # reset terminal type

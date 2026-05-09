@@ -1,15 +1,16 @@
-# Gap size [mm]  Mash efficiency [%]  Batch comment
-1.91             70                   15    # Batch 15 Wet Hops Blonde Ale (Chinook)
-1.91             62                   19    # Batch 19 Never Give Up!
-1.91             65                   22    # Batch 22 Wet Hops Blonde (Bramling-X)
-1.91             61                   23    # Batch 23 Wet Hops Blonde (Willamette)
-1.91             52                   27    # Batch 27 SMaSH Godiva v2
-1.40             88                   30    # Batch 30 AnOtter Bodged Bitter
-1.14             68                   33    # Batch 33 SMaSH Fuggle v2
-1.14             59                   36    # Batch 36 Juniper Ascending
-1.14             66                   39    # Batch 39 Wet Hops Blonde (Willamette) v2 (2023)
-1.14             73                   40    # Batch 40 Wet Hops Blonde (Willamette) v2 (2024)
-1.14             74                   41    # Batch 41 Refuse/Resist (Ukrainian Golden Ale)
-0.89             82                   44    # Batch 44 AnOtter Chocolate Caramel Biscuit
-0.89             67                   47    # Batch 47 Bock Dich, Befehl Ich Dir
+# Gap size [mm]  Mash eff.[%]  Mash temp  Batch  Comment
+1.91             70            65         15     # Batch 15 Wet Hops Blonde Ale (Chinook)
+1.91             62            65         19     # Batch 19 Never Give Up!
+1.91             65            65         22     # Batch 22 Wet Hops Blonde (Bramling-X)
+1.91             61            65         23     # Batch 23 Wet Hops Blonde (Willamette)
+1.91             52            63         27     # Batch 27 SMaSH Godiva v2
+1.40             88            66         30     # Batch 30 AnOtter Bodged Bitter
+1.14             68            63         33     # Batch 33 SMaSH Fuggle v2
+1.14             59            67         36     # Batch 36 Juniper Ascending
+1.14             66            65         39     # Batch 39 Wet Hops Blonde (Willamette) v2 (2023)
+1.14             73            65         40     # Batch 40 Wet Hops Blonde (Willamette) v2 (2024)
+1.14             74            65         41     # Batch 41 Refuse/Resist (Ukrainian Golden Ale)
+0.89             82            66         44     # Batch 44 AnOtter Chocolate Caramel Biscuit
+0.89             67            54         47     # Batch 47 Bock Dich, Befehl Ich Dir
+0.89             67            66         50     # Batch 50 SMaSH Godiva v3
 # EOF #
