@@ -1,5 +1,7 @@
 # Batches
 
+[Brewdays](brewdays.md)
+
 [Batches 1 - 10](Batches_01-10.md)
 
 [Batches 11 - 20](Batches_11-20.md)
