@@ -1,5 +1,11 @@
 # Batch #33 - SMaSH Fuggle v2
 
+![photo](photo.jpg)
+
+Batch #33 is a single malt and single hop Golden Ale brewed with Muntons Maris
+Otter malt and Fuggle hop cones.
+Fermented with Fermentis S-04 English Ale yeast.
+
 ## Milestones
 
 30-04-2023 09:00 Start brewing.
