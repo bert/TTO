@@ -1,5 +1,13 @@
 # Batch #42 - Refuse/Resist (Ukrainian Golden Ale) v2
 
+![photo](photo.jpg)
+
+Batch #42 is an Ukrainian Golden Ale brewed with Castle Malting Pale Ale,
+Biscuit and Brewferm Wheat malts, Cascade and Saaz hops.
+To spice things up some ground Coriander was added in the last few minutes of
+the boil.
+Fermented with Fermentis S-04 yeast.
+
 ## Milestones
 
 25-11-2024 16:20 Start brewing.
