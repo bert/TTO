@@ -1,5 +1,13 @@
 # Batch #32 - AnOtter Bodged Bitter v3
 
+![photo](photo.jpg)
+
+Batch #32 is an ordinary bitter brewed with Muntons Mariris Otter malt, Brewferm
+pilsner malt, light brown sugar, Brewferm flaked maize, Castle Malting Chateau
+Crystal malt and Brewfem Wheat malt.
+Hopped with Bramling-X hop cones and East Kent Goldings hop pellets.
+Fermented with Lallemand Windsor yeast.
+
 ## Milestones
 
 05-02-2023 10:00 Start brewing.
