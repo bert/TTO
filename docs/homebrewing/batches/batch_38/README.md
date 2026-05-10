@@ -1,5 +1,10 @@
 # Batch #38 - Juniper Ascending v3
 
+![photo](photo.jpg)
+
+Batch #38 is a Norwegian farmhouse raw ale made with Brewferm Pale Ale Malt,
+Juniper berries, Saaz pellet hops and fermented with Lallemand Voss Kveik yeast.
+
 ## Milestones
 
 25-06-2023 12:00 Start brewing.
