@@ -1,5 +1,13 @@
 # Batch #41 - Refuse/Resist (Ukrainian Golden Ale)
 
+![photo](photo.jpg)
+
+Batch #41 is an Ukrainian Golden Ale brewed with Castle Malting Pale Ale,
+Biscuit and Brewferm Wheat malts, Cascade and Saaz hops.
+To spice things up some ground Coriander was added in the last few minutes of
+the boil.
+Fermented with Fermentis US-05 yeast.
+
 ## Milestones
 
 25-11-2024 10:45 Start brewing.
