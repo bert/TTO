@@ -1,5 +1,11 @@
 # Batch #39 - Wet Hops Blonde Ale (Willamette) v2
 
+![photo](photo.jpg)
+
+Batch #39 is a Blonde Ale brewed with Castle Malting Pale Ale, Brewferm Pils and
+Brewferm Wheat malts and late addition fresh homegrown Willamette hop cones.
+Fermented with Fermentis S-04 yeast.
+
 ## Milestones
 
 17-09-2023 11:30 Start brewing.
