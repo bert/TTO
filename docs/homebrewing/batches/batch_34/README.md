@@ -1,5 +1,12 @@
 # Batch #34 - Two Pints and a Packet of Hops (Fuggle and Progress) v2
 
+![photo](photo.jpg)
+
+Batch #34 is a British Golden Ale brewed with Muntons Maris Otter malt and
+Fuggle hop cones.
+Dry hopped with Progress hop pellets.
+Fermented with Fermentis S-04 English Ale yeast.
+
 ## Milestones
 
 30-04-2023 09:00 Start brewing.
