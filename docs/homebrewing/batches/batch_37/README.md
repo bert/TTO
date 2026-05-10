@@ -1,5 +1,11 @@
 # Batch #37 - Juniper Ascending v2
 
+![photo](photo.jpg)
+
+Brew #37 is a Norwegian farmhouse raw ale made with Brewferm Pale Ale Malt,
+a little bit more Juniper berries, Saaz pellet hops and fermented with Lallemand
+Voss Kveik yeast.
+
 ## Milestones
 
 25-06-2023 12:00 Start brewing.
