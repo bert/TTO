@@ -1,5 +1,11 @@
 # Batch #47 - Bock Dich, Befehl Ich Dir
 
+![photo](photo.jpg)
+
+Batch #47 is a Maibock brewed with Chateau Pilsen 2-row, Munch and Pale ale
+malts, Saaz kettle and late hops, Saaz aroma hops.
+Fermented with Fermentis W-34/70 Lager yeast.
+
 ## Milestones
 
 06-07-2025 Start brewing.
