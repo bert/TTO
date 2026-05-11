@@ -1,5 +1,12 @@
 # Batch #44 - AnOtter Chocolate Caramel Biscuit
 
+![photo](photo.jpg)
+
+Batch #44 is an English Porter Brewed with Castle Malting Pale Ale, Biscuit,
+Amber and Chocolate malts.
+Hopped with Bramling-X and East Kent Golding hops.
+Fermented with Fermentis S-04 English Ale yeast.
+
 ## Milestones
 
 28-03-2025 09:30 Start brewing.
@@ -8,7 +15,7 @@
 
 14-04-2025 11:08 Start conditioning.
 
-Completed conditioning.
+25-05-2025 16:30 Completed conditioning.
 
 Archived.
 
