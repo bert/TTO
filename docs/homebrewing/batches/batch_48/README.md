@@ -1,5 +1,12 @@
 # Batch #48 - Bock Dich, Befehl Ich Dir v2
 
+![photo](photo.jpg)
+
+Batch #48 is a Maibock brewed with Chateau Pilsen 2-row, Munch and Pale ale
+malts, Saaz kettle and late hops, Spalt Select aroma hops.
+Fermented with Fermentis W-34/70 Lager yeast.
+
+
 ## Milestones
 
 06-07-2025 14:46 Start brewing.
