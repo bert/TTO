@@ -1,4 +1,12 @@
+![logo](../../recipes/SMaSH_Godiva/SMaSH_Godiva.jpeg)
+
 # Batch #50 - SMaSH Godiva v3 
+
+![photo](photo.jpg)
+
+Batch #50 is a British Golden Ale brewed with Paul's Malt British Breeze - Maris
+Otter malt and Godiva hop cones.
+Fermented with Lallemand Nottingham yeast.
 
 ## Milestones
 
@@ -14,8 +22,6 @@ Archived.
 
 ## Process
 
-![temperature](temperature.png)
-
 ![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
@@ -25,6 +31,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
 
 ![bottled pH](bottled_ph.png)
 
