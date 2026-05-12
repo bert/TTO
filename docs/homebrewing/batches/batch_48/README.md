@@ -2,7 +2,7 @@
 
 ![photo](photo.jpg)
 
-Batch #48 is a Maibock brewed with Chateau Pilsen 2-row, Munch and Pale ale
+Batch #48 is a Maibock brewed with Chateau Pilsen 2-row, Munich and Pale Ale
 malts, Saaz kettle and late hops, Spalt Select aroma hops.
 Fermented with Fermentis W-34/70 Lager yeast.
 
