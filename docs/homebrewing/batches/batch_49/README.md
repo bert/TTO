@@ -1,5 +1,11 @@
 # Batch #49 - Bock Dich, Befehl Ich Dir v3
 
+![photo](photo.jpg)
+
+Batch #49 is a Maibock brewed with Chateau Pilsen 2-row, Munich and Pale Ale
+malts, Saaz kettle and late hops, Hallertau Hersbrucker aroma hops.
+Fermented with Fermentis W-34/70 Lager yeast.
+
 ## Milestones
 
 06-07-2025 09:44 Start brewing.
