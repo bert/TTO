@@ -13,7 +13,7 @@ A low OG of 1.035 and high attenuation gave the dryness yet the beer was
 not thin!
 </quote>
 
-Well, after some forum discussiona regarding colour being 6...8 or 14
+Well, after some forum discussions regarding colour being 6...8 or 14
 EBC, some last changes in the malt bill: Amber Malt (50 EBC) out and
 Crystal malt (150 EBC) in ... and sorting what gap to set the malt mill
 ... finaly got brewing.
